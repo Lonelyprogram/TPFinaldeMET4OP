@@ -1,0 +1,1001 @@
+Fecha,Encuesta,Estrato,Sexo,Edad,Nivel Educativo,Cantidad de Integrantes en el Hogar,Imagen del Candidato,Voto,Voto Anterior
+2025-08-18,259cff81-e5ce-4ca6-a068-21d6280a07ee,Medio,Masculino,53,Secundario completo,6,98.51825949392673,Candidato B,No votó
+2024-08-27,390a9016-cdec-45da-a00f-7753f217faac,Medio,Masculino,64,Primario incompleto,4,71.62718818171822,Candidato A,En blanco
+2025-06-12,3c9590d3-3e2a-4d3e-8222-134550de4292,Bajo,Femenino,30,Secundario incompleto,6,79.41425748030265,En blanco,En blanco
+2025-09-23,5f59aa2c-4a82-406a-af16-fb50c13e66af,Medio,Masculino,18,Secundario completo,3,77.27368710156219,No votó,Candidato B
+2024-09-23,dc68d4fd-0bd7-496f-a9c7-2e7b6b770df1,Alto,Masculino,20,Posgrado,6,81.05059332858887,Candidato A,En blanco
+2023-12-03,64d02759-0542-4d75-99e8-c82821da132c,Medio,Femenino,21,Terciario/Universitario incompleto,4,15.959645633346465,Candidato A,No votó
+2024-05-21,21cc14b3-12bd-475f-b3c1-61c313f2a37c,Medio,Femenino,26,Primario completo,2,60.55951832856259,Candidato B,Candidato A
+2024-12-03,6ab01563-8cff-4bb1-8ca4-9aaf6b944e09,Medio,Femenino,33,Terciario/Universitario incompleto,4,60.83176735665645,Candidato B,Candidato C
+2024-11-13,9750ca7e-246c-409c-ad28-508dbdaa3bfa,Medio,Femenino,46,Primario incompleto,6,87.40325716056958,Candidato C,Candidato B
+2024-09-11,5ac4b6c7-a310-44dd-8c4b-91fe6c148fc6,Medio,Masculino,73,Terciario/Universitario incompleto,4,43.790104073403114,En blanco,Candidato A
+2025-10-15,a1fdcdf1-71df-44d9-bf80-c31f15a5712c,Alto,Femenino,61,Terciario/Universitario incompleto,4,26.017090837511514,Candidato B,Candidato B
+2025-07-02,877a2133-f2ed-43e1-a315-59405e87905a,Bajo,Femenino,57,Primario incompleto,6,53.66216902500265,No votó,Candidato C
+2025-08-07,02284fd9-689b-4a65-a05d-d4d60ecfb95b,Alto,Femenino,32,Primario incompleto,5,49.36004659031832,Candidato C,No votó
+2024-06-24,e6b920da-ba6a-498f-b642-c8f36acf49eb,Bajo,Masculino,60,Terciario/Universitario incompleto,6,1.68272081673414,Candidato C,Candidato C
+2024-11-06,5f20f406-3438-44e4-b0f8-dd9952177eb7,Medio,Femenino,61,Secundario incompleto,5,4.8776116924176165,Candidato C,Candidato A
+2024-08-06,174f7a54-788c-461e-b3cc-9d8a4b1678e4,Bajo,Masculino,24,Primario incompleto,3,18.810639658076887,Candidato C,En blanco
+2025-01-28,1bce35d8-cbe8-4a3f-af7a-304ff344c911,Bajo,Femenino,73,Secundario incompleto,4,49.25716501077355,No votó,Candidato C
+2025-09-24,9b050db2-8ee4-4d02-9cb6-6f6746e785ad,Alto,Masculino,79,Primario completo,5,65.85434019511692,Candidato A,Candidato B
+2025-10-07,b3dd77e1-cbb0-4fe9-a764-9a62b02de52c,Medio,Masculino,66,Secundario incompleto,3,52.098320641296155,No votó,Candidato B
+2024-04-19,2f751bde-6616-4e5b-ada2-fc4c7237d420,Alto,Masculino,51,Secundario incompleto,3,57.488404021139516,Candidato A,Candidato B
+2024-11-28,2cbb93c2-6e84-48ea-abf4-d047c4841a8d,Alto,Femenino,45,Secundario completo,4,99.19995558851096,En blanco,Candidato C
+2024-02-18,5723a959-7415-4acc-b5a3-e8933f7a2748,Alto,Femenino,77,Secundario completo,5,8.764329664665105,Candidato A,Candidato A
+2024-06-07,5af95c78-247f-4d97-85fa-2d5cefe6171b,Bajo,Femenino,59,Posgrado,6,37.27013680778508,No votó,No votó
+2024-02-18,1624d318-a326-42e8-a1ab-17c0766229cc,Medio,Femenino,58,Secundario completo,2,54.53669936038844,En blanco,Candidato A
+2025-06-11,4b7350d1-3421-4eaf-8149-fa8e7bb8c2f1,Bajo,Femenino,36,Primario incompleto,3,79.06527966322112,En blanco,Candidato A
+2024-01-14,72f774b1-b2f1-4ef9-9486-44820078cb12,Alto,Femenino,74,Posgrado,1,88.37136103750045,Candidato A,Candidato A
+2025-02-24,37fef6b5-01fd-4698-b646-57ca9e65736c,Bajo,Masculino,61,Terciario/Universitario completo,4,62.023990850453025,Candidato A,Candidato B
+2025-07-14,fa92cd28-c4c5-46fb-9d4d-11804c6e6fbb,Alto,Masculino,39,Posgrado,4,65.55693619683535,En blanco,Candidato C
+2024-05-14,9bf1f1d1-8b92-4247-8d18-c103a100ed14,Medio,Femenino,49,Primario completo,4,89.4351970751223,Candidato B,No votó
+2025-10-08,c058a332-b4cf-4fa8-ac98-f73d27fe1b4b,Medio,Masculino,61,Terciario/Universitario completo,3,79.19891791506393,En blanco,Candidato A
+2024-12-19,7f67ee1a-ad9d-4f42-97b1-8e6e78aff58e,Alto,Masculino,30,Terciario/Universitario completo,1,58.0770792840365,Candidato B,No votó
+2025-05-02,8b32992a-3b7c-4f9a-b5fe-ba5ec2953f51,Bajo,Femenino,28,Secundario completo,6,1.2180109127806649,En blanco,En blanco
+2025-07-23,a1cf0d1d-47b3-4f41-a7c2-1355c3121af6,Medio,Masculino,41,Terciario/Universitario completo,2,41.26087006482605,No votó,Candidato C
+2025-02-11,4523dbbb-1eee-4219-8588-d91dfbe86a8e,Medio,Masculino,53,Terciario/Universitario completo,3,7.08859065824845,Candidato A,Candidato B
+2025-10-02,00109824-0a61-4be3-ab22-12c9e23b580e,Medio,Masculino,71,Secundario incompleto,2,96.29775232073456,Candidato C,Candidato B
+2024-02-24,e3fbdbda-86ae-4d5c-a5ff-6adc41aef3f7,Alto,Masculino,40,Terciario/Universitario completo,4,82.66341147313273,En blanco,En blanco
+2024-06-29,71d04b0f-656f-47e6-b5c0-3f6f94e4cc44,Alto,Femenino,63,Posgrado,1,34.5972484504475,Candidato C,En blanco
+2024-01-17,5a9414b8-40aa-4c7a-bf1d-f6871a1ec042,Bajo,Masculino,46,Posgrado,5,10.044753030235242,Candidato C,En blanco
+2025-05-21,ac2c10d0-c156-48ff-9f0d-6301488cac4e,Alto,Masculino,43,Posgrado,3,56.40863861820892,Candidato B,Candidato B
+2023-12-29,15d38ca9-986c-48d5-b22f-1499e8a56f31,Medio,Masculino,46,Posgrado,2,35.21081733580937,Candidato A,No votó
+2025-09-30,4332559d-cad0-4273-9209-61ea09135087,Medio,Femenino,60,Terciario/Universitario completo,2,72.32655287869169,No votó,Candidato A
+2025-08-23,1e415c4e-5703-4ede-889c-8ae24e3c0f2d,Alto,Masculino,38,Primario completo,4,83.72969749712344,En blanco,No votó
+2025-04-16,e404d808-3fc1-4c00-9c05-20a487ba3b90,Medio,Femenino,72,Primario incompleto,1,59.69778963111732,No votó,No votó
+2024-07-15,116e8a64-29de-4984-8312-77fdeb83af16,Bajo,Femenino,47,Posgrado,1,81.83181762730905,Candidato C,Candidato B
+2024-11-02,48622a67-4a29-4067-9c66-a27b6a325333,Alto,Femenino,22,Terciario/Universitario completo,2,0.8474502205632395,No votó,Candidato A
+2025-01-09,85e74250-92f0-48b8-a269-62278513d91e,Bajo,Femenino,27,Secundario completo,5,23.345864430713835,Candidato B,Candidato C
+2024-01-19,1af55c26-8808-4ebc-b5d4-cd35a08c3a00,Bajo,Masculino,32,Terciario/Universitario incompleto,1,43.06518403461119,No votó,No votó
+2024-08-02,8b279c29-a274-40d7-b4a5-cc36692a7bce,Alto,Femenino,66,Terciario/Universitario completo,2,46.502451072559616,Candidato A,Candidato B
+2024-10-04,e76f8a76-c74f-41cd-bdce-29ef674610eb,Medio,Femenino,25,Primario completo,6,81.27393946366107,Candidato B,Candidato A
+2024-07-04,713eceb1-4ad1-4b4c-8753-4952c9c5fef1,Alto,Femenino,66,Posgrado,2,17.55046970396702,En blanco,Candidato C
+2025-02-18,2347b24f-a0f9-4074-9177-b6d45f2e9167,Alto,Femenino,27,Secundario completo,1,57.2892177509567,No votó,En blanco
+2025-03-13,1eda4209-b270-4f55-9f90-78d52835bcdb,Alto,Femenino,79,Terciario/Universitario completo,6,53.79265030290765,En blanco,Candidato C
+2025-10-11,77cb1a27-974f-4edc-a6b6-208761a53fdd,Bajo,Masculino,77,Secundario incompleto,5,64.78902010356678,Candidato B,Candidato B
+2024-04-08,4c88b9d8-ab12-4b53-8f42-cebe23b870f3,Alto,Femenino,43,Terciario/Universitario completo,6,1.3691735780533287,No votó,Candidato B
+2025-01-04,be0a5a56-7900-4c61-a1d2-0ebc5aa3892a,Medio,Femenino,78,Terciario/Universitario incompleto,4,4.373052565458757,No votó,Candidato A
+2024-11-06,7d25cefb-7a0a-42ba-b7cf-80256a447a90,Medio,Masculino,47,Secundario completo,6,9.089271819117506,Candidato A,Candidato B
+2024-10-10,7e22e1b7-5178-4032-8066-b49bb1d792a0,Bajo,Masculino,63,Primario completo,4,39.33943464135026,Candidato B,Candidato B
+2025-09-04,71a8c9c6-0f6a-475b-b55b-2e5ca6ed0ac0,Alto,Masculino,52,Primario incompleto,2,59.77515144292709,Candidato C,Candidato C
+2024-12-10,7eda9ab9-bec6-4ffe-a48f-4a254cd8ef24,Medio,Masculino,31,Terciario/Universitario completo,3,73.40068088463066,No votó,Candidato C
+2024-05-22,3739076a-9f03-4cdc-a328-66d30d6a78b0,Alto,Femenino,75,Secundario completo,4,65.0907967597226,Candidato B,Candidato A
+2023-12-20,641659c0-78b6-4daf-9afb-9565068a3c38,Bajo,Masculino,41,Terciario/Universitario incompleto,4,10.751199744502294,Candidato C,Candidato A
+2025-07-19,d8a230de-0296-4326-be2d-9d1de377b008,Bajo,Femenino,63,Terciario/Universitario incompleto,3,86.5826748616189,Candidato A,Candidato B
+2025-10-15,afd86432-1103-4083-ba99-9f9b86de3365,Alto,Masculino,20,Posgrado,5,39.450799230768155,No votó,No votó
+2025-01-01,f305ee95-afb1-40f4-94d4-dad6ddfae808,Bajo,Masculino,19,Terciario/Universitario completo,1,81.6358635447795,Candidato C,En blanco
+2025-10-13,65264961-ab44-44ae-acb3-d561bdf0b015,Bajo,Masculino,43,Primario completo,2,17.115945251470887,Candidato C,Candidato C
+2023-11-12,1dbc24fd-0a8a-41e4-9c7c-bc6201a4f7a1,Bajo,Femenino,31,Terciario/Universitario incompleto,4,38.029171546027385,En blanco,Candidato B
+2024-01-13,453432cd-ffeb-4d5f-80f5-20f49ef1c846,Alto,Masculino,23,Secundario completo,2,67.0435229829304,Candidato B,Candidato A
+2025-05-14,4ae302f3-b31e-4be8-a3ef-802edf8693ce,Medio,Femenino,72,Secundario incompleto,1,63.00878779587611,Candidato A,Candidato A
+2025-08-15,24039721-3a08-4921-a695-f8baba2338fe,Bajo,Masculino,44,Terciario/Universitario incompleto,6,51.87904998733926,Candidato B,Candidato B
+2024-09-06,30f2c485-49b5-44fb-92a6-51d7c069c542,Bajo,Femenino,55,Secundario incompleto,1,92.3138555242763,No votó,No votó
+2025-05-06,b7626f49-75fd-4537-af1b-dd071aff71ae,Medio,Masculino,54,Secundario completo,4,81.15587708076247,Candidato C,No votó
+2025-08-03,54a8762b-2b12-492c-a256-5a955487b5c3,Alto,Femenino,73,Terciario/Universitario incompleto,6,59.58526078318164,Candidato B,Candidato B
+2025-07-03,affe2554-e5ae-4699-a5e3-a7196bf52dfd,Medio,Masculino,68,Posgrado,3,67.76652562040623,En blanco,Candidato B
+2025-04-03,eee84bcb-7281-48a9-a5e4-979d6f6ddf79,Bajo,Masculino,44,Posgrado,6,41.519924620126616,Candidato C,Candidato B
+2025-03-01,50ea1324-862f-48e1-a5c2-9b6ab575bc6e,Medio,Femenino,52,Posgrado,3,51.29018349513521,Candidato A,En blanco
+2023-11-02,2fd3b9f2-e90f-49f8-b578-3f662114c2d6,Alto,Femenino,31,Terciario/Universitario completo,3,63.02580315447859,Candidato A,Candidato B
+2025-02-19,fbc59e92-ca12-49ad-9963-05b371b221e4,Medio,Femenino,58,Primario completo,4,83.74080719665213,En blanco,En blanco
+2024-11-19,7df0fe6b-ce8d-45f2-ad62-e40c638d521a,Alto,Femenino,18,Terciario/Universitario incompleto,1,19.997796668331212,En blanco,No votó
+2025-08-06,cbab5b51-385c-4fdc-bad3-116b63b8a897,Bajo,Femenino,79,Secundario completo,5,45.77240923638514,No votó,En blanco
+2025-09-05,344af454-f0a6-4c5e-b074-21d43239d04b,Alto,Masculino,60,Secundario completo,3,18.404075181415337,Candidato A,Candidato A
+2024-07-17,e7e3f52c-0cbf-404d-b5c2-5d429626d8c4,Medio,Masculino,26,Primario completo,3,19.72001359787606,Candidato B,Candidato C
+2024-05-09,a217cf25-3be9-4767-8884-fd16636abf8c,Alto,Masculino,51,Secundario incompleto,4,3.5679796338300873,Candidato A,En blanco
+2025-05-22,5d158e44-2fcf-4b87-9efa-786415ac15c3,Bajo,Femenino,59,Secundario completo,1,11.918191085504137,Candidato C,No votó
+2024-07-11,ad7027cf-a358-4b1d-be3f-eafd0e96ed9b,Alto,Masculino,76,Secundario incompleto,1,75.735038014906,En blanco,Candidato B
+2025-05-01,4c2abdaa-9c5c-41eb-bbaa-17f92c623ac3,Alto,Masculino,49,Primario completo,6,32.99512768752933,Candidato B,Candidato A
+2025-09-08,de6c8762-b475-415e-962d-5c729ccd3e1f,Alto,Femenino,37,Primario completo,6,30.47506048850722,Candidato C,En blanco
+2023-12-20,c57c7998-48d0-42be-8061-c99b831a352a,Medio,Masculino,42,Secundario incompleto,3,14.388387784733148,En blanco,No votó
+2024-03-29,6953a115-5a62-4dc4-a209-1f49e0a10d2b,Medio,Masculino,52,Primario completo,2,57.638178557581064,No votó,No votó
+2025-10-14,b261d0d2-a1c2-49bf-8dcf-035b7552c6e8,Bajo,Femenino,52,Terciario/Universitario incompleto,4,41.50857796945364,Candidato C,Candidato B
+2025-01-15,a604e5af-f4db-4c1e-aa66-b4648420b8d9,Alto,Femenino,22,Terciario/Universitario incompleto,6,5.526483763192392,No votó,No votó
+2024-04-22,bc02ba67-ee04-4dde-8c14-1838f46860a2,Medio,Femenino,23,Posgrado,3,38.25866192407739,Candidato B,Candidato B
+2024-05-05,7460d20d-94b9-4db5-ae3c-18c9ef1fa0a3,Medio,Femenino,56,Secundario incompleto,5,80.76087319143963,Candidato A,En blanco
+2025-07-17,79c45c38-b440-4fe0-8137-70e27d7de1f5,Alto,Femenino,80,Secundario completo,2,75.67726788584153,Candidato C,Candidato C
+2024-02-20,0acfeba4-4410-40ae-9652-5ce03725bd0c,Bajo,Femenino,64,Primario completo,4,97.47391700197923,Candidato B,No votó
+2025-07-17,598ca3b4-29b1-4823-8d74-22560b36f3cd,Medio,Femenino,49,Terciario/Universitario incompleto,1,85.74756973823547,Candidato A,No votó
+2024-12-27,01d34690-a795-4c54-8a30-f7cd00fdec23,Bajo,Masculino,66,Secundario incompleto,4,49.76905372910729,En blanco,Candidato B
+2024-10-14,6d80ab08-c963-4148-904d-ff6623f1b67e,Bajo,Masculino,18,Terciario/Universitario incompleto,1,79.23760889470061,En blanco,Candidato B
+2024-01-11,9bcfb1c4-f87e-4560-b8df-e76bae358290,Bajo,Femenino,31,Terciario/Universitario completo,1,78.53888885823953,Candidato C,Candidato C
+2024-01-03,3891aef5-ebe0-472c-8ec9-ea986581f934,Bajo,Masculino,44,Primario completo,1,41.00255873927934,Candidato C,Candidato B
+2024-07-07,9bbac838-56e9-478d-b15e-80807425f4e9,Alto,Masculino,57,Secundario incompleto,3,38.71490368897999,Candidato B,No votó
+2025-09-11,15eb3a3d-e201-4a45-9b3a-0c891a32e148,Alto,Femenino,66,Primario completo,1,56.00950019943339,No votó,En blanco
+2024-11-30,8930d179-52ab-493f-91ab-f5e5cb775e24,Medio,Femenino,41,Primario completo,3,44.256170752385295,Candidato B,Candidato A
+2025-10-26,4168705a-533c-4a31-a4ba-cd7874aba9fc,Medio,Femenino,37,Posgrado,3,62.29383996780227,No votó,En blanco
+2024-11-16,30ac79dd-0b5a-4fef-85a1-282a0761585b,Bajo,Masculino,23,Posgrado,1,81.3772606571357,No votó,No votó
+2024-01-25,deb4e6c4-35a7-46ed-9482-7a895e6364c6,Bajo,Femenino,65,Secundario incompleto,1,91.89694303721659,No votó,En blanco
+2024-06-23,d658b1b3-3012-4e1c-9882-e3bb864696c1,Alto,Femenino,19,Terciario/Universitario incompleto,1,64.33264286580273,Candidato A,Candidato A
+2025-01-03,baa172ac-ac33-4644-8053-b188339d78f5,Bajo,Femenino,67,Primario completo,5,52.48078869858308,En blanco,No votó
+2024-06-15,84539813-4fee-4144-8d23-6555bc5074ac,Bajo,Femenino,69,Terciario/Universitario incompleto,1,21.582471216480325,Candidato B,Candidato C
+2025-05-03,7b69e690-4130-4879-a279-d944dc2897c6,Bajo,Masculino,33,Terciario/Universitario completo,2,39.95767942535539,Candidato B,Candidato B
+2024-02-06,3d6e2667-b665-4d6e-9f39-ccaa580c79fc,Bajo,Masculino,57,Terciario/Universitario completo,5,22.42464316767928,Candidato C,Candidato C
+2024-12-31,8d4e2753-ef26-45b7-8e49-df560b648acd,Alto,Masculino,79,Terciario/Universitario incompleto,2,72.88468411433794,Candidato B,Candidato B
+2024-07-17,7ecc040c-75ff-43f0-825b-7c5f1284b9d7,Alto,Masculino,73,Primario incompleto,4,54.029100471019035,Candidato B,Candidato A
+2025-07-26,eaca3811-0c26-45d9-b02d-c88ab97fb3bb,Alto,Masculino,19,Secundario completo,6,15.328485429073503,En blanco,Candidato C
+2025-10-18,7e5b637d-fa98-4115-a980-b561cf1accc1,Medio,Masculino,55,Secundario completo,1,16.522056835392295,Candidato B,En blanco
+2024-12-25,15eae9d2-1e3d-49d0-b0aa-f52575e417dd,Alto,Femenino,73,Primario completo,5,2.817376940800942,Candidato A,Candidato A
+2024-04-07,d3861b58-1946-45d3-bdbb-a3af14dbad22,Alto,Masculino,79,Terciario/Universitario completo,2,11.378973075153953,Candidato A,No votó
+2025-07-14,e25e6512-69fc-4ef0-a75f-275cc3f3f74d,Medio,Femenino,50,Primario completo,1,61.91683483371938,Candidato B,No votó
+2025-02-12,9cdd9f6c-70cd-44a8-b6a5-be06eb52ee01,Alto,Masculino,41,Terciario/Universitario incompleto,6,63.7642733721304,En blanco,En blanco
+2024-12-31,8f1b5be1-6d4b-469c-9169-03f213bfa9fe,Bajo,Femenino,27,Secundario incompleto,5,52.82658086647876,En blanco,Candidato C
+2025-01-31,64fc0dba-d44f-45e7-a2f8-8051c13c6688,Bajo,Femenino,47,Terciario/Universitario incompleto,2,78.94354923047244,En blanco,No votó
+2024-06-12,3fee2fc7-2e2d-4fdf-b57b-8a920a12f3b3,Alto,Masculino,34,Primario completo,1,54.64886830457374,Candidato A,No votó
+2024-10-12,d7285256-20ca-45ab-b855-3ac87d718591,Alto,Masculino,25,Terciario/Universitario completo,1,25.641304264366894,Candidato B,Candidato B
+2024-01-12,5a23754b-ef38-4426-876c-4878deffed7a,Medio,Masculino,55,Posgrado,6,76.55520050868216,No votó,Candidato B
+2025-02-07,1b770deb-6f51-4a78-bea2-a33a51d11bcd,Alto,Femenino,46,Primario incompleto,1,36.643245173777295,Candidato C,Candidato A
+2025-07-13,9c2e5562-4916-4844-a64d-dd918e9b185e,Medio,Masculino,35,Terciario/Universitario incompleto,5,4.4488441311387295,Candidato C,En blanco
+2024-08-26,b6088c97-3380-4cfc-89fe-60368a83efc8,Medio,Masculino,74,Secundario completo,6,21.616645690277736,Candidato A,Candidato A
+2024-07-05,8397d412-7118-4b71-8707-e77b4bf0ae53,Medio,Femenino,71,Primario completo,1,44.47483768095173,No votó,Candidato B
+2025-01-22,a2652c9e-8942-4c6d-b64a-b5109acba588,Alto,Femenino,80,Secundario incompleto,2,61.311561070423274,Candidato B,En blanco
+2024-05-08,043d2c47-3b56-435e-85c5-96d442d01ba3,Alto,Femenino,32,Secundario completo,1,77.9511410122791,Candidato C,Candidato C
+2024-06-14,b63f83c6-c893-49e9-9d68-3a9e1e651ac1,Alto,Femenino,42,Secundario incompleto,4,86.14545310729666,En blanco,No votó
+2024-03-23,6a27241f-bb9e-4a02-ac2d-f3c219518f87,Medio,Masculino,42,Terciario/Universitario incompleto,4,77.42885951695652,En blanco,Candidato C
+2024-03-28,e139d15d-48d8-49ef-b7d3-16a43fafa217,Bajo,Femenino,65,Primario completo,1,75.14586690751847,Candidato A,Candidato C
+2025-08-01,01a6009e-a8dc-4886-bf45-33febc6ff6ac,Medio,Masculino,50,Secundario incompleto,1,58.934474189771166,No votó,Candidato A
+2024-03-26,6da313e7-83e9-473b-8918-1ba3bdee9231,Alto,Femenino,77,Posgrado,4,19.31996892186,Candidato C,No votó
+2023-11-27,627b585f-1f2d-4275-8cbd-c014dbedb42e,Bajo,Femenino,39,Secundario completo,6,66.61420695858325,Candidato A,Candidato C
+2025-02-19,f89d3fda-1e45-4241-85c1-90a8a52ba0ce,Medio,Femenino,32,Secundario incompleto,4,69.43806025337818,En blanco,Candidato C
+2025-03-26,3ac49efa-5be1-4d09-908e-0372bcbe9a42,Alto,Femenino,70,Terciario/Universitario completo,5,26.80943495934932,Candidato C,Candidato A
+2024-05-21,8bf06f64-b417-4592-b76f-c5b2acc512df,Alto,Femenino,55,Primario incompleto,6,37.11028757032224,Candidato B,Candidato A
+2024-11-06,bd6817b6-38b8-4611-883c-1a4ea91da2cd,Medio,Masculino,34,Primario incompleto,2,29.382827921310817,No votó,No votó
+2023-12-25,1095e497-3d79-4f0b-a6cd-3595d4f0d65d,Bajo,Masculino,77,Primario completo,5,99.5650613791218,No votó,Candidato A
+2024-01-10,53ca8c05-acb5-459f-8eb9-876884a5b1c3,Bajo,Masculino,23,Primario completo,1,69.7116934565861,Candidato A,En blanco
+2025-04-12,7af2f402-a0e6-44f1-9f89-d54d3bcd6aec,Bajo,Masculino,20,Terciario/Universitario incompleto,2,35.91722643723203,Candidato A,Candidato A
+2025-06-12,23254d81-2bdf-4727-9501-e917496dc27b,Alto,Masculino,27,Posgrado,3,19.47604337085922,Candidato C,Candidato B
+2024-02-11,813dd49a-8d99-443c-83f7-ba05cf4bb315,Medio,Femenino,38,Primario completo,6,34.05439200446061,En blanco,Candidato A
+2025-09-13,a2834536-95de-4d6e-9df2-e07353f04099,Bajo,Masculino,58,Posgrado,4,24.118113502329997,Candidato B,Candidato A
+2024-02-26,e0789f97-213c-421c-8fde-f30306792b47,Alto,Masculino,55,Terciario/Universitario incompleto,5,83.07803064529534,Candidato C,Candidato C
+2025-10-19,2d4076bc-f9cb-4ee8-a7be-03816544c97d,Bajo,Femenino,54,Secundario completo,2,18.80155033249461,Candidato C,Candidato C
+2023-12-02,22b56be1-1392-4255-bdc1-293082ae752f,Medio,Masculino,49,Primario incompleto,1,37.845282347261254,Candidato A,Candidato A
+2025-08-17,ea455fc7-c80c-4483-b4dd-7624c3d9b3b0,Bajo,Femenino,22,Secundario incompleto,6,53.493247169206434,Candidato A,Candidato A
+2024-01-03,c46ac0d6-91ca-4f9e-bf2a-2e65c6596f7f,Medio,Masculino,79,Terciario/Universitario incompleto,5,25.14374380171217,Candidato A,Candidato A
+2025-09-29,3c3da911-36a5-4df9-b824-7e70b2194ff3,Medio,Masculino,51,Secundario incompleto,1,16.888561077578856,No votó,Candidato B
+2025-04-28,3bd3147d-d0f0-475d-a1d3-2e24bb891746,Bajo,Femenino,48,Terciario/Universitario completo,6,96.13809685881412,En blanco,No votó
+2025-10-18,9bc69882-5a7c-431a-a275-9469c28d2ad5,Bajo,Femenino,45,Secundario completo,5,90.36723329922077,Candidato B,No votó
+2025-08-07,7f9b76ef-a105-4256-a1ee-302e974d9d49,Bajo,Masculino,38,Secundario completo,2,2.6864110509286387,En blanco,Candidato A
+2024-12-25,9db3466d-1ba6-4c61-aaf9-4919e69b7971,Alto,Femenino,42,Posgrado,1,53.35792650956462,Candidato B,Candidato C
+2025-04-15,989bb030-86c4-4b06-86a8-e22fd57caf0d,Bajo,Masculino,64,Secundario incompleto,6,4.3731946756339735,En blanco,Candidato C
+2024-08-31,4f06ea18-74a2-4444-bd3c-279b5bce228b,Bajo,Femenino,73,Posgrado,4,43.3722463882855,No votó,No votó
+2025-08-13,8e36b82f-3856-4e31-b568-c9c6033c1469,Alto,Masculino,19,Terciario/Universitario completo,3,10.952053408280015,En blanco,No votó
+2025-05-02,e10b4aad-a92d-4b05-a9bc-cee9a71b80ef,Alto,Masculino,25,Terciario/Universitario completo,5,80.45234434992112,No votó,En blanco
+2024-12-13,bcc4616d-f40d-4a37-8f2a-21987ea496f5,Alto,Masculino,45,Terciario/Universitario completo,3,20.099340015041946,En blanco,Candidato A
+2024-06-03,b4480761-505e-4c9b-8bc8-8bcf7b1d4049,Alto,Femenino,56,Posgrado,5,30.060401362532453,Candidato B,No votó
+2024-12-11,232f8c5b-4258-42c0-942a-6c95d9082a42,Alto,Femenino,60,Terciario/Universitario completo,6,8.58180068345088,Candidato B,No votó
+2025-07-24,30e9be17-b413-4208-a6df-eb1e9ab3cc27,Bajo,Masculino,77,Secundario completo,5,96.82195268912625,Candidato A,En blanco
+2024-05-02,4aaeb212-c90d-4d29-9100-f186d25ab049,Bajo,Femenino,79,Primario incompleto,5,50.012411903892705,No votó,En blanco
+2025-08-22,356af737-0f26-40d2-b19b-43da6253dfe3,Bajo,Femenino,26,Posgrado,4,42.2191155508894,En blanco,Candidato C
+2024-04-17,bf401e04-b9f9-4ec6-90ae-265209cd3bdf,Alto,Femenino,66,Primario incompleto,3,55.28521489569681,Candidato A,No votó
+2025-09-27,dceb2013-57d9-4f8d-bfe6-5f90f631681e,Bajo,Masculino,27,Primario incompleto,2,17.946802934559546,En blanco,Candidato A
+2025-04-12,a8e6a772-b9cd-460c-ab1e-679470f2297a,Alto,Masculino,74,Secundario incompleto,5,79.75048357390565,Candidato C,Candidato B
+2025-02-02,581ba307-4296-4873-b9d5-b552a867a0f0,Alto,Masculino,19,Primario completo,6,28.711465546234727,Candidato B,Candidato C
+2025-08-04,045892c1-4e0e-45d3-a98e-9a79abecfc0b,Bajo,Femenino,25,Posgrado,1,84.69264566765841,Candidato A,Candidato C
+2024-09-22,0ee5144d-8a1d-4b42-92d6-ff735b3a4595,Medio,Femenino,63,Secundario incompleto,2,73.9175362578077,No votó,Candidato C
+2025-01-25,5a79b46a-26b6-4b06-a164-5f58bb78eb2d,Bajo,Masculino,45,Terciario/Universitario incompleto,5,29.469446222461283,No votó,Candidato B
+2024-06-02,0fb2de1e-a0b9-46c2-bdb9-31ce05a0f421,Medio,Masculino,33,Terciario/Universitario completo,4,48.60386840962215,Candidato C,En blanco
+2024-10-16,032f594d-0b82-461c-bdd0-c8660649def5,Bajo,Femenino,20,Terciario/Universitario incompleto,3,29.44689262442022,En blanco,Candidato B
+2024-11-18,53a081a6-a764-4989-b20e-8bda39cc6d88,Bajo,Masculino,58,Secundario completo,6,94.01969232890103,No votó,En blanco
+2025-03-28,584d3c02-0ff9-4318-922a-3a6211091978,Alto,Masculino,35,Secundario incompleto,3,84.89749500327713,Candidato B,Candidato A
+2025-03-14,22c71d04-6c32-4aff-a9fa-4ea6f8db1a4d,Bajo,Masculino,34,Terciario/Universitario incompleto,3,53.89903230984802,En blanco,Candidato A
+2025-04-28,72ef7dce-376e-42a6-ac07-1cf1e47638ec,Bajo,Masculino,42,Secundario completo,5,68.97376719157833,En blanco,Candidato C
+2025-10-14,4fdc1351-5ba8-40dc-a45d-b6ca6f6a2196,Bajo,Masculino,25,Posgrado,3,7.768697647452916,Candidato A,No votó
+2025-07-10,ba626aee-542d-49c0-a629-d3322d4ba5a4,Alto,Femenino,40,Secundario completo,1,80.07330461795473,Candidato B,No votó
+2024-08-05,689c0559-bf4f-44a3-8908-53fdfc9ea692,Bajo,Masculino,36,Secundario incompleto,1,35.82967477029461,Candidato C,Candidato B
+2024-01-04,e413961f-68c6-4d5e-8277-52fe61f68c6e,Medio,Masculino,41,Primario completo,1,26.85645813564561,Candidato C,Candidato C
+2024-07-10,cdfa4cc8-8805-4e31-88a0-edce4384860c,Bajo,Masculino,57,Terciario/Universitario completo,2,32.77090708047526,No votó,Candidato B
+2025-02-19,b476998d-afc8-428a-bb0a-6a90bc52b34e,Alto,Masculino,69,Primario incompleto,3,88.9202259451882,Candidato C,No votó
+2024-01-30,90920b69-0abc-447e-8253-763876703835,Bajo,Femenino,58,Terciario/Universitario completo,6,10.32964050145545,En blanco,Candidato A
+2024-11-13,f436498e-68af-42b8-9f62-6a97ebe7ef91,Alto,Femenino,30,Primario incompleto,6,98.65056510303694,No votó,En blanco
+2025-01-30,80245320-00cb-4313-abdb-572063eaa07f,Bajo,Masculino,65,Posgrado,6,46.35799513542507,Candidato A,Candidato C
+2025-03-05,a9774b71-de6d-4d7e-9f31-2acb2362dbc1,Alto,Femenino,70,Terciario/Universitario completo,2,62.73891802969616,En blanco,Candidato B
+2024-07-19,b3191702-bb80-498d-970d-a545839137a6,Medio,Masculino,52,Primario incompleto,6,50.664470441395615,Candidato A,Candidato A
+2025-08-19,3cc4f772-547e-4918-9463-c5f825ee54ab,Alto,Masculino,52,Terciario/Universitario incompleto,2,6.269828180932658,En blanco,Candidato A
+2024-03-28,2d20481a-d216-4d53-9408-8ff7d7133061,Bajo,Femenino,21,Primario incompleto,2,76.57348324426039,Candidato C,No votó
+2024-05-08,f4e1680b-05a0-4c72-b22a-4fc63f2de8a8,Medio,Femenino,39,Posgrado,1,40.1048926769415,En blanco,Candidato B
+2023-11-14,be28e8c5-2b39-4c4e-a575-ae93ce749e8a,Bajo,Femenino,50,Terciario/Universitario completo,4,48.211734234461986,No votó,En blanco
+2025-05-23,8fb87c76-af04-4a8d-969d-b137c9a57cd1,Bajo,Femenino,53,Terciario/Universitario incompleto,6,82.15264872438617,Candidato C,No votó
+2024-05-30,6d5b7d50-1417-44f9-b7c1-44fb2b16ad04,Bajo,Masculino,18,Terciario/Universitario incompleto,4,31.157353881089943,En blanco,Candidato B
+2024-01-31,1a895c62-990e-4f01-9d5a-acc7ed7a6edf,Alto,Masculino,28,Secundario incompleto,6,14.095989825880384,No votó,Candidato B
+2025-05-02,b5c99b49-751f-4e54-a0e7-74869ed9c124,Medio,Masculino,76,Terciario/Universitario completo,2,4.562423684203132,Candidato A,No votó
+2024-04-21,0a40a379-9a1a-4357-9d6c-84af266b0d37,Medio,Femenino,49,Posgrado,3,68.99677947161881,Candidato C,Candidato C
+2024-08-16,bcee9d29-ce4f-4ca0-971a-a4f640a21015,Medio,Femenino,70,Terciario/Universitario incompleto,3,6.633505570580334,Candidato B,Candidato C
+2025-07-11,a032149d-06fa-4b60-a063-75b8bb937826,Bajo,Femenino,19,Primario incompleto,2,59.3446390163237,En blanco,En blanco
+2024-03-13,7f107645-094c-4230-a3b4-df81eeb3462c,Bajo,Masculino,58,Terciario/Universitario incompleto,1,6.814209195138654,En blanco,No votó
+2024-07-17,abf0f4bd-4af0-46fe-9bbd-d1f416f14aad,Alto,Femenino,73,Primario completo,2,11.29062091476899,Candidato C,Candidato A
+2024-09-27,81e774de-3c74-4119-b547-24dd269b6c3b,Medio,Masculino,34,Primario incompleto,6,39.38941078727276,En blanco,No votó
+2025-07-27,c0c32da9-bc49-458e-a98b-7e5d5b1654ad,Bajo,Femenino,39,Primario incompleto,3,29.187731911071957,Candidato B,En blanco
+2023-12-20,cda6a326-4514-47d6-966f-f3ec679b29e8,Alto,Masculino,26,Posgrado,6,10.724073965350744,En blanco,Candidato B
+2024-01-19,03c8e104-6480-4dc0-b1c5-8f447e083c1b,Bajo,Femenino,40,Primario incompleto,3,94.18707909207546,Candidato C,Candidato C
+2025-07-02,49c94aa5-e689-45e8-87c4-7eb84f8e3e01,Alto,Femenino,24,Posgrado,2,94.64720158537826,Candidato A,Candidato C
+2024-02-23,08f1100b-fa32-42c4-b80a-fabf8cea309b,Medio,Femenino,57,Terciario/Universitario completo,6,96.26663572736399,Candidato C,Candidato A
+2025-08-27,8d56206d-920c-4de9-8823-9867c5dd967b,Bajo,Masculino,53,Secundario incompleto,1,98.04231341272214,No votó,Candidato C
+2025-04-26,09ce15a8-afd4-4c7b-af20-8346432fb308,Medio,Masculino,44,Primario incompleto,5,90.95307739908208,Candidato B,No votó
+2024-04-19,1eb95739-b8ac-4d81-a522-ff4674b7061c,Medio,Masculino,79,Posgrado,4,56.60340491610645,No votó,Candidato C
+2023-12-07,0d18533e-7efa-4faf-98ba-0bf3675e0c52,Alto,Femenino,68,Terciario/Universitario incompleto,2,40.42665733858254,Candidato B,No votó
+2025-07-28,fee4e6bc-bd6d-4b92-85e6-95b1054b8816,Medio,Masculino,66,Posgrado,6,74.18233484953606,No votó,Candidato C
+2025-01-20,ae2e45a4-ae44-44d7-8100-e66508c626a9,Alto,Femenino,22,Secundario completo,3,52.37682712657599,Candidato C,Candidato B
+2025-03-08,eddb0263-c6a2-494d-b3e4-bd3a94fe31a0,Bajo,Femenino,34,Terciario/Universitario completo,3,22.733128731797446,Candidato A,Candidato C
+2025-10-08,c317c3d4-afa4-4554-beb4-6b244a2edd41,Alto,Masculino,54,Primario completo,2,77.57118660613821,Candidato B,Candidato C
+2025-10-29,8429aeae-877e-4ea1-8339-93f235045f77,Alto,Femenino,24,Posgrado,6,16.305482874399868,Candidato A,No votó
+2024-12-20,d59b148f-fa7b-4f5f-a2d5-9938571c9d78,Bajo,Femenino,51,Terciario/Universitario incompleto,1,65.17861344545506,No votó,Candidato C
+2025-02-11,1db1dfdc-357f-4a64-8029-88fdf8cc3f3b,Bajo,Masculino,22,Terciario/Universitario incompleto,5,94.97664057960128,No votó,Candidato C
+2025-04-13,ce0755e3-5456-4b12-bb52-451d90e7e1a1,Alto,Femenino,73,Terciario/Universitario incompleto,6,53.53005499039113,No votó,En blanco
+2023-12-29,3e1e165d-ecad-4b86-b16f-1487f7f21e5c,Bajo,Masculino,55,Posgrado,6,14.541513693297558,En blanco,En blanco
+2023-11-22,88644581-b857-4478-ac82-5818960da788,Bajo,Femenino,26,Primario completo,2,35.83347833558731,No votó,Candidato A
+2024-02-06,299cf16b-5a75-43c0-a02a-35e9ae6b4c8e,Medio,Masculino,49,Secundario incompleto,3,51.07630211577388,En blanco,Candidato A
+2025-03-09,272eaa36-e642-465c-9e38-6aebea96abe6,Alto,Masculino,20,Secundario incompleto,4,43.208208514305426,Candidato C,En blanco
+2024-03-27,d1f0c570-bf55-45ce-98a1-a54654a6087c,Medio,Femenino,51,Primario completo,1,14.909201064259847,Candidato B,Candidato B
+2025-02-14,0d1f0a7f-d0fc-4922-95be-263b0253dc8c,Bajo,Masculino,71,Primario completo,3,59.81803730043651,Candidato A,Candidato B
+2025-08-07,583678ee-f3ca-4f64-a7fa-8b8a909b471c,Alto,Femenino,68,Terciario/Universitario incompleto,4,88.00125583030545,En blanco,Candidato B
+2025-01-22,4b1dd9fd-a02e-4b76-8a8b-77da5cfa38b1,Medio,Masculino,32,Primario completo,5,97.16833259288765,Candidato C,Candidato C
+2024-02-02,6756264d-c864-4f78-beaf-167952b04994,Alto,Masculino,40,Primario completo,3,18.138256490835868,Candidato C,Candidato C
+2024-08-31,2b8771df-fcca-46b8-ae56-627499c7abea,Bajo,Masculino,24,Primario completo,1,65.83084752212514,En blanco,No votó
+2024-01-12,918ff358-2408-43c2-89d0-a7f400425fc6,Bajo,Masculino,53,Primario completo,6,2.1763915827471503,Candidato A,En blanco
+2024-08-15,57627626-2037-4089-b11f-a10a0b2975c6,Medio,Masculino,71,Secundario incompleto,3,14.98194642577657,Candidato A,En blanco
+2025-08-10,b8bc6621-f2d7-4e55-8262-a5aaedec31ef,Alto,Masculino,63,Secundario completo,2,51.337945695596964,Candidato A,No votó
+2024-01-31,aa099a46-f25a-4c68-a8ef-99e97afc50cd,Medio,Femenino,31,Posgrado,4,60.64208812381175,Candidato B,En blanco
+2023-11-30,41f2005b-c753-4df5-a9af-a87ad181d9bf,Alto,Masculino,29,Secundario incompleto,1,24.78770919307398,En blanco,Candidato B
+2025-02-14,11fba56e-300a-4187-9cb9-f9aabf4ddeaa,Alto,Masculino,62,Primario completo,4,73.47227390484262,Candidato A,No votó
+2023-11-18,47595b01-6c83-4975-afa2-ce128c833848,Medio,Femenino,60,Terciario/Universitario completo,5,89.2051365687851,Candidato A,En blanco
+2024-04-01,878f40ed-2c80-4ac7-9484-57dff3254f2d,Alto,Femenino,79,Terciario/Universitario incompleto,3,97.00718441867117,En blanco,Candidato C
+2024-03-24,a3af11d0-a8ab-49f1-9033-93102b7bde99,Medio,Masculino,32,Secundario incompleto,2,10.392682057775126,En blanco,Candidato A
+2025-05-12,f110397a-1c2c-4a34-9466-5d45284b7bcd,Medio,Masculino,43,Primario completo,3,68.33388244920795,No votó,Candidato B
+2024-02-06,8b1dc2f8-cbf1-493c-a1d3-377281011c5b,Alto,Femenino,30,Primario incompleto,1,52.29902536811242,Candidato B,No votó
+2024-11-08,6f446806-c137-4e75-a27b-9de79ae445e0,Medio,Femenino,56,Primario completo,6,69.80796525054343,Candidato A,En blanco
+2024-04-13,037d9752-48f3-431c-8fb7-c3bb4408c04c,Bajo,Masculino,62,Posgrado,3,93.34128833821667,Candidato C,Candidato C
+2025-05-19,d1db32f8-fda8-44ea-874d-d25c6dbf859c,Alto,Femenino,65,Terciario/Universitario completo,6,28.64592994387798,Candidato A,No votó
+2025-07-15,4218ca25-f23d-4306-87ca-f779b7c97da8,Alto,Femenino,46,Secundario completo,1,88.13122109789153,Candidato B,Candidato A
+2023-12-19,5163de1d-8df7-4267-86fa-db0e89b1e0d4,Bajo,Masculino,40,Primario completo,3,9.060987240653418,En blanco,Candidato A
+2025-10-29,b4a06976-30a3-4251-979e-9a46fd768f63,Medio,Femenino,28,Primario completo,6,4.132897134044466,No votó,Candidato A
+2025-04-12,2446ecee-caa0-4679-ae83-a7b2c857d8c3,Alto,Femenino,35,Posgrado,4,92.50862703024245,Candidato A,Candidato A
+2023-11-19,82e7448c-c003-4457-8184-7803d840fccb,Bajo,Femenino,64,Terciario/Universitario incompleto,1,25.892934584774896,Candidato A,Candidato B
+2024-12-28,b38e5adb-a93f-4902-88de-c9ab27c3e784,Medio,Masculino,80,Primario incompleto,6,71.06481666867522,Candidato A,No votó
+2024-09-27,62574c5a-9033-44bf-8812-36e6ec77cfc8,Alto,Femenino,75,Secundario incompleto,3,21.976545446453542,Candidato C,En blanco
+2025-02-26,094f7d5a-f313-40b0-b6d1-42d05c66a9bb,Bajo,Femenino,40,Terciario/Universitario incompleto,2,58.82895805245799,Candidato B,Candidato C
+2024-01-19,a2fc7fe3-6961-40ac-a994-f3e68fc4edd3,Alto,Femenino,80,Terciario/Universitario completo,6,34.028531804945025,En blanco,No votó
+2025-08-12,c29ed120-cddb-4316-8c68-fd3f9d37da5c,Medio,Masculino,53,Secundario completo,6,72.29989229346413,Candidato B,Candidato A
+2024-05-21,5cba9be3-0404-44c0-a65a-3ae43a72017d,Bajo,Masculino,72,Terciario/Universitario completo,2,74.4810042536854,Candidato B,Candidato A
+2023-12-26,28948b4c-f0fc-4cc6-bb46-ed398772c347,Bajo,Femenino,30,Primario completo,3,90.23353834926756,Candidato B,En blanco
+2024-04-21,5abec113-a183-4fdb-b1cb-5e8eae2562ca,Medio,Femenino,31,Posgrado,3,80.33723669416557,Candidato B,Candidato C
+2023-12-27,04e6748a-7f3a-47dc-b339-0a6ea0b87e45,Medio,Masculino,47,Posgrado,5,45.01603379769158,No votó,En blanco
+2025-03-18,9251ad08-3fcb-44fa-bc39-e1b3bb1d8677,Alto,Masculino,71,Terciario/Universitario completo,6,12.731314478996191,Candidato A,En blanco
+2024-06-22,2f6570d7-4643-4705-bdf8-eeefe44a01f6,Medio,Masculino,38,Secundario incompleto,1,67.13911525670602,Candidato A,Candidato A
+2024-07-31,6b83f00f-ed2e-436f-8211-2edaf1e7ea9b,Alto,Masculino,80,Primario incompleto,2,43.924965660609516,En blanco,Candidato C
+2024-10-05,3c9a9236-72bb-47b3-92b9-573113f2dc86,Medio,Masculino,26,Terciario/Universitario completo,4,70.88041997031172,En blanco,No votó
+2024-03-21,dd1f8e30-731c-477a-b6bc-a2a2be792965,Alto,Femenino,35,Terciario/Universitario completo,2,98.81931674691631,Candidato C,No votó
+2023-12-19,cf709452-ce8c-437e-a51c-0cdb824734df,Alto,Masculino,53,Terciario/Universitario incompleto,5,33.47731624113494,Candidato B,En blanco
+2024-11-27,30331476-f53f-43dd-99b5-3b7fb47a5dce,Alto,Masculino,60,Posgrado,5,44.367467625354365,Candidato A,Candidato C
+2024-10-29,10b2e6e5-ec6e-41bd-b0c4-55a92a1bc112,Bajo,Masculino,67,Terciario/Universitario completo,5,34.32675505623279,Candidato A,No votó
+2023-12-02,650dd400-a27e-480d-ad3f-4b37ed9081c1,Alto,Masculino,67,Posgrado,1,32.12927627423981,No votó,En blanco
+2025-02-07,6fed6cc5-40b0-40a4-8598-244bf0bd7405,Medio,Masculino,18,Secundario incompleto,4,24.250211429325073,Candidato A,Candidato B
+2024-01-19,5b2d81cc-c602-4d20-81fa-924ee1bccfb2,Medio,Masculino,23,Posgrado,3,35.28671468103344,Candidato A,No votó
+2025-04-28,4e98ce25-1733-4a7c-93e8-36639c14940d,Alto,Masculino,60,Terciario/Universitario incompleto,6,36.20311169117917,Candidato B,Candidato B
+2024-08-31,c334f558-02ce-4581-be15-aa2c07b6e28f,Medio,Femenino,70,Terciario/Universitario completo,6,35.84255867440026,En blanco,Candidato A
+2024-04-04,65dcac6c-c329-470a-b3e9-e55e402492a3,Alto,Masculino,38,Primario completo,1,94.79166844345376,Candidato C,En blanco
+2024-05-22,a2a7d0fc-c683-4d33-af84-439262f9dbb2,Bajo,Femenino,37,Primario incompleto,3,37.51970544557551,Candidato A,No votó
+2024-08-06,b27516ea-63a6-4ae9-ac4e-bce0a02a1b21,Bajo,Masculino,73,Primario completo,1,1.7419214500525637,En blanco,Candidato B
+2025-10-04,952b1ee1-09d5-464f-9292-8f4be1514a0d,Alto,Masculino,63,Posgrado,1,96.48469435309782,Candidato C,Candidato B
+2025-05-23,919c21ed-d471-43e7-9ac5-f4f0771ec087,Bajo,Femenino,68,Primario completo,5,58.102883054647705,Candidato A,No votó
+2024-11-01,4741ee56-b5e2-434d-907d-85322076d932,Alto,Femenino,78,Terciario/Universitario completo,2,30.820104033126917,No votó,Candidato B
+2025-08-14,65e96753-0638-4bd3-926e-eeba53ff6644,Medio,Femenino,38,Terciario/Universitario incompleto,3,79.37678814146327,Candidato B,Candidato A
+2025-10-02,22a5a421-858d-47da-abc1-6f6979460978,Bajo,Masculino,20,Terciario/Universitario completo,2,2.2010069676441923,Candidato A,Candidato C
+2025-10-15,dd6d47e4-90e0-472f-94dc-01bc0aa56583,Bajo,Masculino,23,Primario incompleto,4,85.46083039360555,Candidato C,Candidato A
+2025-01-17,11c272d8-0126-4789-9c6b-e59658f16c91,Bajo,Femenino,57,Secundario completo,2,11.881786818992325,Candidato C,En blanco
+2024-03-12,abe0a177-1c5e-4698-b7a0-2afd30d6863f,Alto,Masculino,18,Primario completo,5,2.419811810608241,No votó,Candidato C
+2025-04-26,50852f4f-0b09-4c41-b89a-28298a663359,Medio,Femenino,36,Primario completo,5,14.337546447459593,Candidato B,En blanco
+2025-04-07,f45aa79b-d855-4b35-9763-b159ed9a189a,Medio,Femenino,69,Secundario completo,2,83.52146828549817,No votó,Candidato C
+2024-04-07,64849eb5-5096-4cf2-867f-ece7f1ff06dc,Alto,Masculino,25,Terciario/Universitario incompleto,1,5.073155951807795,No votó,Candidato B
+2025-06-20,fe292238-fbfb-4602-a011-bc8ae7bf9a96,Alto,Femenino,28,Primario incompleto,6,91.37843590701216,No votó,No votó
+2023-12-17,680aee2a-466b-406f-a2b4-d215c3c5707d,Alto,Masculino,63,Terciario/Universitario incompleto,5,29.1824765233865,Candidato B,En blanco
+2025-07-06,25c1df67-987d-416d-a462-c274abbf66c7,Medio,Femenino,35,Secundario incompleto,2,19.699249233170946,No votó,En blanco
+2025-04-10,82f1240d-4e5c-4dd2-9dda-17a36779de0d,Bajo,Masculino,80,Primario completo,4,65.50393876542286,No votó,Candidato B
+2024-03-03,e4907635-2019-40c6-a9b4-96640f52361d,Medio,Femenino,30,Terciario/Universitario completo,5,24.242333319972577,Candidato C,En blanco
+2025-08-19,b48f653e-7b1b-4b6b-a91e-70af224af354,Alto,Femenino,50,Primario completo,6,56.523667337639516,No votó,Candidato B
+2024-03-06,b93c2989-c399-4d7f-b75d-b71ea4531fe9,Alto,Femenino,53,Secundario completo,4,76.39004902766095,Candidato B,Candidato B
+2024-07-24,85050a17-d2e1-4d4d-bad4-c2880bf56ed8,Medio,Femenino,40,Secundario incompleto,5,66.76871361802228,Candidato B,Candidato A
+2024-12-17,b0f1bb1d-8e10-4ed6-92d0-72230b20ee0f,Alto,Femenino,73,Terciario/Universitario completo,5,31.738336864304216,Candidato B,Candidato C
+2024-05-14,6323c57f-a197-4954-b283-5498be80793e,Alto,Masculino,46,Secundario completo,3,63.332802575930955,Candidato C,En blanco
+2024-02-01,ccd66756-583e-46a4-ae22-fd39f31e2448,Bajo,Femenino,23,Primario completo,3,62.88085228700342,Candidato A,En blanco
+2025-02-07,14aaaefe-1532-41c9-9020-baee95fc7389,Bajo,Femenino,44,Terciario/Universitario completo,3,2.0736352093231547,Candidato A,Candidato A
+2025-10-17,43fd46ff-d034-49a4-aca7-23c48f4ed442,Medio,Femenino,50,Terciario/Universitario completo,1,46.083922889105935,Candidato C,Candidato C
+2024-10-10,53f3c158-42ce-41c0-8cd9-f2af339c5a75,Bajo,Masculino,52,Terciario/Universitario completo,1,63.272517875958954,En blanco,Candidato C
+2025-04-01,c846bf90-40fe-4898-b56b-9357b34dc8b0,Medio,Femenino,71,Secundario incompleto,4,38.158077905932075,En blanco,No votó
+2024-03-16,74dbcc40-ef7d-4e1a-8476-af98425de95f,Alto,Masculino,44,Terciario/Universitario completo,3,16.042800042986084,No votó,Candidato B
+2023-11-12,c1b5468a-27bb-4580-a8f5-8c5dffa08419,Bajo,Femenino,25,Terciario/Universitario completo,2,91.26367081173147,Candidato C,Candidato C
+2024-11-02,271f2772-8d7f-4ba5-b2e6-316ee6710ad2,Medio,Femenino,23,Primario completo,4,1.086598752321588,No votó,Candidato A
+2025-04-14,2d4da4ef-95e3-4180-a1ee-691a09e1c3b0,Alto,Masculino,55,Primario incompleto,2,86.52750924425382,Candidato B,Candidato B
+2024-09-15,e55e44b8-08a6-45b4-8321-0210a43c991d,Medio,Femenino,80,Secundario incompleto,6,16.670264729758077,Candidato A,No votó
+2025-10-01,f25dcb50-d15b-4985-90ea-a1d2c1f8190b,Alto,Femenino,47,Secundario completo,6,99.13870370370839,Candidato C,Candidato C
+2025-01-17,ca8033a7-a5fd-49c8-b161-0b3d1257363c,Alto,Femenino,38,Secundario incompleto,6,91.06861356621543,En blanco,Candidato C
+2025-09-11,cff0c8ac-3d1c-468c-9c63-765b74e04bbb,Bajo,Masculino,29,Secundario incompleto,6,9.183054692901427,Candidato A,Candidato B
+2024-12-01,b5a3cece-28cd-438a-85b3-03d3756b6c0d,Bajo,Masculino,36,Terciario/Universitario incompleto,6,76.76405910722842,Candidato B,Candidato A
+2025-10-14,2287401b-a7bb-4a76-a9a4-a856556b20fa,Medio,Femenino,33,Terciario/Universitario incompleto,6,66.78130643399938,Candidato A,En blanco
+2024-06-30,0ea255e0-8e50-479a-8582-644479faf501,Medio,Masculino,58,Secundario incompleto,6,86.46407889289495,En blanco,Candidato A
+2025-03-20,848610cf-d212-46c2-9519-401c8b1f1137,Medio,Femenino,45,Primario completo,4,49.63910598707834,No votó,No votó
+2024-08-05,c65d8e4e-d01e-488b-80a1-402e57e7ef7b,Medio,Femenino,61,Secundario incompleto,5,31.209432010203443,Candidato A,En blanco
+2024-08-29,9b87cc5e-6d7f-49b2-9a9e-8547147a08ac,Bajo,Masculino,62,Terciario/Universitario incompleto,1,79.07833186875355,No votó,Candidato C
+2025-08-13,55f7792a-739a-49e2-91fd-7d4a5a31a6a6,Medio,Femenino,36,Secundario completo,6,73.64090804357446,Candidato C,Candidato B
+2025-03-26,5cafa108-832c-4b79-a0c8-e5a0d560e64c,Bajo,Femenino,20,Primario incompleto,2,53.638281906770565,No votó,Candidato C
+2024-05-14,a2f62516-dc88-409c-9760-4342fcbc3229,Alto,Femenino,19,Primario completo,5,98.54026411063748,Candidato C,No votó
+2024-02-29,eceec38d-511f-4da9-a2d8-01701e6cbd83,Alto,Masculino,71,Secundario completo,6,76.94747947056466,Candidato B,Candidato A
+2025-01-10,20068c1c-bbd7-43b3-aebe-d37d05d156b6,Bajo,Masculino,18,Primario incompleto,4,49.71408172502368,Candidato A,Candidato A
+2025-04-21,9b83acd5-e2cc-4dd8-967f-ec5e04ea581d,Alto,Femenino,58,Terciario/Universitario incompleto,4,92.5809283679158,Candidato A,Candidato B
+2023-11-11,a5387901-69f1-4ccd-8b4c-ba0a317eeb1d,Bajo,Masculino,72,Terciario/Universitario completo,4,50.58197515286898,Candidato A,Candidato B
+2024-10-22,cbf8e26a-4fae-467b-b2e7-4e770fe1cedf,Bajo,Femenino,35,Primario incompleto,2,84.3108756658452,Candidato A,Candidato C
+2025-05-30,99b702a2-0d5f-424a-a963-544a63b74101,Medio,Masculino,22,Terciario/Universitario incompleto,2,4.995281430913268,Candidato B,No votó
+2024-01-02,2b0c9fdd-b61b-43e9-8b60-fefcc47e330e,Alto,Masculino,73,Posgrado,6,12.990880564643659,Candidato C,Candidato B
+2024-07-19,ed469bf4-d5cf-4dc4-ab1c-3ba45b9e42d0,Medio,Femenino,80,Primario completo,4,21.29408192858261,Candidato A,Candidato C
+2025-05-29,70d22718-0dd3-4d11-a881-81a813d1ea49,Medio,Masculino,60,Terciario/Universitario completo,4,23.210913761119357,Candidato A,Candidato C
+2023-12-07,9ec12fa2-e6df-42ce-9aa9-09f15adffd04,Bajo,Masculino,38,Posgrado,4,14.04302873130423,Candidato C,Candidato B
+2024-12-28,4f4b4ed5-ac1d-42e8-817d-f4f8c1a7de00,Bajo,Masculino,38,Secundario completo,6,4.153337777012178,Candidato C,Candidato C
+2024-06-07,74219d3e-cdc3-4412-995e-17e1900f72f7,Bajo,Femenino,80,Primario completo,6,55.96194944645399,En blanco,Candidato B
+2024-02-14,74279656-07db-44e0-ae40-25346987b052,Alto,Femenino,53,Secundario completo,6,58.997080354011146,Candidato A,No votó
+2024-05-06,f30459cc-30c4-4d61-839f-4b86cd6a5e0c,Bajo,Femenino,59,Secundario incompleto,6,72.65297681367186,Candidato A,Candidato A
+2025-06-15,18a77594-5b8c-4949-9068-61d3633d9c54,Alto,Femenino,80,Terciario/Universitario completo,2,61.48554864055772,En blanco,En blanco
+2024-11-10,05765983-59cd-412a-86b4-2b6f1f94e3c8,Alto,Femenino,36,Terciario/Universitario incompleto,3,45.31567592205039,Candidato B,Candidato C
+2024-08-01,b0c952af-9db3-4510-a75d-08552d5590c9,Alto,Femenino,21,Primario completo,1,44.991188791001015,Candidato C,Candidato C
+2025-02-17,52a33c33-037e-4725-a5a1-bdaea747795e,Bajo,Femenino,68,Posgrado,6,1.4063289284765634,Candidato C,En blanco
+2024-06-12,befa9c47-8dd6-450f-8a6e-f7ce74db99f3,Bajo,Femenino,63,Posgrado,2,61.639938326523826,No votó,Candidato C
+2025-04-08,79fe0a1b-7efb-4877-b1e1-86d7df254e5d,Bajo,Masculino,33,Primario completo,5,63.59109843080329,No votó,Candidato A
+2024-08-06,891dfa7b-0d3d-46aa-9ba4-5b5e1498665b,Alto,Masculino,72,Terciario/Universitario completo,1,62.573505105085594,Candidato A,Candidato A
+2025-02-02,c8a17945-ca6d-4e06-a6e5-1767dcb32e4a,Alto,Masculino,74,Primario incompleto,3,96.16982290057715,Candidato B,Candidato A
+2025-09-24,071dade6-4322-45ee-aceb-9505dbc33e56,Bajo,Masculino,62,Secundario incompleto,6,70.32759973565229,No votó,No votó
+2025-03-08,d62b68d4-1880-4a4b-840f-bb0ba5e327af,Medio,Femenino,51,Secundario completo,2,21.07328111434975,Candidato A,Candidato B
+2025-08-26,5bc9e889-5567-484c-9480-f037d39a4bb0,Medio,Masculino,26,Secundario incompleto,1,61.06155164501773,Candidato C,Candidato B
+2025-02-26,f7d870b6-78ac-4704-9936-5f61f484878d,Alto,Femenino,34,Secundario completo,2,55.39242349110606,Candidato C,No votó
+2024-02-12,843fb606-e8b7-42da-a77e-5c1808771fe6,Bajo,Masculino,56,Terciario/Universitario incompleto,3,67.28060498972613,Candidato C,Candidato A
+2025-05-10,f5b7751f-497e-48aa-8e03-a34da022dfee,Bajo,Femenino,21,Primario incompleto,2,59.482629985888636,Candidato C,No votó
+2024-06-30,5672ebc7-606e-4502-802f-9cc4096bfaff,Medio,Femenino,68,Secundario incompleto,4,75.74364397696564,Candidato A,Candidato B
+2024-08-29,b22b8974-8c5c-492f-b1c5-1dda28280370,Medio,Masculino,42,Posgrado,3,45.802794076986956,Candidato A,No votó
+2025-06-05,c781e11f-2cb3-4568-a91a-58af259a2b28,Alto,Masculino,44,Posgrado,5,56.686078941360286,En blanco,No votó
+2024-09-18,ae09ccfb-a3de-481f-a8b2-99bcebbe1a41,Bajo,Femenino,35,Secundario completo,6,92.56495043088192,Candidato C,Candidato C
+2025-08-06,ef23d4af-e0ff-48a5-b172-840f3e19d0ba,Bajo,Femenino,55,Terciario/Universitario completo,4,26.391054359599963,Candidato C,Candidato B
+2025-03-21,061ae8d1-f212-4c6f-9409-88e79fed6060,Medio,Masculino,32,Terciario/Universitario completo,3,66.24839179780206,Candidato C,Candidato B
+2024-01-03,a036e74b-e34d-4804-b565-7d007ba06f58,Medio,Masculino,34,Secundario completo,5,73.79454979372903,Candidato A,No votó
+2023-11-03,39f706d4-0b4e-416d-a5ea-29d1adae7e45,Bajo,Masculino,78,Terciario/Universitario incompleto,6,82.11725303083716,Candidato B,En blanco
+2025-02-05,541d1a81-4815-442c-a2bb-62833d83ad7c,Medio,Masculino,38,Primario completo,4,57.33106486847133,En blanco,Candidato A
+2024-03-30,5a220eb2-3cf9-41fe-b75a-7e6f2b863694,Bajo,Masculino,76,Posgrado,4,97.4188515958856,Candidato C,En blanco
+2025-04-27,6bb6204e-e0db-42d3-a9e3-16ad39ddc477,Alto,Femenino,69,Terciario/Universitario completo,4,96.29280395517443,Candidato B,No votó
+2024-07-18,90bccb66-e063-4450-9d00-57167680891b,Alto,Femenino,52,Terciario/Universitario completo,1,51.372537215951354,Candidato B,Candidato C
+2024-03-05,c5507d2b-909e-4f78-a2f2-52912353d455,Alto,Femenino,49,Terciario/Universitario incompleto,3,45.22131044170003,Candidato A,No votó
+2024-05-05,956a2f20-ee28-4bb7-a982-100c03729e33,Alto,Femenino,74,Terciario/Universitario incompleto,5,10.325246986863789,En blanco,Candidato B
+2024-04-23,b7ed75b4-63d0-4ccd-afdb-4e0b01716f1d,Medio,Femenino,46,Primario completo,3,58.71642739790062,Candidato C,Candidato C
+2025-03-11,261cec19-fff8-4cec-ac05-b870cd34bcd7,Bajo,Masculino,63,Terciario/Universitario completo,3,31.104452403405027,No votó,Candidato A
+2024-10-15,52c553b5-d2f7-4429-8671-493804fe973d,Bajo,Femenino,25,Primario incompleto,3,68.7999293776127,Candidato A,Candidato B
+2024-08-22,0c15a575-09c6-4c1d-80f2-460382951fe0,Medio,Femenino,45,Secundario incompleto,6,71.62163215556829,Candidato B,Candidato B
+2025-05-06,92b035e0-1ca5-42f5-acf1-50e6c6f149c7,Bajo,Femenino,41,Terciario/Universitario incompleto,3,86.60255025393346,Candidato B,Candidato B
+2025-09-11,2734f9bb-c740-4255-a5cf-51c49c899296,Bajo,Femenino,28,Secundario completo,4,74.30999503047974,No votó,Candidato B
+2025-04-08,c9a6e611-613f-418d-896e-f1a5ac707464,Bajo,Femenino,51,Terciario/Universitario incompleto,5,80.93983613582874,Candidato B,Candidato C
+2025-01-16,916b51ee-6fae-4eda-ab32-5d4806c4e109,Bajo,Masculino,21,Posgrado,5,84.10985318216211,No votó,No votó
+2025-09-11,b6118bd6-553a-473a-afb9-f3a8e9e7e1ba,Alto,Femenino,32,Terciario/Universitario incompleto,1,99.5871348045346,Candidato A,En blanco
+2024-09-18,5d30db82-2348-41b7-ac2b-5e213f7a38e0,Medio,Masculino,63,Secundario completo,4,32.907916480844904,Candidato C,Candidato C
+2023-11-26,667fceeb-8889-432c-b777-3772829fe7ba,Alto,Masculino,69,Primario completo,6,58.884700466287356,No votó,En blanco
+2024-09-09,90ec8374-6862-4c24-a13a-6ad812b34a24,Medio,Masculino,48,Secundario completo,5,55.72364866465493,En blanco,Candidato C
+2025-09-09,18b7f1a2-f74f-4905-99c0-7423a89f5916,Medio,Femenino,42,Primario completo,5,57.08753144229425,Candidato A,Candidato B
+2025-04-30,3ee29e68-6fa0-4319-a54c-e0de6e797a92,Alto,Femenino,19,Secundario completo,2,66.77757129446763,Candidato C,Candidato C
+2025-01-15,ea951570-399b-4b79-a1ba-fa39789c3c72,Bajo,Femenino,33,Primario incompleto,4,93.69255075634395,Candidato B,Candidato B
+2024-09-21,7b2ecfc5-a530-41a2-bd74-39ee65141471,Alto,Masculino,23,Primario incompleto,3,1.8291510776282882,En blanco,Candidato B
+2025-06-23,11ab249d-94d5-4a99-aba0-842465a5ac1f,Alto,Femenino,37,Terciario/Universitario incompleto,6,31.01260419840837,No votó,En blanco
+2025-03-30,469fc269-ff7a-4d86-809b-3c5bd5e8b89c,Alto,Masculino,24,Secundario completo,6,46.25930645329503,No votó,En blanco
+2025-05-05,8ad6cc51-5f2e-4048-86ce-563de291f5e1,Alto,Masculino,70,Primario incompleto,4,51.68251295830745,Candidato B,Candidato B
+2023-12-08,c7938520-9c92-4e7f-9aa1-ecd6058fe8d5,Medio,Femenino,29,Terciario/Universitario incompleto,6,90.68796263632997,En blanco,No votó
+2024-03-09,46ba6855-3cad-475a-a072-caae797c27bf,Alto,Masculino,75,Terciario/Universitario completo,1,49.964227334235375,No votó,Candidato B
+2024-10-12,de0989b9-5252-4d45-9c68-4df10a515e87,Alto,Masculino,26,Secundario completo,1,23.65186756427946,Candidato A,En blanco
+2023-12-21,a0483bb2-f6d0-40c4-a409-df32cc4e66da,Medio,Femenino,79,Terciario/Universitario completo,4,85.72706796970809,En blanco,En blanco
+2024-05-21,da418b24-e0ac-49ff-88d3-281a1b4e1428,Alto,Femenino,46,Terciario/Universitario completo,5,51.470348463492364,Candidato B,Candidato C
+2025-04-29,647640a1-b6a6-49ef-a4ea-c3f40c78c2f9,Medio,Masculino,18,Primario completo,1,78.43004086748995,Candidato C,Candidato B
+2024-03-03,bb22fa31-6bc9-4970-848a-e37406dc1579,Medio,Masculino,75,Primario incompleto,3,26.410484463574623,No votó,Candidato C
+2024-10-13,6ed63ea4-64a2-4c48-b9fb-4010dec772b7,Alto,Masculino,66,Primario completo,6,94.49617173095291,Candidato C,Candidato C
+2024-12-15,75ef8aab-b693-44ef-9ad5-66c3ecb03f48,Bajo,Femenino,41,Primario completo,1,40.13826594010962,Candidato C,En blanco
+2025-09-19,2b6b7b42-2950-4326-b644-d1839aabd22d,Bajo,Masculino,51,Primario completo,1,44.68536444579154,No votó,Candidato B
+2024-11-14,28b4d5b9-693d-493c-b96f-9881572abb53,Medio,Femenino,44,Primario incompleto,4,47.67582215876139,No votó,En blanco
+2025-10-07,dd55daaf-fefc-4b4a-ab1d-10619717aa6e,Alto,Masculino,25,Terciario/Universitario incompleto,6,33.09836761273127,Candidato A,En blanco
+2025-01-11,1ccdd340-80e9-4f74-8307-59a448a133ab,Medio,Femenino,51,Secundario completo,4,75.8580057759896,En blanco,En blanco
+2025-02-13,24878d19-586d-4f41-9e47-c2a0eef67139,Bajo,Masculino,33,Secundario completo,5,57.62290267332707,Candidato A,En blanco
+2025-06-10,7901726f-c421-425a-9b8d-11baa0ec3e5a,Bajo,Femenino,49,Primario incompleto,3,60.34903149398795,Candidato C,Candidato B
+2023-11-02,0dccbbed-c0e0-455b-84ca-a7c8a1595b4f,Bajo,Masculino,36,Posgrado,5,60.09530855299121,En blanco,No votó
+2025-09-18,41f4317d-f514-4524-a08c-28eb3218efbf,Medio,Masculino,35,Terciario/Universitario incompleto,4,29.440810610899426,En blanco,Candidato A
+2023-12-02,531da6ac-956c-4129-b934-718f2d492ca2,Medio,Masculino,43,Primario completo,5,34.17224637677633,Candidato C,Candidato C
+2024-11-20,0a9d499c-a269-4c2d-a14f-1ddc4bc972ce,Medio,Femenino,45,Terciario/Universitario incompleto,4,9.11694031474597,Candidato B,No votó
+2024-07-12,08ef444a-6e63-4fa4-8d2a-d9744a863655,Medio,Masculino,48,Primario completo,5,38.4997035982933,Candidato B,No votó
+2024-07-01,600aa45e-44e1-408c-a919-9a8aaea62315,Alto,Femenino,62,Primario completo,6,26.226032386596543,Candidato C,Candidato A
+2025-08-13,22587c89-58cc-49b4-b54a-f1bdba5612f7,Bajo,Femenino,77,Secundario completo,6,34.86736810084472,En blanco,En blanco
+2024-10-29,5b61f92b-9cf6-40ec-9c3c-8d3521d4fb7e,Medio,Femenino,77,Primario incompleto,6,62.473237452462115,En blanco,No votó
+2023-12-10,93a25c9b-6e3a-42d7-87fe-6a4e2a6f1e47,Alto,Femenino,21,Primario completo,4,68.49982511063028,No votó,Candidato A
+2025-07-22,a45335cc-137f-4d2b-b6a9-33cf65fd5f69,Bajo,Femenino,28,Posgrado,5,74.8492403076781,Candidato C,En blanco
+2025-08-02,13ec5718-ae4a-441a-b500-4950b5f50316,Bajo,Femenino,63,Primario incompleto,2,22.15049617709114,Candidato B,No votó
+2025-09-11,b9e8e4ee-8b7f-4d7a-ace8-d7dcc71d92d6,Medio,Femenino,74,Terciario/Universitario incompleto,5,18.306429349761466,Candidato B,No votó
+2025-07-25,2728ec95-2b52-4ab1-a367-ad9e8dcd7d64,Bajo,Masculino,72,Primario completo,1,96.81681353922139,Candidato A,Candidato B
+2024-09-19,079be4e5-3a6e-4f12-aa1a-ce85351c5aac,Bajo,Femenino,51,Terciario/Universitario incompleto,5,46.64742220868152,En blanco,Candidato A
+2024-03-27,7e3801af-d1a8-47b0-a2b3-ce34867a4ac9,Alto,Masculino,40,Primario completo,3,47.57560945599204,Candidato B,Candidato A
+2025-01-01,9f93e802-e1c2-4cd1-a65d-1c735b62a7c9,Medio,Femenino,30,Terciario/Universitario incompleto,2,8.303400076425483,Candidato B,No votó
+2025-03-07,cb10cf68-b769-4470-89bc-f4a8bc6284a8,Medio,Masculino,33,Terciario/Universitario incompleto,3,68.7071323375102,Candidato B,Candidato C
+2024-01-05,cd74afec-1e54-4a7c-af27-3f4055cdd72e,Medio,Femenino,27,Terciario/Universitario incompleto,4,17.24743735252474,Candidato A,Candidato B
+2025-08-13,d68d2bc2-dac7-4336-aa04-5534f6796fd3,Alto,Masculino,32,Terciario/Universitario completo,1,5.221723597914229,Candidato C,Candidato A
+2025-05-18,430342c7-dcfb-4e0a-85fe-e48768ab9281,Bajo,Femenino,69,Terciario/Universitario incompleto,2,25.097751140720636,En blanco,Candidato A
+2024-02-11,a0c30ce9-57ac-49f2-a887-a3a9e63317c3,Medio,Femenino,37,Secundario completo,1,96.61515046807254,Candidato A,Candidato C
+2023-11-13,887b4cca-54f0-4dc4-b7f1-bb2780665563,Bajo,Femenino,68,Terciario/Universitario incompleto,2,33.24374359844167,Candidato A,Candidato C
+2024-09-09,604aa4a2-e983-4c1d-a503-3a3eb1f5d7d0,Medio,Femenino,27,Secundario completo,5,5.702405708948444,No votó,Candidato A
+2025-04-12,8e33dcab-be68-4e2b-bd63-7b3afc0b1519,Alto,Masculino,29,Posgrado,4,67.02949877173663,No votó,Candidato C
+2024-09-21,ea31e67a-e168-4205-bc0a-94de4e245cf7,Bajo,Femenino,53,Terciario/Universitario completo,6,17.402195909003414,No votó,En blanco
+2024-07-04,63e86951-58b5-4052-a0e9-bd79fe1c51e5,Bajo,Femenino,80,Secundario incompleto,2,28.47310891997449,Candidato A,Candidato A
+2023-11-04,4e60678b-82f4-448a-b8a5-5d6bf2ded00f,Medio,Masculino,34,Terciario/Universitario completo,4,47.6122536095349,Candidato C,En blanco
+2024-04-15,68032f7e-fef0-4b04-a8fc-642af6f25926,Bajo,Femenino,52,Posgrado,3,54.05943952820317,Candidato B,En blanco
+2023-11-13,f924e06a-aef5-4aef-9903-b45fd01cf935,Alto,Femenino,19,Secundario completo,4,30.284010111708625,Candidato B,Candidato C
+2025-05-12,955fbc33-0142-4249-a5cc-2478276d7e19,Alto,Masculino,29,Terciario/Universitario completo,6,92.47693290571344,Candidato C,Candidato B
+2025-06-10,fb24cba4-b457-4bf7-a251-30a89870c707,Bajo,Femenino,32,Terciario/Universitario completo,2,75.78382091246351,En blanco,Candidato B
+2023-11-03,1b58286c-8461-4840-a1a9-344eef7f6bc8,Medio,Femenino,73,Terciario/Universitario incompleto,4,62.68069618929306,En blanco,Candidato B
+2025-08-02,b2b4c281-a5b9-4ee8-877f-0b62b26489f7,Medio,Masculino,70,Posgrado,3,7.5106300304530915,Candidato C,No votó
+2025-04-09,9a66d48d-a4f0-49c2-9885-6c7f3475a526,Medio,Masculino,64,Primario incompleto,4,81.80256809968046,Candidato C,En blanco
+2024-12-16,444517ef-1c76-4e1f-8371-9849fb5214d9,Medio,Masculino,44,Secundario incompleto,3,82.91662560389342,Candidato C,En blanco
+2025-02-19,2b2bcfda-9d43-49b5-bb5f-15c1b0445ebb,Medio,Femenino,77,Secundario incompleto,6,80.83825368347912,Candidato C,Candidato C
+2024-01-16,0938ad77-cb18-46a4-95db-4487603803f3,Bajo,Femenino,74,Posgrado,5,83.10574115987076,En blanco,En blanco
+2024-03-28,5cb6f1f0-e475-4694-9d8a-c1a902af3382,Bajo,Masculino,63,Posgrado,6,17.379338561660273,Candidato B,No votó
+2024-02-02,517fa07e-7b0f-48c1-b8f3-5c26d13ec39c,Alto,Masculino,78,Primario completo,2,89.89503205979209,En blanco,Candidato B
+2025-02-16,5e7cfaad-73df-470a-ad0c-abfc1baf01f1,Medio,Masculino,28,Terciario/Universitario completo,1,29.458202939185686,Candidato B,No votó
+2025-03-20,aaa28439-40fe-41ec-b259-a6a095919900,Medio,Masculino,33,Terciario/Universitario completo,3,26.442972936573195,En blanco,Candidato A
+2024-04-04,3a8d1c00-c696-4905-8fe4-fb667c8d5368,Medio,Femenino,66,Primario incompleto,5,0.1827653091373893,Candidato B,Candidato C
+2025-09-10,8d37aebb-8fc7-47e3-a8b7-4f3dec3826bc,Medio,Masculino,53,Primario completo,3,15.776376607989228,En blanco,En blanco
+2024-06-23,c7d02862-13f3-4e53-a509-8f9ad3c61e05,Bajo,Femenino,26,Secundario completo,4,34.758389716397964,No votó,No votó
+2024-06-06,e2cd159a-ebba-40d2-820b-c51ddb3aefa6,Medio,Masculino,74,Primario completo,5,23.331643725571137,Candidato C,Candidato A
+2025-04-19,a4a98266-d3d6-462b-8699-9e1e2b02237e,Bajo,Femenino,71,Terciario/Universitario incompleto,6,87.4135238236254,Candidato C,Candidato B
+2024-03-22,fe656bef-e0ef-4989-aab4-65e9d97d2b38,Alto,Femenino,55,Terciario/Universitario completo,5,4.766552433397164,Candidato A,Candidato C
+2024-01-18,a9204633-9bb6-4cd2-a8ad-c28f8463416a,Medio,Masculino,61,Primario completo,1,44.517568343912004,Candidato A,No votó
+2024-11-05,af04ef81-b548-4bf2-b02c-ebbe3544f189,Medio,Femenino,28,Posgrado,3,37.885986750254695,Candidato B,Candidato B
+2025-08-26,96625aa1-056b-465f-839d-dd7467af36d9,Bajo,Femenino,65,Primario incompleto,2,86.47493913670601,Candidato C,No votó
+2025-10-18,2bdc9c10-6362-41c3-ab6e-c9e0225f5457,Medio,Masculino,33,Primario completo,5,83.54404124371582,Candidato C,Candidato C
+2024-09-05,0dbc321b-90a0-4ee1-b0e2-ee61e29b24d7,Medio,Masculino,51,Primario completo,2,32.44265096297912,Candidato B,En blanco
+2025-03-03,cd6665d8-edf2-4720-a003-2713ea8fd23d,Alto,Femenino,67,Secundario completo,2,67.81846211305731,Candidato A,No votó
+2024-01-04,67ba6b1a-9695-4911-a4e0-ee5b1638325c,Alto,Femenino,37,Secundario completo,1,45.92132118890155,Candidato C,Candidato C
+2023-11-18,df983779-81bd-4336-bbac-266055a3a129,Bajo,Masculino,69,Primario incompleto,3,25.004520425351018,Candidato C,Candidato A
+2024-06-02,9eb88325-7add-4fed-8a02-da60749d4601,Bajo,Masculino,73,Terciario/Universitario incompleto,2,69.65888826256365,No votó,Candidato C
+2025-10-11,81eb88e5-d549-4aad-84c8-fd001a0ff218,Alto,Masculino,72,Secundario incompleto,1,46.52134783766647,Candidato A,En blanco
+2024-10-18,64e322cf-a51d-478b-8d00-b7b27d82fccf,Alto,Masculino,68,Posgrado,1,69.55547538990763,Candidato A,Candidato A
+2025-07-15,3ad23fbf-2e57-4864-83eb-280e79017990,Medio,Femenino,63,Terciario/Universitario completo,4,73.79475191253725,En blanco,Candidato A
+2025-07-09,4d6d99a6-28d7-48b4-9d44-38218a7f03ae,Alto,Masculino,65,Secundario incompleto,4,56.19680289607552,No votó,Candidato B
+2024-01-30,eab3c4d8-d4e4-404b-9bde-299dda286b7a,Bajo,Masculino,19,Secundario completo,1,26.433263052026845,No votó,Candidato B
+2025-09-01,f660ffd5-119f-41c4-b4f8-c57b24c582ca,Bajo,Femenino,64,Secundario incompleto,5,13.718179656858275,Candidato B,Candidato C
+2024-05-19,90ed41f4-64ab-43f6-ba65-8abe1188afa1,Bajo,Masculino,47,Terciario/Universitario completo,5,1.0490888786510943,Candidato A,Candidato C
+2024-02-13,179d221d-8e5f-47fa-a8f4-9b51f3fa8613,Bajo,Femenino,68,Terciario/Universitario completo,1,42.31079110843044,En blanco,Candidato B
+2025-03-23,d0813d92-3aca-43f2-bb77-7bf243f98cbd,Alto,Masculino,75,Terciario/Universitario completo,2,66.05883894453041,En blanco,Candidato B
+2024-12-10,5c05c1f3-241d-4e27-8bf4-1e101c622f82,Bajo,Masculino,72,Terciario/Universitario completo,6,82.66763804928908,Candidato A,Candidato B
+2025-07-28,a88f58c1-237d-4b90-981a-218ecfd64560,Bajo,Masculino,30,Secundario incompleto,4,28.489675970396032,Candidato B,Candidato C
+2025-03-21,aa61353a-d2b0-4078-8e84-72a7dd332379,Medio,Femenino,21,Terciario/Universitario completo,5,6.823707620437736,Candidato A,Candidato C
+2025-03-16,32d116fe-8f08-463c-9624-88052305e6d3,Bajo,Masculino,44,Primario incompleto,2,48.16184012917817,Candidato B,No votó
+2024-07-28,6783b0c3-dcae-467e-8876-daaa01ce5fc6,Bajo,Femenino,28,Terciario/Universitario incompleto,5,33.847307611624366,Candidato B,Candidato B
+2024-01-30,9a0a80be-c15d-4cfc-b325-442c8eeb3fd8,Medio,Femenino,42,Primario incompleto,3,33.43867900328831,No votó,Candidato B
+2025-09-09,1b674518-b0bf-4f14-b6d0-66f27d874566,Alto,Femenino,50,Posgrado,1,4.728179231122009,Candidato B,No votó
+2024-02-29,58e760bf-8f3e-44f4-b914-0a61ee65afeb,Alto,Femenino,42,Secundario completo,3,51.99316981291814,Candidato C,Candidato A
+2024-06-05,df61c534-57d1-437c-87af-ae8fdfecb2ae,Medio,Femenino,31,Secundario incompleto,3,44.2207109356843,Candidato C,No votó
+2025-08-24,3ddf55b2-0151-48db-af8c-96a918f7e499,Medio,Masculino,42,Terciario/Universitario incompleto,2,70.74155510801353,Candidato A,Candidato B
+2023-11-16,fbf70946-d6ad-4066-bf6b-f51b3a05c0b7,Medio,Femenino,52,Terciario/Universitario incompleto,4,67.82754646073263,Candidato C,No votó
+2023-12-04,024bfe48-3980-41b1-8642-cddb4fbe2aae,Alto,Masculino,51,Terciario/Universitario completo,3,38.26192194126035,Candidato C,En blanco
+2023-12-03,f474b1a4-f268-4ee1-9ad8-712d7ee1a2a3,Alto,Masculino,49,Primario incompleto,1,4.263651016599013,Candidato A,Candidato C
+2024-04-09,17776c3a-5743-4d9c-ad30-32ed824c6948,Alto,Masculino,24,Primario completo,3,97.15686282392268,Candidato C,Candidato B
+2025-04-13,6c1b6811-92db-4613-8e05-1eea13d72846,Bajo,Masculino,26,Posgrado,1,20.295452859654773,No votó,En blanco
+2024-05-21,f6aca9b4-5e14-4c30-bd2c-db8d39ebfa32,Medio,Femenino,72,Primario completo,1,73.90365087553036,Candidato A,En blanco
+2025-01-08,253df737-c218-4e77-9c58-ea6a6193db51,Bajo,Masculino,23,Secundario completo,5,56.141839358105535,Candidato C,En blanco
+2024-07-03,33061611-ef96-4214-89b3-fe663b4c0730,Medio,Masculino,52,Primario completo,6,3.011796489557017,Candidato B,Candidato B
+2024-08-12,a8f614bd-7b2a-4677-86b7-e7cbbe0d24ed,Bajo,Femenino,18,Posgrado,1,73.31804896803112,En blanco,En blanco
+2025-10-30,486c0adf-5bf2-4ec8-8814-ed3ce166c6ab,Medio,Masculino,75,Primario incompleto,3,97.24465110373224,Candidato A,No votó
+2025-01-15,d4c667bb-211e-45c3-9cc7-53ad6264190f,Alto,Femenino,70,Secundario completo,6,14.969283192082939,En blanco,En blanco
+2025-10-08,5ae52530-66b4-4fc6-9e94-eb4bc74f73ca,Bajo,Masculino,75,Secundario incompleto,3,71.5346971459566,No votó,Candidato C
+2025-08-22,3a88a4ab-7891-4712-9e5f-e0ee80109500,Medio,Femenino,23,Primario completo,5,57.2048503849228,Candidato B,Candidato B
+2023-12-04,a1d53402-5fba-4dc2-b594-b706a7fb881e,Bajo,Masculino,18,Terciario/Universitario incompleto,3,54.06734831175892,En blanco,Candidato A
+2025-08-20,4704768e-6e92-4501-9bd7-1dc6ea75e34d,Medio,Femenino,79,Posgrado,2,43.351137771970826,En blanco,No votó
+2025-06-05,c46f5825-669f-41b9-b902-d6c05bf57279,Bajo,Masculino,65,Terciario/Universitario completo,1,44.67049111608905,No votó,En blanco
+2025-04-29,4879996d-fe38-44eb-b6e0-eac2c42bf4c4,Bajo,Masculino,80,Secundario incompleto,6,17.196647851439916,Candidato C,En blanco
+2025-02-15,e7524102-7acf-4bcc-9af4-321addd3e779,Alto,Femenino,33,Terciario/Universitario completo,4,36.06946688416775,Candidato A,No votó
+2025-03-25,277dfc7b-722c-453d-9ee1-723b4a9686a4,Bajo,Masculino,65,Terciario/Universitario completo,4,67.54662565553286,Candidato C,Candidato C
+2024-11-20,be4a565e-3e58-4dd5-aed1-536858116722,Alto,Masculino,43,Primario completo,4,84.90921694638931,Candidato A,Candidato C
+2025-05-08,568d6f3e-f4b4-45aa-adfd-a2912fdb5c0d,Medio,Masculino,46,Primario incompleto,6,73.61298079909669,Candidato A,Candidato A
+2025-03-16,ae5ceb3d-1c27-4035-ba8b-e1617fd2770a,Alto,Femenino,61,Terciario/Universitario incompleto,2,62.625162507703415,En blanco,Candidato A
+2025-10-03,76fe579f-6382-43b5-b9ad-f8c56247b40d,Bajo,Femenino,35,Secundario incompleto,1,22.901194834012294,En blanco,Candidato B
+2024-10-23,ef8dff9b-fae3-4cee-b636-efd98376ffa8,Bajo,Femenino,44,Secundario incompleto,4,0.5472608352581565,Candidato A,Candidato B
+2025-03-13,d4188645-90de-4fba-bfb5-9512fa04a706,Medio,Femenino,80,Terciario/Universitario completo,3,85.82817083827422,Candidato B,En blanco
+2024-10-05,6637c09f-acf6-46fc-b87c-df029e3b3f04,Medio,Femenino,40,Terciario/Universitario completo,4,76.6366464496544,No votó,No votó
+2024-08-17,3b8f5fc7-7c96-4efa-8fab-2ad88091a21d,Medio,Femenino,60,Primario incompleto,4,94.67861585338288,Candidato A,Candidato B
+2025-09-08,006b8fd6-af15-4ed9-8496-48e85084a40f,Bajo,Masculino,43,Secundario incompleto,6,13.575650749152423,Candidato A,Candidato A
+2024-12-23,64eec62b-5130-4e5c-b8c5-a976178672e8,Alto,Masculino,34,Posgrado,4,97.39249095214609,En blanco,En blanco
+2024-03-19,d21dbc09-3a35-4442-b325-f875e4172ba3,Bajo,Femenino,64,Posgrado,4,33.010405968530485,Candidato A,Candidato B
+2024-04-11,0c72fe13-fbf2-4c1c-ae6d-086cf7b37a86,Bajo,Masculino,22,Primario completo,2,56.37915742771472,En blanco,No votó
+2024-08-19,681091fe-0a5a-4322-8578-42a9934c472a,Alto,Masculino,75,Primario completo,4,1.936955780967109,Candidato B,En blanco
+2025-01-31,b9b5c70e-3346-47c6-8372-49fd17ee2fe6,Bajo,Masculino,66,Secundario incompleto,2,79.44385821654791,En blanco,Candidato B
+2024-06-15,2e4a6e78-1cf4-48ed-adb6-de2153a9ec5d,Bajo,Masculino,28,Terciario/Universitario incompleto,4,93.49625718789464,No votó,Candidato A
+2023-11-08,073c36ba-5d39-4bf9-b2da-a1f6cc16014a,Bajo,Femenino,55,Terciario/Universitario completo,6,94.62520672332754,No votó,Candidato B
+2024-02-17,0212585b-0b2f-4580-b3f0-53233bd5f8a2,Medio,Masculino,33,Secundario completo,2,15.492387919535467,Candidato C,Candidato B
+2024-02-27,213124bd-0127-4a63-88da-091b61f6c877,Medio,Masculino,65,Terciario/Universitario completo,3,13.9549427860167,No votó,Candidato B
+2024-05-30,9b1ae019-9aca-4c4a-924e-31041dd26234,Medio,Femenino,31,Terciario/Universitario completo,1,54.77570681771881,En blanco,No votó
+2024-07-17,14e16706-3309-4536-a998-952cef58951f,Alto,Masculino,72,Terciario/Universitario completo,2,40.74486970077539,Candidato A,Candidato A
+2024-07-21,d9073286-329c-443a-b751-b3fabdb62ff3,Bajo,Femenino,20,Secundario completo,4,1.8728162119141745,No votó,Candidato C
+2025-07-07,9f13d2fb-e583-447f-852d-2ee50061fd30,Bajo,Femenino,66,Secundario completo,3,28.821309912414527,Candidato A,Candidato C
+2024-08-13,89745cd7-1118-48f8-aa4a-ce0ed89a9500,Alto,Masculino,72,Primario incompleto,3,77.87005794309542,No votó,En blanco
+2025-05-13,3a19607d-3bfb-455e-ad0d-04182d58bce9,Medio,Masculino,21,Primario completo,3,76.42435805200168,Candidato B,Candidato C
+2024-01-13,7984f33f-61c6-4ae4-aa59-4b07eda67806,Bajo,Femenino,50,Secundario completo,4,23.7246651859504,Candidato B,Candidato C
+2024-07-21,35c9599f-6f91-49cf-8018-3cfeceb09220,Alto,Masculino,69,Primario incompleto,3,91.93394482880498,No votó,No votó
+2025-06-29,0a8bc856-c3ed-49b7-b9df-727561994015,Medio,Femenino,22,Secundario incompleto,2,36.75815297307391,Candidato B,Candidato C
+2025-02-25,074f3be0-44f2-4133-b45c-88409da28338,Alto,Masculino,62,Terciario/Universitario completo,2,76.96239752124517,En blanco,Candidato C
+2023-11-29,5e12425c-b42f-4357-98d9-7f4a95331356,Alto,Femenino,46,Terciario/Universitario completo,4,34.23535532227193,Candidato B,Candidato A
+2023-12-04,743397f1-ad5b-4bb2-965a-f699d3bb63d7,Medio,Femenino,33,Primario completo,2,98.63080201646486,En blanco,Candidato C
+2024-05-29,845c21e7-988d-4e4a-a266-a107a408001f,Alto,Femenino,46,Terciario/Universitario incompleto,6,67.62128076354605,Candidato B,En blanco
+2024-03-08,1a6f0c9a-f1f7-490f-8070-9bd41790a6b7,Medio,Femenino,63,Primario completo,3,37.09567514453587,Candidato A,Candidato A
+2024-02-26,062d7f7a-45da-41f3-9a7e-256db6ffe12c,Alto,Femenino,67,Posgrado,2,6.471455402251158,No votó,En blanco
+2025-01-28,c5a918d1-9eed-443c-a453-6074b13de531,Medio,Femenino,75,Terciario/Universitario incompleto,4,18.772316992950255,Candidato A,No votó
+2024-06-13,3503c56e-6100-4dbd-a2ca-9fe8a8aa7d13,Medio,Masculino,66,Secundario completo,2,94.71393075274477,No votó,Candidato C
+2024-08-08,51cd2c07-a8f7-4b61-b9d2-b2de92bba701,Medio,Masculino,60,Secundario incompleto,1,57.515701094504855,En blanco,No votó
+2024-09-03,801841f4-820d-45c6-abd1-f046339fbb69,Alto,Femenino,26,Primario completo,5,79.98150672786912,En blanco,Candidato C
+2025-01-01,b170b1ed-1b04-4be3-8f41-d3e41eceb5e5,Alto,Femenino,56,Terciario/Universitario incompleto,5,21.28001513787966,En blanco,En blanco
+2024-02-10,824d9e96-1fe2-43b0-b980-1aaae93b4418,Bajo,Masculino,58,Primario completo,5,52.43697627298577,Candidato C,Candidato A
+2024-06-16,2dbdb6e5-7844-42ac-b29b-d820e4ad24e2,Alto,Femenino,74,Terciario/Universitario incompleto,4,60.028836231626414,En blanco,Candidato A
+2024-01-30,20fe652b-56fe-4301-8c3a-f69e74747f6f,Alto,Masculino,50,Secundario completo,6,93.89905022297256,Candidato C,Candidato A
+2024-11-07,141bd896-6092-4d2b-8122-9d756a8d3e84,Bajo,Femenino,36,Secundario incompleto,3,50.55802001343267,No votó,Candidato B
+2025-05-22,d1f15ee7-55e9-418e-8164-80fa90a2b8e1,Bajo,Masculino,18,Terciario/Universitario completo,2,92.39143290486209,No votó,No votó
+2024-05-06,742c5905-3bca-43ea-9cff-697dd26d028d,Medio,Masculino,56,Primario completo,1,31.870095865347025,No votó,No votó
+2025-10-27,c674d244-7b05-4d02-99de-53193f9bbcfc,Alto,Masculino,27,Primario incompleto,6,58.2731869515666,Candidato A,Candidato C
+2023-12-09,726e8017-061f-4679-a908-3bd6ef617cac,Alto,Femenino,40,Primario completo,3,62.52779112805838,Candidato B,Candidato B
+2024-06-28,8d6e44f2-0189-45d9-a355-c369b931a26d,Medio,Masculino,60,Primario completo,2,9.606314164743557,No votó,Candidato A
+2024-03-20,c67781b2-c3a3-4607-b565-2d0067a4eb26,Medio,Masculino,40,Secundario completo,3,16.549562929330463,Candidato A,Candidato A
+2025-08-28,3db612f4-6df2-4c82-b956-fba972323dc9,Bajo,Femenino,41,Posgrado,3,25.541366240355245,En blanco,No votó
+2024-12-12,241813ef-799f-4e33-ba2b-e04940d2d16f,Alto,Masculino,71,Terciario/Universitario incompleto,6,26.22687328357469,En blanco,Candidato A
+2025-05-20,5c27761d-4894-49fc-b0df-67b93a6f36fa,Bajo,Femenino,79,Secundario completo,6,18.492295142231853,En blanco,Candidato C
+2023-12-27,ee8f0e09-9975-4cb9-bc76-a592a73e3f3b,Medio,Femenino,37,Primario completo,1,41.859196394970176,Candidato C,En blanco
+2024-06-24,d4e26a5b-f807-4dd9-a618-4c80edf6b1e0,Alto,Femenino,50,Posgrado,1,9.740266440225632,En blanco,En blanco
+2024-09-10,3006ff85-166a-4a98-af3b-5a9185bab545,Bajo,Femenino,59,Primario incompleto,4,14.971468045894,Candidato B,Candidato C
+2025-08-11,a182e35f-848e-4c98-aec9-fa674cc672fc,Medio,Masculino,62,Secundario incompleto,3,85.56453048515779,Candidato A,Candidato C
+2024-07-14,0f1a6c44-f239-4bb0-9f6c-eec1ac546740,Alto,Masculino,34,Posgrado,3,17.932649207230632,Candidato A,En blanco
+2024-06-21,559de204-0964-4b31-97c2-747f27b51ee7,Medio,Femenino,26,Secundario completo,3,44.761948116595505,Candidato C,Candidato A
+2024-09-19,290d07e4-ce1f-4081-9f2d-5db8debaa89f,Alto,Femenino,19,Terciario/Universitario incompleto,3,8.09067068559487,En blanco,Candidato B
+2024-01-25,63eaa005-77f6-4854-a668-bb6ec408143f,Alto,Masculino,48,Primario incompleto,1,79.66040996746983,En blanco,Candidato C
+2024-01-18,7f006257-6956-4c06-b008-a519ad830951,Medio,Masculino,69,Terciario/Universitario completo,2,26.807396761583846,Candidato B,Candidato C
+2025-01-10,0c10ef01-6411-4d38-aae2-01c0312a4c3c,Bajo,Masculino,64,Secundario incompleto,6,66.24720346318367,No votó,En blanco
+2025-10-07,c5ac7520-cd46-48fe-b2b7-2bd2c97be2af,Bajo,Femenino,77,Terciario/Universitario completo,6,81.93341579172507,No votó,Candidato C
+2024-11-09,c284e0be-e33e-470a-96c6-544df60ce881,Alto,Femenino,71,Primario incompleto,3,41.40231383354268,Candidato A,Candidato A
+2024-11-04,300961c3-855a-4d8d-946e-34aaae9d1797,Bajo,Masculino,72,Primario incompleto,6,20.692961811815213,No votó,Candidato A
+2024-07-20,84eaf943-2ee6-4e21-93fb-2ed1b9534807,Bajo,Femenino,30,Secundario completo,2,15.770909623934271,Candidato B,Candidato A
+2025-08-16,d9efbb41-b66b-4b0b-8af3-7d72ec4f4490,Bajo,Masculino,56,Primario completo,2,45.973296457987324,No votó,Candidato A
+2025-07-13,26f33244-6f1d-4baf-952b-750d9830349d,Bajo,Masculino,43,Terciario/Universitario incompleto,5,59.46028115370137,Candidato C,Candidato C
+2025-07-24,7e525e4f-9e20-4161-b050-eb01a22fc818,Bajo,Femenino,39,Primario incompleto,2,65.88860734988079,Candidato B,No votó
+2024-07-25,edc641cd-921b-4646-a9c7-ae92e61b4dc6,Medio,Masculino,48,Primario incompleto,4,58.66214834397117,Candidato B,Candidato B
+2024-02-06,086c9768-70fe-4cfc-991a-b513369fe284,Bajo,Masculino,37,Posgrado,2,24.422813777146935,Candidato C,Candidato A
+2024-11-08,9a9dadd2-e7aa-4070-bcdd-b4cc3e332f35,Medio,Femenino,46,Terciario/Universitario completo,1,0.15736025987119762,No votó,Candidato C
+2024-01-31,bb296639-8e4a-495d-9153-f737d7f14ec2,Medio,Femenino,26,Terciario/Universitario completo,6,13.64804806622989,No votó,No votó
+2025-04-28,0ff0952a-0b25-41c4-8021-b6323246b7d9,Bajo,Masculino,48,Posgrado,5,44.108742035303436,Candidato B,Candidato C
+2024-11-22,dfc8b87a-7176-4181-be2b-66532258edf3,Bajo,Masculino,70,Terciario/Universitario incompleto,3,96.89107233151148,En blanco,No votó
+2024-09-28,a92c3c3e-3957-4082-9c27-2c51ac98a368,Alto,Masculino,36,Primario incompleto,6,56.76110745122524,No votó,Candidato B
+2023-12-01,f7350626-dca8-46fd-9bea-f9cfaf3cb9d0,Medio,Masculino,78,Secundario completo,1,97.97749004864934,Candidato A,No votó
+2024-06-23,ecb3077a-6cef-4e55-8406-58d1c1da8d39,Medio,Masculino,69,Posgrado,1,84.10816122011549,Candidato C,Candidato C
+2024-07-19,495103ed-fd05-45f5-a252-1f50a54e6c8f,Alto,Masculino,62,Secundario incompleto,4,99.59809063995783,En blanco,No votó
+2025-05-25,7e5168dc-5690-474d-aeda-b7b5e2aa55a7,Medio,Femenino,76,Terciario/Universitario completo,6,28.93958883349206,Candidato B,Candidato B
+2025-04-18,5f653800-29c8-46e0-b130-7e46af797546,Alto,Masculino,39,Terciario/Universitario incompleto,1,68.98728251406911,Candidato A,Candidato B
+2025-09-26,b7ae7758-5b45-4f5a-97de-701d8eafb323,Alto,Femenino,40,Secundario incompleto,4,43.087507041600716,No votó,Candidato B
+2024-03-01,fd723837-705b-4cc2-a40c-a20c702a5b67,Bajo,Femenino,72,Terciario/Universitario completo,4,87.10053616057333,Candidato C,No votó
+2025-10-16,fde9d47d-d893-41ac-9149-7435a9c9a24e,Alto,Masculino,58,Terciario/Universitario incompleto,4,61.332537404656065,En blanco,En blanco
+2024-03-10,38431ed6-2586-44b6-913c-183677f4531b,Bajo,Masculino,56,Posgrado,6,40.39588243849429,Candidato B,En blanco
+2025-03-02,27e08e2f-c06b-4d38-9d01-0478c110412c,Alto,Masculino,42,Secundario completo,2,94.32240462676099,En blanco,Candidato B
+2025-01-13,f361c497-64e0-4ab3-afb8-0c63f42f338f,Alto,Femenino,43,Primario completo,6,84.11693196267376,No votó,Candidato A
+2024-08-19,35c3de95-8a64-4b9f-b52f-600976c0c651,Alto,Femenino,55,Primario completo,2,49.37000468366638,En blanco,Candidato C
+2025-07-20,0bee2ebd-b447-48bd-9e2d-2454e46232e7,Bajo,Masculino,43,Terciario/Universitario completo,1,42.51790194417996,Candidato A,En blanco
+2025-03-12,166adfc4-3513-498c-a7f8-ab5705727bb5,Alto,Masculino,62,Primario incompleto,1,40.32727474676603,Candidato C,Candidato C
+2024-01-08,91d2125a-95e1-4cb6-a98e-ecbada98da57,Medio,Femenino,75,Terciario/Universitario completo,2,40.50457333106201,En blanco,Candidato C
+2023-12-23,8a74bec5-6951-443e-8a6c-b87cdfb87708,Bajo,Masculino,50,Posgrado,6,30.997096133270418,Candidato C,Candidato C
+2025-07-21,f5efaa99-010f-4ddf-a225-183835e1392e,Medio,Masculino,37,Terciario/Universitario incompleto,1,16.73463498250105,Candidato C,En blanco
+2024-01-06,87e51bbc-22e9-4671-ab34-1860fefd320b,Alto,Femenino,61,Terciario/Universitario completo,4,83.03700932891115,En blanco,Candidato C
+2024-04-03,4f027fe8-7d5d-4031-a80b-b7eba49999cf,Alto,Femenino,70,Posgrado,5,12.185788530093355,Candidato C,Candidato B
+2025-06-06,10e857f8-8986-448f-8b3e-00e76151787e,Medio,Femenino,66,Terciario/Universitario incompleto,1,62.28982541656238,En blanco,Candidato A
+2024-04-21,bb00d206-f854-4953-9ad7-3702140a642e,Medio,Masculino,54,Primario completo,3,15.91595752181788,Candidato C,En blanco
+2023-12-19,34367eaa-03ea-438f-8095-e0997e240205,Medio,Femenino,71,Secundario completo,1,86.7848429009013,Candidato A,Candidato B
+2024-08-26,5c29b6da-c1d7-4be9-9df4-97f16b5a174d,Alto,Masculino,33,Terciario/Universitario completo,5,22.780902473679653,Candidato B,Candidato C
+2023-11-08,05f2b928-beb9-49e2-956e-3ae54fe4b735,Alto,Masculino,30,Terciario/Universitario completo,5,12.574167739967113,En blanco,Candidato A
+2024-01-17,9d263e76-3d37-43f8-8ef9-80cec471e21a,Bajo,Masculino,45,Primario completo,1,1.7778172745213983,Candidato C,Candidato B
+2024-09-02,968051b7-0723-4796-9d95-39fcf7cd0b75,Bajo,Femenino,31,Primario incompleto,2,90.47309715869284,Candidato B,Candidato B
+2025-01-07,5e15428a-833c-490f-b555-a628dd153fb4,Alto,Masculino,34,Primario completo,6,78.86689660741341,Candidato A,No votó
+2024-12-09,1c351dc9-4226-4a44-b73b-83502743e0df,Bajo,Masculino,50,Primario completo,3,31.36096185436008,Candidato C,Candidato B
+2024-06-14,e0c6a8a7-4748-47ea-b278-9d7597f0bfcf,Alto,Masculino,28,Terciario/Universitario completo,4,86.44882913539155,Candidato A,En blanco
+2024-10-15,61f9c408-3833-4558-bb23-23e7d6a2c379,Bajo,Masculino,50,Terciario/Universitario incompleto,2,50.80254804779409,En blanco,Candidato C
+2025-10-16,ed6a1bfc-81be-41f4-bef8-74d76251d74d,Medio,Femenino,26,Terciario/Universitario completo,5,21.904751891099405,En blanco,No votó
+2024-11-15,971964f8-d2fb-45ca-ba72-4b9f56fb5c72,Alto,Masculino,69,Posgrado,4,56.758352990093655,Candidato B,Candidato A
+2025-07-06,0b44361f-16c7-454a-af82-c4d6438dc8b1,Alto,Masculino,56,Posgrado,6,2.856695272905807,No votó,En blanco
+2025-01-29,958cd60e-a07f-4f47-90c6-fa8c27a0008c,Medio,Masculino,51,Primario completo,3,69.56963847384822,En blanco,En blanco
+2025-05-09,f489362c-1034-4193-bc2b-940d9045a445,Medio,Masculino,66,Posgrado,3,27.124937777977788,Candidato B,No votó
+2025-04-12,6f48744f-7abc-4f0b-86fe-0dedfe38784b,Bajo,Masculino,75,Terciario/Universitario completo,6,37.38041372264165,En blanco,Candidato B
+2024-04-18,df4630ad-baaa-4300-a2b2-2fd551c6a2e4,Medio,Masculino,52,Primario completo,2,86.2776773325423,Candidato C,No votó
+2024-09-25,9b6e83a9-6f2a-43b2-9dd9-5d4c0637fdca,Medio,Femenino,67,Posgrado,6,62.338142418584006,Candidato A,En blanco
+2024-01-05,22324672-f64e-4f4a-af89-c2e7aa170666,Medio,Masculino,76,Posgrado,4,95.92750201586423,Candidato A,Candidato A
+2024-08-14,07f79ee0-e299-4b48-a449-213ac2fab184,Medio,Femenino,50,Posgrado,3,22.66163372271578,Candidato B,No votó
+2024-04-20,3f7512c5-6e05-424d-b49b-93d51e709e19,Medio,Femenino,71,Posgrado,2,0.6685742889912527,Candidato C,No votó
+2024-05-22,43a061c4-45a1-4970-a11b-26b008236adf,Medio,Femenino,70,Terciario/Universitario incompleto,2,85.19898339816417,Candidato A,Candidato B
+2025-01-29,4aa83cd6-5804-4881-9d8c-ca3b62614790,Bajo,Masculino,59,Terciario/Universitario incompleto,6,60.91189934830938,Candidato B,En blanco
+2025-06-27,a31cc5d2-cd96-46a1-9dbd-c6ff5fad7a0d,Bajo,Masculino,48,Primario completo,1,13.307110116046672,Candidato C,En blanco
+2024-03-10,8aae0c3a-d312-44e0-bebb-e60d3085ee6d,Alto,Femenino,76,Primario incompleto,2,25.349884273493505,Candidato A,No votó
+2024-10-01,83f0ba77-56b8-402a-8f42-4ffa8abb572c,Bajo,Masculino,39,Primario incompleto,6,94.70997574592629,Candidato B,Candidato C
+2024-03-30,e8751766-2953-4a13-8392-79358d5f52c0,Bajo,Femenino,34,Secundario incompleto,5,57.72401228688504,Candidato B,No votó
+2024-08-06,a31ca36b-059e-4b2e-91ca-e1937ed61f4e,Medio,Masculino,45,Primario incompleto,3,55.37276804412983,Candidato B,Candidato B
+2024-01-30,233e3834-54e2-4ea6-8202-faf9dcebef56,Alto,Masculino,37,Secundario incompleto,6,77.08637053172544,No votó,Candidato A
+2023-12-21,196d362d-fec2-4805-beea-c13d581332c2,Medio,Femenino,47,Terciario/Universitario incompleto,6,90.1287205426457,En blanco,Candidato A
+2025-08-01,f48ef9a8-6aeb-4a32-8fad-725d9d0b6f5e,Bajo,Femenino,76,Secundario completo,4,39.019187215413965,Candidato C,Candidato C
+2025-09-02,4063d525-1152-497e-8201-66e3ca687a98,Bajo,Masculino,59,Terciario/Universitario incompleto,6,82.44986732440852,Candidato C,No votó
+2025-08-25,133894b3-854c-4896-9aac-3ca1920c904e,Medio,Femenino,51,Posgrado,1,86.90824356126811,Candidato B,En blanco
+2025-04-30,20d5c16e-9611-49cf-bfbd-fd47dc7972f0,Medio,Femenino,21,Secundario incompleto,3,95.50707991317299,Candidato B,Candidato B
+2023-11-23,d733f669-852d-4585-88df-6b197c3ad037,Bajo,Masculino,68,Terciario/Universitario incompleto,5,48.04034110991623,No votó,Candidato B
+2025-10-03,18c8ece6-58ea-4417-b930-31a6c82a6c15,Medio,Femenino,64,Secundario completo,4,89.26365142625544,En blanco,Candidato B
+2024-12-14,378b094c-b517-4761-961a-43f28ecb4971,Alto,Femenino,30,Primario incompleto,3,82.33124738454327,Candidato A,No votó
+2024-10-17,a9d21bf8-b195-4990-ad5c-6415fedcb8f9,Alto,Masculino,79,Terciario/Universitario completo,4,46.96195767279783,Candidato B,En blanco
+2025-06-08,338f4acf-6627-4136-baeb-5bc0f63d307c,Bajo,Femenino,34,Primario incompleto,1,71.79086491447259,En blanco,No votó
+2025-04-10,706146ff-becb-44c8-b2c9-2c129bd91220,Alto,Masculino,47,Primario completo,2,13.504056655451036,No votó,No votó
+2024-04-06,b883a8ea-44e8-4604-a870-2bb15931c9b4,Alto,Femenino,62,Posgrado,3,74.44777607862666,Candidato A,Candidato B
+2024-02-02,f94d9109-5939-45b5-a503-9055f90b9724,Bajo,Femenino,22,Secundario completo,2,39.62254126177923,Candidato A,Candidato B
+2024-11-22,33672754-da2e-4e6c-8c1a-612bfff99f34,Medio,Masculino,19,Primario incompleto,4,82.79099346958144,Candidato C,Candidato A
+2024-09-06,5050f32c-d406-4cce-b73a-13fb37503d77,Medio,Femenino,30,Secundario incompleto,2,34.497142068790176,En blanco,Candidato B
+2024-05-19,8fa41d22-46dd-40ac-a0e3-0a4dfbcefcd0,Bajo,Femenino,56,Secundario incompleto,2,79.75476692803575,Candidato C,Candidato A
+2024-04-10,001debf6-c503-4cb5-86b4-195caa19af26,Alto,Femenino,24,Secundario incompleto,1,29.012443093292195,Candidato B,No votó
+2025-03-13,53fd2516-d1bf-4aba-a908-923b1551f819,Medio,Masculino,72,Terciario/Universitario completo,2,49.87326805313729,No votó,Candidato A
+2023-12-04,c833b07e-b4d5-4ffc-9f4a-518a4ef0ba9b,Medio,Femenino,34,Secundario completo,4,39.71804880313356,No votó,Candidato B
+2025-07-13,15a652a7-08fc-47af-92c1-b3c7f33c4233,Medio,Masculino,80,Secundario completo,4,99.63811755070708,Candidato B,No votó
+2024-04-17,cda840fd-4adb-4798-839d-60ba9c993735,Bajo,Femenino,68,Primario incompleto,1,24.11062404138471,Candidato C,Candidato A
+2025-02-28,467a6bdf-b63c-4dd8-aa9e-9a381d5a474c,Bajo,Masculino,78,Secundario incompleto,3,84.20346190180001,Candidato C,Candidato A
+2024-02-23,8dff06d2-8340-4ed5-b38f-8437faa2cbad,Medio,Femenino,18,Terciario/Universitario completo,2,80.78821221809477,Candidato B,Candidato A
+2024-01-22,16c2b4aa-72f7-4920-9d75-16f558aa0383,Bajo,Femenino,70,Primario completo,1,94.67437952909289,Candidato B,Candidato B
+2024-04-03,d4dc2301-882a-4925-80b2-db0c6a2465cf,Bajo,Masculino,73,Primario completo,3,69.27488385350358,Candidato C,Candidato B
+2024-10-23,97f43de4-1493-4a25-9f69-cd4368bfbf7e,Bajo,Masculino,31,Posgrado,2,49.658792288946415,En blanco,Candidato B
+2024-08-21,52fa3935-ff28-4550-b684-7398fabbc6b6,Alto,Masculino,78,Primario incompleto,2,94.17121667861488,Candidato C,Candidato B
+2024-08-08,a0d9da58-3db4-4b81-8beb-cf4f2c94151d,Alto,Femenino,75,Terciario/Universitario incompleto,2,3.7760643190397625,Candidato C,Candidato C
+2024-12-30,496749fb-b2e0-4961-ac73-189c6fdc5e00,Bajo,Masculino,29,Terciario/Universitario completo,5,90.77370154232072,En blanco,En blanco
+2025-08-05,021ac45b-d5e3-4aef-85dd-1ef0080638c9,Alto,Femenino,57,Primario completo,5,74.20564920458503,En blanco,No votó
+2024-02-27,13801f25-44f0-4c4e-987d-3afca3705e8a,Medio,Femenino,29,Primario completo,3,20.249345545953457,En blanco,En blanco
+2024-01-22,5028361f-a945-41d7-b9d0-a163def1274a,Bajo,Femenino,76,Posgrado,6,29.246709264955374,Candidato B,Candidato A
+2025-02-07,a74b3d20-8c3f-429f-ba4b-0bc65121f31f,Alto,Masculino,79,Terciario/Universitario incompleto,4,86.39124216536999,No votó,Candidato C
+2024-11-14,c884e666-0c66-4a49-8995-4cf1faaf500c,Alto,Femenino,60,Primario completo,3,10.374611101378973,En blanco,No votó
+2024-02-25,e368f7d2-d973-4b86-bfb2-30b2b55dc442,Alto,Femenino,41,Secundario completo,5,27.029413106354305,Candidato B,Candidato A
+2025-01-12,42734d1c-23d8-4f22-8440-3b37b13bad4e,Medio,Masculino,57,Secundario incompleto,6,15.067531730295947,Candidato C,Candidato C
+2024-09-12,637c3644-c934-4ce7-8e5b-c44c98decbf6,Bajo,Masculino,69,Posgrado,4,20.931352903938638,En blanco,En blanco
+2025-03-11,39b66d71-951a-4518-87e7-7e2b6b291a13,Medio,Femenino,35,Primario incompleto,5,13.038153323408741,En blanco,Candidato A
+2025-04-13,e9184b9f-5010-49e2-b367-dbe240e3469f,Medio,Femenino,18,Posgrado,6,34.71034780825772,En blanco,No votó
+2024-09-25,e3aeb12e-7d4f-4fff-8865-3e42cefe73ec,Bajo,Femenino,61,Secundario incompleto,3,87.31226293514382,Candidato A,Candidato C
+2025-09-13,6c749cf4-1f75-40bc-b550-f22172e55360,Bajo,Masculino,60,Secundario completo,3,59.29737523135004,Candidato C,Candidato A
+2024-12-10,0d20f686-854d-49b6-ab66-b1c05fdd5329,Alto,Femenino,19,Terciario/Universitario incompleto,1,15.91843222080901,En blanco,Candidato A
+2024-11-20,7a31a27c-ced4-4d7c-b4ca-01423b239fd8,Alto,Masculino,19,Terciario/Universitario incompleto,5,10.474871938299035,Candidato C,Candidato A
+2025-04-12,14c30b50-3d0d-4ad0-87d5-e121623a35ae,Medio,Femenino,56,Terciario/Universitario incompleto,6,99.79840735689388,Candidato A,Candidato C
+2025-10-14,2ec012f0-d310-4ac5-9932-263c4eec95b0,Alto,Femenino,76,Primario completo,5,25.238388459962145,Candidato C,Candidato C
+2025-09-21,700b1433-f5d6-4476-a0f1-2d46e775f27e,Alto,Masculino,77,Terciario/Universitario completo,2,28.660899611981105,En blanco,Candidato A
+2024-07-09,5cb76bb9-c0ff-44b4-a4bd-7d5703e3c25b,Medio,Femenino,28,Secundario incompleto,3,18.5723744787879,Candidato C,Candidato B
+2025-08-10,86ff76d1-1fe3-4b56-a9f5-a74186861f29,Alto,Femenino,71,Terciario/Universitario completo,2,27.902956733774698,En blanco,Candidato A
+2024-11-23,44bfc434-481c-43f9-bff5-101d3f1cd31b,Bajo,Masculino,73,Terciario/Universitario incompleto,5,94.46133362930865,Candidato A,Candidato C
+2024-11-23,b287c440-7881-407d-ae77-1359677abeb7,Alto,Masculino,37,Terciario/Universitario completo,5,37.10946821261302,Candidato A,Candidato C
+2025-03-09,2a0b2040-0ef0-4b6f-ad48-79e7efd164ee,Alto,Femenino,79,Terciario/Universitario incompleto,6,41.36607293826467,No votó,Candidato C
+2025-04-05,86343347-daa6-426a-a30d-04fdb58c1e9f,Alto,Masculino,70,Secundario completo,1,33.43358614552696,Candidato C,Candidato B
+2025-09-11,26b1caba-3fcc-42c1-b3d4-a0965b7801ea,Medio,Femenino,33,Primario completo,3,59.57731199345563,Candidato C,En blanco
+2024-04-06,c9f35bf8-4d03-4bdd-8c86-9dea38a7ac54,Bajo,Femenino,43,Secundario incompleto,4,52.46206494093257,No votó,En blanco
+2024-12-27,fba0fd45-8d3a-44b9-afb0-107425323fd3,Medio,Femenino,70,Primario incompleto,2,26.06600362852901,En blanco,Candidato B
+2025-02-17,2e665ecb-06f9-44e6-8b4e-b003401a2e8a,Medio,Masculino,49,Secundario completo,1,10.767115623388912,Candidato C,Candidato B
+2025-10-25,b8c5ee78-d214-4218-9d3b-8d933b8ddd5b,Alto,Femenino,65,Terciario/Universitario completo,1,55.47100151893199,En blanco,Candidato A
+2024-04-19,b489f5c7-e22f-4e82-acdd-001e6ad8c64d,Alto,Femenino,41,Terciario/Universitario completo,4,55.738737291869924,Candidato A,Candidato A
+2023-11-09,c21d3ead-3e4c-4362-a826-ef27f190cb53,Bajo,Masculino,72,Secundario incompleto,5,5.657748155057263,Candidato C,En blanco
+2024-07-23,d5511e14-e18d-49ce-a0fa-5cd38f5a5ade,Alto,Femenino,40,Primario completo,5,34.14794335410457,En blanco,Candidato B
+2025-05-03,beb778d6-2b02-4118-ae63-ad3a94d7f681,Bajo,Femenino,23,Posgrado,5,42.41522446826869,En blanco,En blanco
+2025-06-04,c6218f7f-fcd4-4b19-8625-dcb03f79dd31,Bajo,Femenino,55,Terciario/Universitario completo,5,48.39065506659628,No votó,No votó
+2025-09-30,db0198ff-de21-4855-8c71-3ba64ca49e01,Medio,Masculino,45,Secundario incompleto,5,31.761772848681467,Candidato A,No votó
+2024-07-06,05628912-bdf2-45a1-b57a-5c03cb85eda6,Medio,Femenino,68,Posgrado,5,66.94093241346066,En blanco,En blanco
+2025-07-29,e7a2d2d0-ca3c-4050-b5fc-1b10b8d13539,Medio,Masculino,25,Secundario incompleto,6,80.12677522666442,No votó,No votó
+2024-07-08,697b8538-0ff7-4f25-b325-1c76d8efb5c9,Bajo,Masculino,62,Primario incompleto,6,11.932240743377475,Candidato C,No votó
+2023-11-29,634da412-816a-4ea8-a18a-47632af595a3,Medio,Masculino,19,Secundario incompleto,4,42.185876480931086,Candidato A,Candidato B
+2024-12-13,86b0915a-8880-49fd-a282-c33d3665b6a5,Medio,Femenino,67,Primario completo,4,66.76181039483718,Candidato C,Candidato A
+2024-02-25,db160641-2074-47e7-9a60-8f0d7e4132ad,Alto,Masculino,29,Secundario completo,3,59.25934090181162,Candidato A,Candidato A
+2025-09-11,e62ce6a3-02fb-4d7c-8866-2aba16018cc6,Bajo,Masculino,18,Primario incompleto,5,87.24155519164894,No votó,Candidato A
+2024-05-19,02b33be2-14ed-45bd-a4d0-8ebed335914c,Bajo,Femenino,56,Secundario completo,3,87.047658688063,En blanco,En blanco
+2025-02-12,3e37355e-fbdc-478a-bf33-551df6292535,Bajo,Femenino,52,Terciario/Universitario completo,2,54.549545305845506,No votó,Candidato B
+2025-07-03,ac91c01e-734c-4192-a557-8e91bee5f64d,Medio,Femenino,35,Secundario completo,3,88.78950903149236,No votó,Candidato B
+2024-03-02,f9154865-6996-4b5c-bc14-5cfe469a1289,Medio,Masculino,40,Primario incompleto,4,80.65402134835557,En blanco,Candidato C
+2025-08-17,421cf262-6573-4938-a96e-2bf4586523b8,Bajo,Masculino,65,Terciario/Universitario completo,2,15.025674581775306,Candidato B,No votó
+2024-08-22,c315d334-e47c-48ea-939e-5ca2b9e7f780,Alto,Femenino,31,Posgrado,5,0.9254538461952122,Candidato A,Candidato A
+2025-01-27,bda31488-3e1f-48ac-9606-293028600311,Alto,Masculino,73,Posgrado,6,38.64733712665197,Candidato C,Candidato A
+2024-06-17,c2f89ef4-0b9b-4b7e-9ba6-20f135bbcdb0,Alto,Masculino,76,Secundario incompleto,6,36.504665621157216,No votó,No votó
+2025-05-12,cf21ae6a-82e2-4424-8dbc-ad25daace3a3,Alto,Masculino,42,Terciario/Universitario incompleto,1,2.8183604572538767,No votó,No votó
+2025-05-03,3fbdaeed-723d-48f5-b170-78ee112930f2,Bajo,Masculino,30,Terciario/Universitario incompleto,6,81.04244793570825,Candidato B,Candidato C
+2025-07-20,e5a15243-c728-4f15-b5cb-b690735b3a80,Bajo,Masculino,38,Posgrado,4,51.63515626823552,No votó,Candidato B
+2024-11-01,998df20b-226d-4ed0-a958-4453c2eaf172,Bajo,Masculino,29,Secundario completo,2,97.59792679504542,No votó,Candidato C
+2023-12-23,4a0609aa-827a-4d0d-a150-93b0a07aeb89,Alto,Masculino,68,Secundario completo,1,83.34924790536118,Candidato B,Candidato C
+2025-07-15,59e8484c-25d2-43e3-992e-7dea03743263,Alto,Masculino,29,Terciario/Universitario incompleto,1,80.7827998641068,Candidato A,En blanco
+2024-01-06,d466c772-5df5-472b-9ba4-8aa0aab6941b,Alto,Femenino,49,Posgrado,5,39.90177328815492,No votó,Candidato A
+2024-12-07,a443a737-8072-4635-8c1f-59dff6b4160b,Alto,Femenino,60,Terciario/Universitario incompleto,1,94.34240751930697,En blanco,En blanco
+2025-09-06,05c2b105-2234-440f-80e5-e8fab0335368,Medio,Femenino,27,Terciario/Universitario completo,2,71.32795982891179,Candidato A,Candidato A
+2025-10-13,ef6be029-bbef-427f-8e91-e0c97abd2241,Alto,Femenino,57,Terciario/Universitario incompleto,1,10.503710521621013,No votó,Candidato C
+2023-12-02,9bcae27d-3319-48eb-9afd-518dd55f0e0e,Medio,Masculino,55,Primario completo,1,55.38214608509331,Candidato A,No votó
+2023-12-23,4d29d77a-7939-40e6-96e1-6c2b659badcb,Bajo,Femenino,50,Primario completo,3,21.123816313415876,Candidato C,Candidato C
+2024-04-24,d197b561-79b6-4b95-a3aa-9e6770bc3ec1,Bajo,Femenino,44,Posgrado,3,64.24640085916056,Candidato C,En blanco
+2024-02-11,b3739067-cf08-4288-b004-1e324bc01de3,Medio,Masculino,55,Primario incompleto,6,40.24394537829823,Candidato C,No votó
+2023-12-03,da68fa2a-5958-4c94-94f5-edf7e9bf79f4,Alto,Femenino,58,Secundario incompleto,2,4.103445915374849,Candidato A,Candidato C
+2024-06-22,6557338d-6175-416a-9a64-2c24a34acc3e,Medio,Femenino,78,Primario incompleto,1,89.94877866135079,En blanco,En blanco
+2023-11-13,e53428bb-b20e-4719-a6b9-b21b94291726,Bajo,Masculino,76,Posgrado,6,91.94922375133358,Candidato B,Candidato C
+2025-06-13,d09bf39c-acb1-491c-8c43-745b80635ef2,Bajo,Femenino,73,Secundario completo,1,63.67230292741461,No votó,Candidato A
+2025-08-18,3c38bfd6-d7e2-4908-9090-d244c1d44db0,Medio,Femenino,32,Terciario/Universitario completo,2,20.781110882978847,No votó,Candidato A
+2024-10-15,43e1592e-3765-402d-ae6b-3eba3055d84e,Bajo,Masculino,75,Secundario incompleto,6,41.17126209296972,Candidato A,En blanco
+2024-07-15,23e86d63-8278-41e5-aadb-6a6783add758,Bajo,Femenino,18,Primario completo,2,69.46494031375492,No votó,Candidato B
+2025-09-01,c1afb76b-8473-4c88-98ec-dbc6cec7190b,Medio,Femenino,21,Secundario completo,3,11.585928061292227,No votó,Candidato A
+2024-03-05,e9492308-c710-4ab3-881f-93bde669d6b6,Bajo,Femenino,45,Secundario completo,4,20.71863810598249,No votó,Candidato A
+2025-07-15,a5c07ecf-d38a-4bdb-9610-de6d819de9b4,Alto,Femenino,75,Secundario incompleto,6,9.052294569527552,En blanco,Candidato B
+2024-02-25,424c222f-577a-4515-aac5-03ff79d1b233,Bajo,Femenino,56,Terciario/Universitario incompleto,5,93.40074041903205,Candidato C,Candidato C
+2025-09-06,e807092d-74ca-4c56-8d39-03626ef4d6b4,Medio,Femenino,20,Secundario completo,5,75.4918469365522,En blanco,Candidato B
+2025-03-25,ca19e5a8-0d5a-4ad3-86d7-7094a6894303,Medio,Femenino,59,Primario completo,6,13.7426356027473,Candidato C,Candidato A
+2024-10-24,41ca37f5-f7de-4a61-b1bf-3b36bac114b5,Alto,Masculino,59,Terciario/Universitario incompleto,3,23.564687314749875,No votó,No votó
+2024-08-16,04ade7b7-119b-4fb4-b0fd-e8c97575117c,Medio,Masculino,59,Secundario completo,4,65.72699303576177,No votó,Candidato B
+2024-11-28,db0dff11-1a6c-4c25-98e1-6bc0338589c7,Bajo,Masculino,77,Secundario incompleto,2,97.37048832412903,Candidato B,Candidato B
+2024-08-24,f17a7c84-cb3d-4ee7-ba9f-941a41a064be,Medio,Masculino,26,Posgrado,4,21.53837823341781,Candidato C,No votó
+2025-10-01,3771f867-dfa2-452b-9351-69bc0044c690,Medio,Masculino,50,Primario completo,6,84.82440589717616,Candidato B,Candidato C
+2024-12-17,9e3f4f15-2f5c-4cbe-a55b-88fff0862962,Alto,Masculino,23,Terciario/Universitario completo,1,43.52408662362319,Candidato B,En blanco
+2024-11-26,a94a29d3-f73c-4dce-a83f-32782c702901,Medio,Masculino,44,Primario incompleto,5,85.74682489282628,Candidato B,Candidato C
+2023-11-28,44864d26-cfd0-4276-9c01-7e5d5c41dfb5,Bajo,Femenino,37,Primario completo,6,1.1406548025544194,En blanco,En blanco
+2025-01-20,a81b3fe3-fda4-4455-acac-00dc024e8609,Medio,Masculino,39,Secundario incompleto,2,52.22963041106353,Candidato B,En blanco
+2024-01-11,ea9e062a-9b89-4f0d-8549-61d60438b3d4,Bajo,Femenino,58,Secundario incompleto,5,41.86591186726866,Candidato B,No votó
+2025-04-12,dec22e0c-d4cd-42fa-aadf-d824edaeec39,Bajo,Masculino,76,Terciario/Universitario completo,1,78.72785867392197,Candidato C,No votó
+2025-07-10,3c737aea-d273-4cbe-b65a-1a2a4f768aac,Medio,Masculino,58,Terciario/Universitario completo,4,96.11606710374801,Candidato C,En blanco
+2025-07-19,bd03c81f-7ff3-4029-92bd-db3b649ec503,Alto,Masculino,77,Posgrado,6,10.174257168194911,Candidato B,Candidato B
+2024-12-08,167ad089-5ace-4dbf-9bb5-9fc25cffc96e,Bajo,Masculino,70,Posgrado,1,75.32409698961435,No votó,Candidato B
+2025-06-12,1d86fd12-c835-4b91-ae93-5faf9502e1d5,Medio,Femenino,57,Primario incompleto,4,36.29578266352891,Candidato C,Candidato A
+2025-02-10,2c14af79-c4a0-41cd-8654-f465b311d9c4,Medio,Femenino,30,Terciario/Universitario completo,2,88.15622376997007,Candidato B,Candidato B
+2023-12-31,45c55e39-881d-4ee1-9808-2cf303a769aa,Bajo,Femenino,63,Primario incompleto,2,86.39032045973234,Candidato A,Candidato C
+2025-06-04,dedff24b-3567-4813-bd05-bc2c5a505a98,Bajo,Masculino,21,Secundario completo,1,99.73961655142067,En blanco,Candidato B
+2024-09-28,51bb91c1-3262-4328-a24a-adaeebbcf1f6,Bajo,Femenino,39,Secundario incompleto,5,50.933613802098144,Candidato B,Candidato C
+2025-10-05,7f0df2ca-2dc6-42ac-8bae-0e932f39c045,Medio,Femenino,80,Secundario incompleto,6,49.87823335768867,Candidato B,Candidato B
+2025-06-10,9766c143-9c9a-4cff-a6b1-8865a878e876,Bajo,Femenino,26,Terciario/Universitario incompleto,2,21.204346840192002,No votó,Candidato A
+2024-04-10,a0a1f43f-9638-43c7-a85e-406b817131eb,Alto,Femenino,38,Terciario/Universitario completo,3,5.115549688168109,No votó,No votó
+2024-06-13,3a0879fb-dc78-43b3-a919-b5aaf0c99bea,Bajo,Masculino,80,Primario completo,3,90.5457024730956,Candidato B,En blanco
+2024-12-21,6fa68010-0ddd-49b7-80b4-25aae7eb533c,Bajo,Masculino,80,Secundario incompleto,3,10.817877400977894,En blanco,En blanco
+2025-10-01,a5794917-0806-489a-9abf-3e69e5bcd7ed,Bajo,Masculino,60,Secundario completo,4,43.22035062371772,Candidato B,No votó
+2025-02-08,22b34047-ee4b-4498-a5f3-aa63a5cbed9f,Bajo,Masculino,65,Posgrado,3,10.14514102186973,En blanco,Candidato C
+2024-09-21,4f7070e6-6b58-496c-95d0-db4380a17176,Alto,Masculino,35,Primario completo,5,3.7443727999328824,Candidato C,Candidato B
+2025-08-04,a0536c6c-ea87-43d2-a208-47d854ed1b3b,Alto,Masculino,49,Terciario/Universitario completo,4,32.78273070650538,No votó,Candidato B
+2024-11-10,30668cc9-9e7f-4271-938b-8f29ed0c5245,Alto,Femenino,80,Primario incompleto,4,11.450876013576572,Candidato A,Candidato C
+2025-08-19,f8b55fb5-56d1-479c-8fbc-0318b6e4d16e,Bajo,Masculino,48,Primario completo,3,28.30176425544212,Candidato A,Candidato A
+2025-07-08,fae46529-fa9f-4ece-90ed-6af2235f6be1,Alto,Femenino,56,Secundario incompleto,3,99.27925772803864,Candidato C,Candidato B
+2024-08-29,7c6d8ae1-463e-4336-bf3c-fe56a83299e9,Bajo,Femenino,76,Posgrado,5,24.053253885134062,Candidato B,Candidato A
+2025-02-15,e9abfb0d-9be5-4401-bb33-241efa2225d7,Medio,Femenino,39,Terciario/Universitario completo,3,78.78817863986909,Candidato A,Candidato C
+2025-01-30,a55dc720-e554-4022-8502-d7f854a1396c,Medio,Masculino,35,Secundario completo,4,78.89321935963235,Candidato A,Candidato A
+2024-05-01,c1308a09-cddd-43bb-b56a-a13d13f1484a,Alto,Masculino,75,Secundario completo,5,6.490108442843001,Candidato C,Candidato B
+2025-08-24,832e9e1e-1b90-4d6d-a5e6-190b28da2b89,Bajo,Femenino,59,Primario completo,3,39.15638735903734,Candidato A,Candidato A
+2025-09-03,679140e0-b6fe-4e9a-8f15-c995424a2898,Alto,Masculino,22,Terciario/Universitario completo,4,14.91809778395191,En blanco,No votó
+2025-07-13,abc2ded7-6bd8-465f-b2a2-761a9ba66e98,Bajo,Femenino,47,Posgrado,6,32.46642740442235,Candidato C,Candidato A
+2023-11-17,6b4de9de-ec7b-409c-9b83-a43728b7405b,Bajo,Masculino,69,Secundario incompleto,3,13.04511818141798,Candidato C,Candidato A
+2025-03-26,a8294aab-afaf-4b68-a05b-f9e7c42b43fa,Bajo,Femenino,66,Secundario completo,4,13.791691541367735,En blanco,Candidato A
+2025-09-19,c99d5f9e-c634-4ffd-b02d-d043d01acef6,Medio,Masculino,28,Posgrado,3,71.43985001018484,En blanco,Candidato A
+2023-11-02,1c87284d-c5fa-4ac9-95a3-7efe1cc7e2b6,Bajo,Femenino,75,Secundario completo,6,5.418731620663708,Candidato C,Candidato B
+2025-05-30,f6b1465d-bf2b-4442-af9f-5bf9d6b6b5d0,Medio,Femenino,24,Secundario completo,1,47.662248125008375,Candidato B,En blanco
+2024-03-22,ba9d82b8-afba-46c3-8b51-1edb7b768615,Medio,Masculino,50,Secundario incompleto,2,55.17705249423431,No votó,No votó
+2024-06-23,6cff30a0-c3ac-432c-af40-5e52199a1949,Alto,Femenino,34,Terciario/Universitario incompleto,6,42.43155708087079,Candidato C,Candidato C
+2024-11-29,1c52d51e-c8fe-4b2d-86b0-163043215bf4,Medio,Masculino,53,Primario incompleto,4,24.75049586406032,No votó,Candidato A
+2025-01-17,d3414532-8252-4723-9b0e-ec4ba2a1fa45,Bajo,Femenino,63,Primario incompleto,3,62.31849850391038,No votó,En blanco
+2024-05-17,02115503-1321-4ef7-8d43-cfeb89386b90,Bajo,Masculino,43,Terciario/Universitario incompleto,4,9.730322906698618,Candidato A,Candidato A
+2024-07-17,f94523fe-03cb-4f1e-9b9a-9bf50a78491f,Bajo,Femenino,56,Posgrado,4,17.467706438958775,Candidato C,Candidato B
+2023-12-22,e36b3a5f-2374-4ddd-b410-5d94c689f37b,Medio,Femenino,46,Secundario completo,6,29.53642539829965,En blanco,No votó
+2024-11-19,c8a86e3a-6293-4980-a879-5e631f742e70,Medio,Femenino,44,Primario completo,6,44.91778347694735,Candidato C,No votó
+2025-08-30,06ec9ad0-e2cb-4f40-bb38-a089fa4abdec,Medio,Femenino,60,Primario incompleto,6,20.187324242112915,Candidato A,No votó
+2024-05-23,23f3e5ae-d1de-4fa8-a1c5-63425033b5a4,Medio,Femenino,28,Primario incompleto,2,64.93316179215506,No votó,No votó
+2025-08-03,a4d6ce54-645c-4176-b3f1-75d015c7a820,Medio,Masculino,56,Posgrado,2,26.185850639517394,Candidato B,Candidato A
+2024-06-24,39a11816-fc7a-4d95-bfdf-8a9e9446d493,Alto,Masculino,77,Terciario/Universitario incompleto,4,47.89924188748984,No votó,Candidato B
+2025-06-24,ea3a5bf3-6994-4c6d-b590-a2e50c780f2f,Alto,Femenino,44,Posgrado,2,80.48965517632936,En blanco,Candidato B
+2024-09-13,0c1333ce-0711-4e78-a70a-26e9eb6b96ec,Medio,Masculino,67,Terciario/Universitario completo,2,66.90808844547247,No votó,Candidato A
+2024-08-26,21eaa1fa-663e-4b2b-8832-35cc995d767b,Bajo,Femenino,26,Secundario completo,5,60.27033195942104,No votó,No votó
+2025-07-23,4c15514d-b40e-4501-bb2c-2c428f6dc117,Alto,Masculino,61,Terciario/Universitario completo,2,83.2325365915786,En blanco,En blanco
+2024-08-26,fa4f4535-e45d-4903-a79b-cce2681d30de,Bajo,Femenino,60,Secundario completo,1,40.39858754781418,No votó,Candidato C
+2023-12-20,8bdd4b9d-fc2c-45c7-9556-2dabf4a9b4e3,Bajo,Masculino,70,Primario completo,3,43.00081451397314,Candidato C,Candidato C
+2024-03-08,72189a39-d63a-4486-be21-64760e05f6b9,Alto,Masculino,78,Secundario completo,5,39.05933884319167,Candidato C,No votó
+2025-03-13,8f815987-2539-4778-8ada-b689e0dd0541,Alto,Femenino,67,Terciario/Universitario completo,5,13.088407907637,No votó,No votó
+2025-10-28,a4ed017b-208a-488e-a6e4-ac85f10185fd,Medio,Femenino,68,Terciario/Universitario completo,2,59.65612049525346,Candidato B,Candidato B
+2024-02-08,2b194984-f49e-45a6-96ab-64d235128906,Bajo,Femenino,25,Primario incompleto,5,49.018410675167786,Candidato B,No votó
+2024-05-05,7837e506-9398-4bd6-96db-36e4d4ae3486,Medio,Masculino,55,Secundario completo,2,79.80003970445274,Candidato A,No votó
+2024-06-11,362da540-40b1-464d-8493-3c8649adce95,Bajo,Femenino,67,Primario incompleto,6,60.85676022170935,Candidato B,En blanco
+2025-05-21,dd6af484-024d-45de-af44-eaeb6734162f,Bajo,Femenino,25,Terciario/Universitario completo,4,34.52753698991445,Candidato A,Candidato C
+2025-08-07,860215be-0d32-4347-9cbc-d86ea2e86f7a,Bajo,Masculino,71,Posgrado,1,85.92799348073503,Candidato C,Candidato A
+2024-07-18,e04ee43c-11f6-4e9b-8736-1a75c61b2c77,Medio,Masculino,29,Secundario incompleto,4,27.652243530304233,Candidato A,Candidato B
+2023-12-15,278db4f6-48df-480e-a3b4-e52902a007fc,Alto,Femenino,65,Terciario/Universitario incompleto,2,30.557635758865164,Candidato B,Candidato A
+2023-11-29,c2ff347b-d527-4331-a40e-b6c1c5cf255f,Bajo,Masculino,79,Primario completo,4,86.93909419261139,No votó,No votó
+2024-11-09,fec09878-f034-4058-a274-00da81de9808,Bajo,Femenino,48,Secundario incompleto,2,97.99201182093384,Candidato C,Candidato B
+2024-09-21,01a50ef1-550c-44d4-b409-8aef1d50fccf,Bajo,Masculino,36,Secundario incompleto,1,21.172782328330285,En blanco,En blanco
+2024-02-19,d66a45e9-52c5-4809-920e-ab0ebd8744d8,Medio,Masculino,61,Terciario/Universitario incompleto,1,22.474253393225073,No votó,Candidato B
+2024-11-18,c045883b-940f-437e-948c-3ec425365ca8,Medio,Masculino,64,Primario incompleto,5,57.93163650848497,Candidato C,Candidato A
+2025-09-23,3504e26c-5f7e-47d3-960d-0b9e1004d975,Medio,Masculino,24,Terciario/Universitario incompleto,1,2.441531688218279,Candidato A,No votó
+2025-09-02,aeaaec48-54f1-47a3-b378-e6ca40fd8aaa,Alto,Masculino,61,Terciario/Universitario completo,6,81.50552886348505,No votó,Candidato A
+2025-02-11,86c52c1b-8923-4ba1-b874-166b7c34e6eb,Bajo,Masculino,66,Terciario/Universitario completo,6,42.64374518949384,No votó,Candidato C
+2025-05-12,70525bb6-50c6-4350-94b3-f2641598734a,Bajo,Masculino,45,Secundario incompleto,1,73.11272006619282,En blanco,Candidato B
+2024-01-04,8ace37d3-673e-4518-86cb-b1796239f30a,Alto,Femenino,34,Primario incompleto,6,2.5291976125527804,Candidato A,Candidato A
+2025-04-08,84c65027-6d05-42e3-8d20-dbea7ae398cf,Bajo,Femenino,35,Primario completo,6,79.45727379996039,Candidato B,Candidato C
+2025-04-27,24cb0b4e-3825-47e1-a80d-240312f378a1,Medio,Masculino,68,Primario incompleto,1,54.83995883981895,No votó,Candidato C
+2024-02-27,dfde522d-d429-40c9-a64c-eba8a4efedef,Bajo,Femenino,25,Primario incompleto,5,2.193061075472813,En blanco,En blanco
+2025-07-23,e11a15c3-25ef-43a9-903a-65d582edc5ab,Alto,Femenino,58,Secundario incompleto,2,4.824873099755822,Candidato A,En blanco
+2024-08-02,08d17e63-27e8-4eae-a4a7-03e3120a202f,Bajo,Femenino,40,Posgrado,2,40.701072629816636,En blanco,Candidato B
+2024-09-16,1daa42fc-90b1-4e3d-a500-55826250e9f9,Bajo,Masculino,50,Secundario incompleto,5,62.32131667491972,En blanco,Candidato C
+2023-11-29,448236e9-863c-4992-916f-ebe7aa0cc327,Medio,Masculino,70,Secundario completo,2,45.30390972764265,No votó,No votó
+2025-02-19,f0355088-5a2b-47fe-8d7e-444990b6e394,Medio,Masculino,52,Posgrado,6,64.37355579902339,No votó,No votó
+2024-10-29,7a1a262b-ba13-434f-9e8e-3228aa648f16,Alto,Masculino,69,Primario completo,3,90.03933411523965,No votó,En blanco
+2024-08-28,51b5ab77-d09e-4abb-976a-e5fb66f1b0a0,Medio,Femenino,22,Primario completo,3,38.19796599906965,Candidato B,En blanco
+2024-10-23,9f519184-e79d-4d5f-ab6f-c9e7be725448,Alto,Femenino,18,Secundario incompleto,1,42.07492938149478,Candidato A,Candidato C
+2023-12-08,3b77ba5f-5860-46e3-832d-5e70777cd128,Bajo,Femenino,20,Terciario/Universitario completo,1,79.51416726146047,Candidato A,En blanco
+2024-01-19,b9a6edc1-099f-491b-808e-a422c6f6d1d5,Alto,Masculino,56,Terciario/Universitario incompleto,4,4.366157800064585,Candidato C,Candidato B
+2024-11-01,5db13edf-fa29-459d-881a-58a66245b749,Medio,Masculino,18,Secundario completo,4,33.90245887968789,En blanco,No votó
+2025-06-28,01c3df91-8327-4f64-8ae1-367a579e9b08,Medio,Femenino,80,Secundario incompleto,2,6.248466930571039,No votó,No votó
+2024-02-27,79acd843-13b2-4c15-9309-85493ff0e579,Alto,Femenino,67,Terciario/Universitario incompleto,3,65.36338165727825,Candidato C,En blanco
+2023-11-17,c43eebcc-6f69-4d69-9e34-9e311c67556d,Medio,Femenino,79,Primario completo,5,67.42623430855993,Candidato B,Candidato A
+2023-11-27,0637da9e-8bb6-4aff-be6f-deb29e76ef95,Bajo,Masculino,26,Secundario completo,5,66.40086927898162,En blanco,En blanco
+2025-02-08,f97b8d62-1c95-47d0-81ff-bbc184c85b95,Bajo,Masculino,74,Secundario completo,2,62.04948253180855,En blanco,En blanco
+2025-02-23,0a2cf6a9-5bd3-4392-91e5-4b3a0a4e6eb7,Medio,Femenino,25,Primario incompleto,5,74.60079630565578,Candidato B,Candidato B
+2024-02-13,5745ef5a-2e08-45fc-9da2-3c06f146b080,Alto,Femenino,44,Primario incompleto,2,1.3917951858883892,No votó,Candidato A
+2025-03-05,c187715f-7baf-404d-bc6d-74a844ee5071,Medio,Masculino,42,Primario incompleto,5,63.020342980146495,No votó,Candidato C
+2024-07-10,6b496a3b-f26c-4972-a1da-fdd8ea097bb2,Alto,Femenino,68,Primario incompleto,5,63.039529396779145,Candidato C,No votó
+2024-01-22,c504644f-a5dc-4c7b-8fa8-859200556e42,Alto,Femenino,80,Secundario incompleto,4,83.42715991499712,No votó,Candidato B
+2025-04-28,7a37e212-a78c-4cda-a783-88373c74dbc2,Bajo,Masculino,48,Terciario/Universitario completo,5,75.4372943495668,No votó,Candidato A
+2025-01-01,58216f30-e31b-4123-b9ab-308fbe2b3272,Medio,Masculino,74,Primario completo,3,3.4418085308768775,En blanco,No votó
+2025-03-20,d370c51f-d8e2-4a4c-8d84-344baef472a7,Medio,Femenino,19,Secundario incompleto,1,59.20656590235202,Candidato C,Candidato A
+2024-07-28,ec0959b8-2924-4159-b9c3-a78fc8d3acee,Bajo,Masculino,38,Terciario/Universitario incompleto,2,41.1872236638974,Candidato A,Candidato A
+2024-04-01,7af0cf69-bd20-48c6-82de-59500b2f72ef,Medio,Femenino,58,Primario incompleto,4,27.961918041643052,Candidato A,En blanco
+2024-08-25,eda04e30-ff74-4d1c-a893-6bd386a29efb,Alto,Femenino,70,Terciario/Universitario incompleto,1,10.830059037116769,Candidato C,Candidato C
+2025-07-02,b202054f-62a1-4ce2-9545-de362a364435,Medio,Femenino,26,Posgrado,6,12.158842282638481,Candidato C,Candidato B
+2025-06-27,948c52c8-e0f2-4eb3-af58-e38149ac2f36,Medio,Femenino,23,Secundario incompleto,2,15.549264516414496,En blanco,Candidato B
+2025-06-27,06fccff0-e9e4-406c-b689-0df97bd37c4b,Bajo,Masculino,62,Primario incompleto,6,23.910661959167122,Candidato B,Candidato C
+2024-11-16,9f81fca3-ffb1-42c9-b448-f798b50a676c,Medio,Masculino,43,Primario incompleto,2,48.30723696808678,No votó,En blanco
+2024-01-27,abbebd4f-f9e5-40e4-936d-8076998b1e1c,Medio,Femenino,59,Terciario/Universitario incompleto,2,60.47390394944344,Candidato C,Candidato A
+2025-09-16,50b417eb-7111-41d1-9c8f-e8122c645b82,Medio,Femenino,55,Terciario/Universitario incompleto,6,25.991664379937852,Candidato A,Candidato A
+2023-12-18,6e107e22-fa71-49d6-93e8-28869411723a,Bajo,Femenino,65,Secundario incompleto,3,20.410532542388182,Candidato A,En blanco
+2025-02-17,dd7524bc-dd82-416d-84fa-9dd191609261,Bajo,Masculino,32,Terciario/Universitario completo,3,52.205242611435246,En blanco,En blanco
+2025-04-29,6df5e2aa-832c-46a7-a4e2-e13aa0e5bd8c,Bajo,Femenino,21,Primario incompleto,6,48.80315948348317,Candidato B,Candidato C
+2024-10-29,61880ea0-5e5e-4d0a-bcba-fcaa643580a0,Medio,Femenino,31,Primario completo,3,7.515898251331743,En blanco,Candidato C
+2025-02-21,4142452b-361c-47ab-bd99-26244b9368d9,Bajo,Femenino,44,Posgrado,2,22.851136423699934,Candidato C,En blanco
+2025-03-07,964fbdde-8955-45be-bde6-74fef66b72a9,Alto,Femenino,76,Primario incompleto,4,39.38173926701493,No votó,No votó
+2025-10-27,5f3fa533-e28c-4c3c-ad82-5ea8dda9a02a,Alto,Femenino,76,Terciario/Universitario completo,6,93.42155654678704,Candidato B,Candidato C
+2024-07-21,996d6642-3cf8-4ff0-b49d-f1fff13a9049,Alto,Femenino,75,Primario completo,3,45.82364713129291,Candidato B,En blanco
+2025-03-21,257ea412-a215-4489-9fbd-4b9f56756682,Bajo,Femenino,19,Secundario completo,5,24.62484108528953,No votó,No votó
+2024-02-06,d81580dc-24d8-48a1-be5a-ed8352722246,Alto,Masculino,21,Primario completo,1,87.37602663426395,Candidato A,Candidato B
+2025-04-15,2c481f98-8ce6-4bdc-81b7-2448c2862234,Medio,Femenino,56,Primario completo,1,99.81877663615188,Candidato B,Candidato B
+2025-05-09,98b0b4d7-b5e1-4e19-b464-2bad89599298,Medio,Femenino,68,Secundario completo,4,15.543011154236607,No votó,Candidato A
+2025-02-27,72678417-ec02-4a99-a4c8-0a291d5f9dfc,Bajo,Masculino,43,Secundario incompleto,1,87.23695775314968,Candidato B,Candidato A
+2024-06-19,2e7833c5-b11b-42df-b46e-ba317ad5af81,Medio,Femenino,26,Posgrado,1,49.08714996305409,En blanco,Candidato B
+2025-07-06,3fc34af1-9af0-4b9a-9ba1-cdb699aed9de,Medio,Masculino,53,Terciario/Universitario completo,2,25.632977939070077,Candidato A,Candidato A
+2025-08-22,8a730eaa-16bb-4fb0-8d59-beceb5bcc583,Bajo,Femenino,64,Primario completo,3,81.22247546312164,Candidato A,Candidato C
+2024-02-08,4b32bc86-35d5-470d-a79d-1be27f29e86c,Bajo,Masculino,63,Secundario completo,4,54.93998008738012,No votó,No votó
+2025-10-10,33b887d3-8301-45b9-85ff-a36b63c2523d,Medio,Masculino,37,Terciario/Universitario completo,2,55.24240731831917,Candidato C,Candidato C
+2024-08-29,50b91e51-681e-4658-9813-a70f5a9c60b5,Medio,Femenino,44,Posgrado,3,69.7337408842006,Candidato C,No votó
+2025-07-14,312cd434-0b17-4efd-854f-0566bb1a48e2,Alto,Femenino,43,Terciario/Universitario incompleto,4,39.049024995544215,En blanco,En blanco
+2024-06-17,d4ce14b3-9a9a-46bc-b26e-a68df4e35152,Bajo,Masculino,75,Primario incompleto,5,70.05366272719303,Candidato C,En blanco
+2025-10-14,75555ded-8ea5-4386-98ce-8d9a29deb76a,Medio,Masculino,80,Terciario/Universitario incompleto,1,74.1588820314956,Candidato B,Candidato B
+2025-06-03,49ab05a8-8060-44aa-8037-fffa14b8317e,Medio,Femenino,79,Secundario completo,3,80.8795550009909,Candidato A,En blanco
+2025-09-09,d05d2cb9-6b76-411f-bc87-65b6b04a2620,Alto,Femenino,71,Primario incompleto,1,4.8226325786343,En blanco,Candidato A
+2025-04-13,be23bd25-ac78-4719-9937-1f2a506e2fc6,Alto,Femenino,52,Primario incompleto,4,30.671777864038653,En blanco,Candidato C
+2025-07-23,b27338fc-dfa6-4923-b334-ebbcef6ed981,Bajo,Femenino,21,Primario incompleto,5,58.299510538438035,No votó,No votó
+2024-02-04,ea289858-dd07-4dc6-8df0-99c562a77dc7,Medio,Masculino,65,Secundario incompleto,4,66.62034575355781,No votó,En blanco
+2024-12-09,55ab42c5-0f08-402e-a47e-3d101d72e0fe,Bajo,Femenino,71,Primario incompleto,3,59.63918771017712,No votó,En blanco
+2025-08-31,4420e63b-c34d-4c64-a8e2-f201fbb22429,Medio,Femenino,46,Terciario/Universitario completo,2,80.29470624093494,Candidato A,No votó
+2025-07-04,7028dab4-8f0c-417a-b85f-2ec49d6fe1b5,Bajo,Femenino,74,Posgrado,4,33.20891020632839,No votó,No votó
+2024-03-27,6a34bfb4-e62a-4fb5-8c46-e2bc4f12b0d5,Alto,Masculino,52,Secundario completo,6,63.99752711442963,No votó,En blanco
+2023-12-01,5ffe6c11-7b51-4ca6-aa87-60aada4dda76,Medio,Femenino,27,Primario completo,1,53.296423875790865,No votó,No votó
+2025-07-01,16f48941-ad28-4c0d-b230-400a386b01c0,Alto,Masculino,53,Secundario incompleto,3,84.23967887771018,En blanco,Candidato C
+2024-09-01,f9422f1e-fed9-4f9e-9486-80deb9e789c6,Medio,Masculino,78,Terciario/Universitario completo,3,29.88758076783692,Candidato C,No votó
+2024-10-12,8191cbeb-175b-4448-a0ce-5b5fca563921,Bajo,Femenino,75,Secundario completo,2,53.46725918470335,Candidato A,No votó
+2024-08-16,a8fcf210-dac1-4a07-847c-d56efd6cc364,Bajo,Femenino,26,Primario completo,1,23.735157653696113,Candidato C,Candidato A
+2025-06-11,f4a8bcd3-54b7-475b-8358-75c3952049e4,Medio,Femenino,59,Secundario completo,5,92.47145937787309,No votó,Candidato B
+2024-03-28,fe9f9ff6-98bc-4c7a-9112-460cbba12642,Bajo,Masculino,31,Terciario/Universitario completo,3,96.29483798371025,En blanco,Candidato C
+2024-10-20,3c241ca5-9042-4d14-a6b0-643c188417d8,Alto,Femenino,55,Terciario/Universitario incompleto,4,30.371570765922762,Candidato A,Candidato B
+2024-08-04,18711121-c9e8-460c-8a8f-541d052ba051,Medio,Masculino,79,Terciario/Universitario incompleto,1,86.269811176683,No votó,No votó
+2025-07-07,4fe5143b-bae8-499f-aee0-5fb7d2d6840d,Alto,Masculino,28,Terciario/Universitario incompleto,5,43.43426247862767,Candidato C,No votó
+2025-03-06,deccac5b-968d-4f41-90d6-5fdd176b2101,Alto,Femenino,71,Posgrado,6,29.19972746670787,Candidato A,No votó
+2023-12-30,c5acc612-20de-4de4-b5b4-689664327fe8,Bajo,Masculino,23,Secundario incompleto,2,38.05966922809678,No votó,En blanco
+2023-12-06,ed51fa2b-f13a-4ff3-9365-8891e4600a02,Medio,Femenino,54,Primario completo,2,74.32654970881866,Candidato C,Candidato C
+2025-10-02,f559ddc7-87fd-443c-9c72-21e4ec1ac8a3,Alto,Masculino,48,Secundario completo,6,98.38493603530462,Candidato A,Candidato B
+2025-10-27,4718e12c-32a5-44ff-a195-f855dd4b2f7e,Medio,Femenino,36,Terciario/Universitario completo,5,83.03625524616497,No votó,No votó
+2023-12-03,2f073516-e8a1-4cd3-a8a3-938c4ba4d5e2,Bajo,Masculino,35,Posgrado,5,84.31671343405908,Candidato B,Candidato A
+2024-11-13,230c2ebd-39dc-4c06-b380-75439722bf90,Alto,Masculino,34,Primario incompleto,3,30.328241213621677,Candidato C,Candidato C
+2024-05-18,42045f8c-3a72-4669-a03c-c361214e10ee,Medio,Masculino,31,Terciario/Universitario incompleto,6,19.509821460824163,Candidato B,En blanco
+2025-10-01,253053ae-4db1-462e-89d9-db157efa4e99,Bajo,Femenino,43,Secundario completo,6,24.250249124020794,Candidato C,Candidato C
+2023-11-22,3455f1f6-4574-437e-9dbf-f93fbc031029,Alto,Masculino,61,Terciario/Universitario incompleto,4,94.28693617427902,En blanco,En blanco
+2024-12-09,d7ea0686-e5f1-4395-a2e7-ee5914147ca8,Medio,Masculino,18,Primario completo,6,16.384566810511092,Candidato B,No votó
+2025-04-02,f3c73944-f95c-46f7-a82e-4002a9f15f7c,Medio,Masculino,73,Secundario incompleto,1,21.28318802890582,En blanco,Candidato A
+2025-01-17,96bad500-ded1-4802-b2e9-77612e975c72,Alto,Masculino,58,Secundario incompleto,4,79.3660197144922,Candidato C,En blanco
+2025-01-19,a892d63b-89ae-4616-99f8-8a690466ed6b,Bajo,Femenino,73,Terciario/Universitario incompleto,3,86.70403126473161,No votó,Candidato B
+2025-09-12,c15f47ca-204e-4817-ad98-2a087ad06668,Bajo,Masculino,21,Secundario incompleto,4,24.478429760467936,Candidato A,No votó
+2024-04-17,14e153ca-4556-4d6d-bdc5-a588d0ab9ea4,Medio,Masculino,51,Secundario completo,3,52.27617914845371,Candidato C,Candidato C
+2024-04-28,9e31e1f9-b30c-4272-b861-37c3e5ffc7d4,Alto,Masculino,67,Terciario/Universitario completo,1,36.454931938990285,Candidato C,Candidato B
+2024-01-13,477e2817-ddd1-4251-b0f6-2b9eda344d17,Bajo,Masculino,67,Posgrado,4,86.31657739443645,No votó,Candidato A
+2025-06-27,387787e2-bc8a-4038-9960-5cd1cab24a0a,Bajo,Masculino,22,Posgrado,1,58.528810703164645,En blanco,No votó
+2025-07-30,d2ebe96b-24b7-4424-a4ed-458b010ac3f8,Medio,Femenino,74,Terciario/Universitario completo,4,47.64897707104784,Candidato B,No votó
+2025-09-19,acea35a3-93d5-433b-bd86-931235069af5,Medio,Masculino,18,Secundario completo,1,67.96456880624679,En blanco,Candidato C
+2025-09-22,253dc9ce-208d-449b-ab0e-fd0100dd28b3,Alto,Masculino,58,Terciario/Universitario completo,2,98.48979202407318,En blanco,Candidato A
+2025-03-03,80d9a24e-0a83-4038-89de-7a2c7c26c722,Alto,Femenino,36,Terciario/Universitario completo,3,63.87562537230519,No votó,En blanco
+2025-06-29,ab78a4ee-3851-47f1-b317-930e51995cf1,Alto,Masculino,27,Secundario incompleto,3,80.81487679786264,No votó,Candidato C
+2024-11-26,aa069b5b-510d-415a-b4e5-6c682ca5f0cb,Medio,Masculino,67,Secundario incompleto,3,81.14522789914443,Candidato C,En blanco
+2025-04-27,f0cc8eec-3b3f-4363-b14d-85bde1976c14,Medio,Masculino,27,Secundario incompleto,5,26.494990295636565,En blanco,Candidato C
+2024-12-12,467ccafa-bbe7-4e1b-a328-9b58a62f45c2,Bajo,Masculino,71,Posgrado,2,39.02496501284598,En blanco,No votó
+2024-09-23,19b2b595-3051-4f6a-b51e-3a7bacdf3038,Alto,Femenino,66,Primario completo,4,19.887656736978865,En blanco,En blanco
+2024-11-29,5a45a717-45ac-4564-bd7a-0bfa598c8a5c,Medio,Femenino,50,Primario completo,4,60.38760704013404,Candidato B,Candidato B
+2024-06-26,486095c2-f812-4022-96b0-9e2989e4b9df,Medio,Femenino,26,Primario completo,1,78.67194642158559,Candidato B,Candidato C
+2024-01-29,6478a399-8d68-4a61-8926-2a1337c67f46,Medio,Masculino,78,Secundario completo,5,41.59405412194439,En blanco,Candidato A
+2024-02-23,1d21ae7c-6025-4b8d-acd9-f51a10c313bd,Alto,Femenino,25,Secundario incompleto,3,33.31323854259575,Candidato A,Candidato A
+2024-09-27,a6d5eb2e-e891-480c-970a-06dcf444adae,Bajo,Masculino,79,Terciario/Universitario completo,2,42.69587457501945,Candidato B,Candidato A
+2025-09-24,2373624b-da3f-42d1-8454-14a1185f6df3,Alto,Femenino,39,Primario incompleto,4,72.1555355040862,Candidato A,No votó
+2025-01-14,ea4f44cf-eafd-480b-9ec8-633fb73888a4,Bajo,Masculino,18,Secundario incompleto,1,4.0627600751631965,En blanco,No votó
+2024-09-24,42f81126-6c2c-40a7-a4e9-031675f80092,Bajo,Femenino,65,Secundario completo,3,92.44578515995826,Candidato A,En blanco
+2025-10-18,31f0e150-8941-4b16-bbca-76e0e56a47e7,Bajo,Masculino,70,Terciario/Universitario incompleto,2,66.11908000123333,Candidato B,Candidato A
+2024-01-06,bd335a64-2d79-43f6-8a92-720ac2e8fae2,Medio,Femenino,38,Posgrado,5,57.25637792828739,Candidato A,En blanco
+2025-10-28,f9675221-70c4-4406-83db-02351184d8fb,Medio,Femenino,71,Terciario/Universitario completo,2,1.4182701016087984,Candidato B,Candidato C
+2024-01-22,0d1f90ad-830a-4393-a04c-83ca53b9a632,Alto,Femenino,27,Secundario incompleto,1,8.62096848743633,No votó,Candidato B
+2024-09-19,63d85381-dcd2-4168-9547-5c92582592e1,Medio,Femenino,39,Terciario/Universitario completo,4,15.098249138449649,Candidato B,Candidato C
+2023-12-20,8cb12015-624a-4f3d-b8d0-8f28bc509aeb,Bajo,Masculino,55,Primario completo,5,61.63977756069161,Candidato A,Candidato C
+2024-01-18,b662f7ed-b5b8-4fb3-85b0-b3c82038c8f6,Alto,Masculino,66,Primario incompleto,4,55.92150035246356,Candidato A,Candidato C
+2024-09-19,a7f3c30f-26e5-42da-91b9-2f8b8a849529,Bajo,Femenino,22,Primario incompleto,5,16.418655886952106,En blanco,Candidato C
+2025-06-25,71948be4-9de0-403a-8e2e-2c6e08e7a744,Bajo,Masculino,23,Secundario completo,6,85.93965822834629,Candidato B,Candidato B
+2024-03-02,fd14f9d4-9351-4969-82eb-badc8428d344,Bajo,Masculino,41,Terciario/Universitario completo,2,33.21920515985871,No votó,Candidato C
+2025-05-25,341514cc-77fd-4fd1-b5cb-60f26a75e179,Medio,Femenino,31,Terciario/Universitario incompleto,4,13.974149901899391,Candidato A,Candidato C
+2023-11-25,18fa5472-1675-4b38-bd64-2ae264348207,Medio,Masculino,34,Posgrado,3,29.187381963200487,Candidato B,Candidato A
+2025-07-08,81b84ea7-1f21-4475-a6f0-f7698909c1ba,Medio,Masculino,46,Primario completo,2,75.08576730094481,En blanco,Candidato C
+2024-10-13,a7484ffb-bfd9-4e84-b770-ca8dac69c006,Alto,Masculino,39,Primario completo,6,48.64605311063409,Candidato B,Candidato C
+2024-10-01,3ba68577-3396-4543-8843-9ba12afd65c3,Bajo,Femenino,61,Posgrado,5,63.785949405043056,Candidato A,Candidato C
+2025-04-18,60c36cdd-9937-4592-985a-eb983d9f3e80,Alto,Masculino,49,Secundario completo,3,26.940081378124404,En blanco,Candidato C
+2024-09-20,d41cc2bc-e335-4f8b-91d5-6acf680fe5e2,Alto,Femenino,48,Terciario/Universitario completo,5,62.02509641170175,Candidato C,Candidato B
+2023-11-25,32dec6d5-8690-4942-b66e-3cca8c479390,Alto,Masculino,52,Terciario/Universitario incompleto,2,24.64314932711684,No votó,En blanco
+2024-11-21,3103d904-1742-4bd0-bde5-b4a337ef373e,Bajo,Femenino,51,Secundario incompleto,1,1.3246066085966124,Candidato B,No votó
+2025-10-16,83615006-1981-40d4-9bf9-a793ecb9cb39,Alto,Masculino,23,Terciario/Universitario incompleto,1,71.70565577427689,En blanco,En blanco
+2025-09-03,8cdc5389-31ff-4a99-9a92-484921566d5e,Bajo,Masculino,23,Primario completo,2,44.17951723644384,Candidato A,Candidato B
+2024-07-11,9efb00b7-a397-4217-8511-43e593aae480,Medio,Femenino,38,Primario incompleto,1,30.15857840203948,Candidato A,No votó
+2025-05-16,dd5eb2d1-6518-420a-99cb-37c76e7fbad2,Alto,Masculino,46,Secundario completo,2,52.60958151544012,Candidato A,Candidato A
+2024-05-16,ac331b92-4318-4f26-a9b7-4954a41a5d31,Alto,Femenino,42,Secundario completo,4,38.101496895224585,Candidato B,Candidato B
+2024-01-02,a15b74ad-a3da-4c94-b8a9-a43bccea521d,Medio,Femenino,67,Secundario completo,6,80.7577711462497,No votó,Candidato C
+2024-08-01,59cd83d9-0764-4513-89e6-e6309a553472,Alto,Masculino,43,Posgrado,6,97.03798351501038,Candidato A,En blanco
+2023-12-26,c9d4e1bb-c4d3-4ec2-baf3-d90e586a7302,Medio,Femenino,52,Secundario completo,2,65.21490452285808,Candidato A,Candidato B
+2024-02-04,08dfc975-a4fd-4204-b3b9-e84e34b65cee,Medio,Femenino,48,Secundario incompleto,1,3.847880040956553,No votó,Candidato C
+2024-08-07,371a2390-70c7-42d0-b295-ba69f9873b5e,Medio,Masculino,53,Primario incompleto,4,65.38479094232363,Candidato A,Candidato B
+2025-04-22,d35f581e-3648-431f-ae9e-8d0384983111,Medio,Femenino,45,Primario completo,3,0.9225022208974476,No votó,Candidato C
+2023-11-24,74286356-3c91-4458-a4b2-7e8301cbd9c2,Alto,Femenino,51,Terciario/Universitario incompleto,3,39.946285899213244,Candidato A,Candidato A
+2024-07-27,46ac3201-9ab1-474e-9766-8e8a78ca810e,Alto,Femenino,22,Primario completo,3,9.162145092027508,Candidato A,Candidato A
+2024-07-29,64661891-4a3e-4cf0-a622-053dd5ff7894,Bajo,Masculino,76,Primario incompleto,5,86.34872757897138,Candidato B,Candidato B
+2024-03-19,efe1633c-b87c-4dd3-bcee-7fb1543c41b5,Bajo,Femenino,32,Secundario completo,3,2.6109575869214807,Candidato C,Candidato C
+2023-11-09,4c2652d8-b6ea-4241-a5b3-a67baa0e563e,Bajo,Masculino,27,Primario completo,4,67.79242595780669,En blanco,Candidato C
+2025-08-07,9d41a10b-16b3-417d-abbd-2fe0e095bbfd,Alto,Femenino,59,Terciario/Universitario completo,5,46.21691310437349,No votó,Candidato A
+2024-04-29,5edd9aae-7f10-4dcf-939d-d7ca1fde56c1,Bajo,Masculino,43,Primario incompleto,6,50.9126925708071,No votó,En blanco
+2025-07-30,169e98ce-a771-4b3c-9f11-8a429cd3a795,Medio,Femenino,71,Terciario/Universitario completo,1,25.89096798544167,Candidato B,Candidato A
+2024-08-12,68cbaa9e-22d7-4fab-9c78-6e743ae7ab54,Medio,Femenino,73,Terciario/Universitario incompleto,3,37.70261932842991,Candidato C,Candidato C
+2023-12-26,db5bf01f-3d75-489a-a128-9e96ebe3387b,Alto,Femenino,50,Terciario/Universitario completo,4,43.29016645228708,Candidato C,Candidato B
+2025-02-07,24dbac94-486c-44d6-bc23-bbfc0490642f,Medio,Masculino,38,Terciario/Universitario completo,4,45.02317231804754,No votó,En blanco
+2025-09-25,5ec2abf6-a223-4d40-9836-ba33846736ce,Bajo,Femenino,27,Terciario/Universitario incompleto,2,48.84087455698183,No votó,Candidato B
+2024-02-21,1da221b8-2545-4e29-ad5a-c10cbd3ccd61,Alto,Masculino,74,Secundario completo,6,83.49205271613988,No votó,Candidato B
+2024-04-11,aef82d2e-51f8-4e44-924b-ba5b82042c0b,Alto,Femenino,22,Terciario/Universitario incompleto,6,63.08699705451601,Candidato B,Candidato C
+2023-11-04,e757155d-5c07-4046-9359-81c7b984dbe3,Medio,Femenino,27,Secundario incompleto,4,86.02969463342568,Candidato C,Candidato A
+2024-04-09,33423b60-310d-4bf4-9741-8ae8cfa71765,Medio,Masculino,27,Primario completo,1,51.57189003729508,Candidato C,Candidato A
+2025-03-27,b2835bff-857d-414b-8b91-cbe8fea4ca6a,Alto,Femenino,20,Primario incompleto,5,52.35847399950704,Candidato B,Candidato C
+2025-04-08,bcd635cc-b9c4-4bb6-a6a9-9aab6c811d57,Medio,Masculino,42,Secundario completo,5,62.87506876113233,En blanco,En blanco
+2025-05-23,248988cf-0915-43be-a50f-137560fc01e2,Alto,Femenino,59,Primario incompleto,6,71.19958091462641,Candidato B,En blanco
+2025-10-30,a1239c72-49ac-4049-93bd-01ae70dd4704,Medio,Femenino,54,Terciario/Universitario incompleto,4,73.46429888027365,Candidato C,Candidato C
+2025-10-01,3022b8f1-86d6-4424-a7b2-2a70a9452a96,Bajo,Femenino,25,Secundario completo,6,55.91284328947075,Candidato B,En blanco
+2024-02-05,59949066-7d41-4588-9a34-7cdad4814f7f,Medio,Masculino,60,Terciario/Universitario completo,3,39.984632523146026,Candidato B,Candidato C
+2025-06-04,e04d350f-260a-4ef2-95dd-24bd27c4bf8d,Medio,Masculino,22,Terciario/Universitario completo,2,27.728028767508906,Candidato B,No votó
+2023-11-07,bdb63f32-43ce-4809-adec-9a4692976e6c,Alto,Femenino,51,Secundario incompleto,5,73.74976545374933,No votó,No votó
+2024-06-16,2864120e-f118-4c10-9de4-ead3362b5eea,Alto,Femenino,35,Terciario/Universitario completo,3,5.937308310453049,En blanco,Candidato B
+2024-08-14,d9535d1d-ea83-4861-b102-7b0323a8eb6e,Medio,Femenino,54,Primario incompleto,3,95.71704989239961,En blanco,Candidato A
+2025-04-20,2df1fe3f-efd9-473e-ac7f-40f88946352d,Medio,Femenino,37,Primario completo,2,98.98185527253263,En blanco,Candidato A
+2023-11-21,c0038e5a-4c83-49bc-89ce-f0ead6cadf41,Alto,Masculino,40,Terciario/Universitario incompleto,2,89.67728919284333,Candidato A,Candidato B
+2025-10-26,aeb59644-15d5-4b49-92a9-7177785ecebc,Bajo,Masculino,78,Secundario incompleto,6,88.7222846645411,No votó,En blanco
+2025-02-13,1938d096-ed3d-4fdf-a5bb-23895dde2c6a,Medio,Masculino,60,Posgrado,6,95.7292525472267,Candidato B,Candidato C
+2024-04-30,853a9135-3ee2-451b-be88-c93319db1d7b,Medio,Femenino,73,Posgrado,3,60.096250165546664,No votó,Candidato A
+2025-08-30,b5eca796-dc5f-4db7-87b5-2a8b0af01e69,Bajo,Masculino,64,Posgrado,2,83.57278987936057,Candidato A,No votó
+2024-02-20,16159755-96df-441f-8dd5-92a0aeff988b,Alto,Masculino,48,Posgrado,1,18.548557242333807,Candidato C,No votó
+2024-03-26,bcb43dc9-4292-4754-924c-c9b877350617,Medio,Masculino,43,Posgrado,3,45.90284658726054,Candidato A,Candidato C
+2024-10-19,8fff6a1a-b3e5-4b15-81c1-4dc095f9d782,Bajo,Femenino,55,Secundario completo,6,2.2917162463319096,Candidato A,No votó
+2024-01-28,3cd2aad8-2997-4899-a059-c8a9cb020672,Alto,Masculino,70,Secundario completo,4,35.43798346083834,En blanco,Candidato B
+2024-11-06,d28d65a1-adc7-46e7-9f39-94bca013e55e,Bajo,Femenino,38,Terciario/Universitario completo,2,43.49612139475707,Candidato A,En blanco
+2024-07-26,c7975813-ba4e-499c-b2b8-fd1594c7cd9a,Bajo,Masculino,65,Terciario/Universitario incompleto,3,17.33368190912491,Candidato B,En blanco
+2025-05-04,7f25943c-f463-4a81-a8ec-7c65848d77e3,Medio,Femenino,60,Terciario/Universitario completo,3,71.30808198963639,Candidato B,Candidato B
+2024-05-20,3e41ca28-a0c7-4b90-aef7-133aa6728c5c,Medio,Femenino,75,Secundario incompleto,6,17.638954409744446,Candidato C,Candidato C
+2024-02-11,b4fbf350-24bf-4792-b9fa-33cd035e4eb9,Medio,Masculino,57,Primario incompleto,5,16.04523988830624,Candidato A,Candidato C
+2023-11-23,df302d42-c454-4268-acc0-8d9899dfd2f5,Bajo,Femenino,47,Primario incompleto,2,74.94573869779352,Candidato B,Candidato C
+2024-04-11,f8b2ca91-a307-4280-9d3a-30f824ee198e,Alto,Femenino,50,Primario incompleto,4,91.00188590913892,Candidato A,Candidato C
+2024-08-09,cf86e88e-c361-470d-9925-bbaa27833e60,Bajo,Masculino,40,Secundario incompleto,1,92.52381233230108,No votó,Candidato B
+2024-07-19,2d64584a-9ee0-4eef-978f-f2cbd23a817d,Alto,Masculino,32,Secundario completo,6,86.68432588280398,En blanco,Candidato C
+2024-11-03,18700fd5-4789-4708-9b08-fdc11162ce26,Bajo,Femenino,67,Terciario/Universitario completo,1,19.873223677813133,En blanco,Candidato B
+2024-06-16,93c3150d-77c3-404f-9f7a-46b8450000a1,Alto,Masculino,50,Secundario completo,2,60.52054237596294,En blanco,Candidato A
+2024-06-19,6b7b2370-940c-4324-820a-746ac7b2595e,Alto,Femenino,20,Secundario completo,4,53.1950701614696,En blanco,Candidato C
+2025-10-29,1322439a-b54f-4f70-8a9f-fe96fdf0d605,Alto,Masculino,64,Posgrado,4,5.120120983316867,Candidato B,En blanco
+2025-09-14,73961f8e-faa8-4536-93d7-79d524301b87,Medio,Femenino,42,Terciario/Universitario completo,1,23.000593501153034,Candidato C,En blanco
+2025-01-04,410223b4-5536-412a-98d7-76da0f013f4e,Bajo,Masculino,68,Terciario/Universitario completo,1,57.232644981711246,Candidato A,Candidato C
+2025-03-09,e7d37bcc-63f6-4d2d-a865-2c4da322e658,Medio,Femenino,80,Posgrado,6,85.88443075762478,Candidato C,En blanco
+2024-07-12,a724dc8f-4be6-49fb-bbdc-223305ad18a9,Bajo,Masculino,41,Terciario/Universitario completo,5,75.50071877953727,En blanco,Candidato A
+2024-03-23,16d24a67-c6b1-441f-b659-333f3deaf9a0,Bajo,Femenino,39,Posgrado,2,81.22364078294146,En blanco,Candidato A
+2025-02-04,3f739143-24dc-4a5a-b888-cb6597b19d4f,Alto,Masculino,68,Primario completo,5,45.48111469433643,Candidato C,No votó
+2024-01-03,73f67b09-3687-42c0-85dc-1819df6316b9,Bajo,Femenino,50,Secundario incompleto,1,95.36645540957564,No votó,Candidato B
+2024-01-20,02bc0550-dfed-4f7e-b95d-793d51d670bd,Medio,Masculino,18,Secundario completo,2,61.137833656489406,Candidato A,Candidato B
+2024-12-20,940795d0-6bbb-461d-801f-8134c3e53827,Alto,Masculino,33,Secundario completo,3,27.901987377252446,Candidato A,En blanco
+2025-01-26,211149a5-faaa-422c-8c37-2aad84eefe22,Alto,Femenino,54,Terciario/Universitario incompleto,6,33.10098796649241,Candidato A,Candidato B
+2024-06-28,91c9992f-b73a-4683-94f6-9e70b5f767d3,Medio,Femenino,22,Primario incompleto,4,37.44128419432447,No votó,No votó
