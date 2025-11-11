@@ -1,0 +1,101 @@
+Fecha,Encuesta,Estrato,Sexo,Edad,Nivel Educativo,Cantidad de Integrantes en el Hogar,Imagen del Candidato,Voto,Voto Anterior
+2025-01-15,100,Alto,Femenino,33,Primario completo,2,87,Candidato A,No votó
+2025-01-15,100,Bajo,Femenino,20,Primario incompleto,1,53,Candidato B,No votó
+2025-01-15,100,Bajo,Masculino,63,Terciario/Universitario completo,6,74,En blanco,Candidato B
+2025-03-01,400,Bajo,Femenino,69,Posgrado,1,88,Candidato B,En blanco
+2025-02-15,300,Medio,Masculino,31,Posgrado,3,46,Candidato A,En blanco
+2025-01-15,100,Medio,Femenino,56,Secundario incompleto,1,86,En blanco,No votó
+2025-01-15,100,Medio,Masculino,53,Secundario incompleto,6,79,Candidato C,No votó
+2025-02-01,200,Bajo,Masculino,20,Terciario/Universitario completo,2,89,Candidato C,Candidato A
+2025-02-01,200,Alto,Femenino,35,Secundario completo,6,93,Candidato C,Candidato B
+2025-02-15,300,Medio,Masculino,60,Secundario incompleto,6,99,Candidato A,No votó
+2025-02-01,200,Bajo,Masculino,28,Secundario completo,4,57,No votó,Candidato B
+2025-02-15,300,Alto,Masculino,70,Primario incompleto,3,65,Candidato C,Candidato A
+2025-02-01,200,Bajo,Femenino,31,Terciario/Universitario completo,4,65,En blanco,Candidato B
+2025-02-15,300,Alto,Masculino,65,Terciario/Universitario incompleto,5,56,No votó,En blanco
+2025-03-01,400,Medio,Masculino,26,Terciario/Universitario incompleto,4,45,Candidato A,Candidato A
+2025-02-01,200,Bajo,Masculino,68,Terciario/Universitario completo,4,78,Candidato A,En blanco
+2025-03-01,400,Bajo,Femenino,51,Secundario incompleto,5,95,Candidato A,Candidato A
+2025-02-15,300,Bajo,Femenino,25,Secundario incompleto,4,50,En blanco,Candidato A
+2025-02-15,300,Bajo,Masculino,50,Primario incompleto,6,59,No votó,No votó
+2025-02-01,200,Alto,Femenino,66,Primario completo,5,89,No votó,Candidato A
+2025-02-15,300,Medio,Masculino,25,Secundario incompleto,3,55,Candidato A,Candidato B
+2025-01-15,100,Alto,Femenino,70,Primario incompleto,5,89,Candidato B,Candidato B
+2025-03-01,400,Bajo,Masculino,34,Terciario/Universitario incompleto,5,67,Candidato B,No votó
+2025-02-01,200,Bajo,Femenino,43,Terciario/Universitario completo,6,63,En blanco,No votó
+2025-03-01,400,Alto,Masculino,32,Primario incompleto,3,41,No votó,No votó
+2025-02-01,200,Bajo,Masculino,18,Primario incompleto,6,80,Candidato A,Candidato B
+2025-01-15,100,Alto,Femenino,22,Terciario/Universitario incompleto,2,57,En blanco,Candidato B
+2025-02-01,200,Bajo,Femenino,33,Posgrado,4,91,En blanco,Candidato B
+2025-01-15,100,Alto,Femenino,40,Secundario completo,4,69,Candidato A,Candidato A
+2025-01-15,100,Medio,Femenino,69,Posgrado,1,55,Candidato B,Candidato B
+2025-03-01,400,Alto,Femenino,29,Secundario incompleto,4,55,Candidato A,En blanco
+2025-01-15,100,Alto,Masculino,80,Primario incompleto,2,50,En blanco,En blanco
+2025-03-01,400,Alto,Femenino,75,Primario incompleto,2,64,Candidato A,En blanco
+2025-02-15,300,Medio,Femenino,45,Terciario/Universitario completo,6,90,No votó,En blanco
+2025-02-01,200,Alto,Femenino,31,Primario incompleto,5,87,No votó,Candidato A
+2025-02-15,300,Alto,Masculino,55,Secundario completo,5,98,No votó,Candidato B
+2025-01-15,100,Bajo,Masculino,72,Primario completo,1,78,Candidato A,Candidato B
+2025-03-01,400,Alto,Masculino,55,Terciario/Universitario incompleto,1,79,Candidato A,En blanco
+2025-02-15,300,Medio,Masculino,60,Terciario/Universitario completo,3,55,Candidato C,En blanco
+2025-02-01,200,Bajo,Femenino,47,Secundario incompleto,1,40,En blanco,No votó
+2025-01-15,100,Alto,Masculino,50,Secundario incompleto,2,99,Candidato C,Candidato A
+2025-02-01,200,Medio,Femenino,28,Secundario completo,5,85,Candidato C,No votó
+2025-01-15,100,Bajo,Femenino,77,Terciario/Universitario completo,1,100,Candidato B,Candidato C
+2025-01-15,100,Alto,Masculino,35,Secundario incompleto,5,53,Candidato C,Candidato B
+2025-02-15,300,Bajo,Femenino,34,Posgrado,1,45,En blanco,Candidato C
+2025-01-15,100,Alto,Femenino,67,Primario completo,6,56,Candidato B,En blanco
+2025-03-01,400,Bajo,Masculino,25,Primario incompleto,6,97,Candidato B,No votó
+2025-01-15,100,Medio,Masculino,45,Primario completo,1,59,Candidato C,Candidato A
+2025-02-15,300,Alto,Masculino,60,Primario incompleto,3,89,No votó,En blanco
+2025-02-01,200,Alto,Masculino,80,Posgrado,2,96,En blanco,Candidato A
+2025-02-01,200,Bajo,Femenino,68,Secundario completo,6,95,Candidato B,Candidato C
+2025-02-01,200,Bajo,Masculino,42,Posgrado,1,94,En blanco,Candidato B
+2025-02-01,200,Medio,Femenino,37,Posgrado,2,54,Candidato A,Candidato B
+2025-03-01,400,Medio,Femenino,73,Primario incompleto,3,62,No votó,En blanco
+2025-02-15,300,Alto,Masculino,74,Secundario incompleto,2,77,Candidato C,Candidato A
+2025-01-15,100,Bajo,Femenino,40,Terciario/Universitario completo,3,67,No votó,No votó
+2025-01-15,100,Medio,Masculino,34,Primario incompleto,6,67,Candidato A,No votó
+2025-02-01,200,Medio,Femenino,22,Terciario/Universitario completo,3,79,Candidato C,Candidato A
+2025-02-15,300,Bajo,Femenino,60,Secundario completo,3,65,Candidato C,No votó
+2025-02-01,200,Alto,Femenino,60,Secundario completo,6,87,Candidato B,No votó
+2025-02-15,300,Medio,Masculino,37,Secundario incompleto,2,67,No votó,No votó
+2025-02-15,300,Medio,Femenino,46,Terciario/Universitario completo,2,72,En blanco,Candidato B
+2025-01-15,100,Medio,Femenino,23,Posgrado,2,83,Candidato C,Candidato B
+2025-02-01,200,Alto,Masculino,20,Primario completo,4,79,Candidato A,En blanco
+2025-03-01,400,Bajo,Masculino,63,Terciario/Universitario completo,4,71,En blanco,Candidato B
+2025-02-01,200,Bajo,Masculino,75,Posgrado,1,89,En blanco,Candidato B
+2025-02-01,200,Bajo,Femenino,21,Terciario/Universitario incompleto,2,98,Candidato A,En blanco
+2025-02-01,200,Medio,Femenino,78,Posgrado,4,79,No votó,En blanco
+2025-03-01,400,Alto,Femenino,46,Secundario incompleto,2,93,Candidato C,No votó
+2025-03-01,400,Bajo,Masculino,35,Secundario completo,1,85,Candidato C,Candidato B
+2025-02-15,300,Medio,Femenino,75,Terciario/Universitario incompleto,1,48,Candidato B,Candidato B
+2025-03-01,400,Bajo,Masculino,63,Primario completo,1,66,En blanco,Candidato C
+2025-03-01,400,Medio,Masculino,31,Posgrado,4,64,No votó,Candidato A
+2025-03-01,400,Medio,Masculino,78,Secundario incompleto,3,88,En blanco,En blanco
+2025-02-01,200,Medio,Masculino,35,Secundario completo,4,41,En blanco,Candidato C
+2025-03-01,400,Bajo,Masculino,71,Secundario completo,2,79,No votó,Candidato A
+2025-03-01,400,Bajo,Masculino,23,Terciario/Universitario completo,4,48,En blanco,Candidato B
+2025-01-15,100,Medio,Femenino,38,Primario completo,4,60,Candidato C,En blanco
+2025-02-15,300,Medio,Femenino,71,Primario incompleto,4,41,No votó,Candidato A
+2025-02-15,300,Alto,Masculino,67,Terciario/Universitario completo,1,88,Candidato A,Candidato B
+2025-02-01,200,Alto,Masculino,33,Primario completo,4,82,Candidato A,No votó
+2025-02-01,200,Medio,Femenino,67,Secundario incompleto,2,78,No votó,Candidato A
+2025-02-01,200,Medio,Masculino,55,Primario incompleto,3,76,En blanco,En blanco
+2025-02-01,200,Alto,Masculino,24,Terciario/Universitario completo,3,94,No votó,Candidato A
+2025-01-15,100,Medio,Femenino,60,Secundario incompleto,1,72,Candidato C,Candidato A
+2025-03-01,400,Medio,Masculino,45,Secundario incompleto,6,97,En blanco,Candidato B
+2025-03-01,400,Alto,Femenino,57,Posgrado,5,89,En blanco,En blanco
+2025-03-01,400,Bajo,Femenino,38,Posgrado,2,93,Candidato A,Candidato C
+2025-03-01,400,Alto,Femenino,54,Terciario/Universitario incompleto,6,64,Candidato C,Candidato A
+2025-03-01,400,Medio,Masculino,49,Primario completo,3,91,Candidato C,Candidato C
+2025-02-15,300,Bajo,Femenino,53,Primario incompleto,5,100,Candidato B,Candidato A
+2025-02-01,200,Bajo,Femenino,49,Terciario/Universitario incompleto,2,84,En blanco,En blanco
+2025-03-01,400,Alto,Masculino,36,Primario completo,4,84,Candidato B,Candidato C
+2025-02-15,300,Medio,Femenino,45,Terciario/Universitario completo,5,61,Candidato C,En blanco
+2025-02-15,300,Medio,Femenino,32,Primario incompleto,6,52,Candidato C,Candidato A
+2025-02-01,200,Alto,Masculino,65,Secundario completo,3,86,No votó,No votó
+2025-02-15,300,Alto,Masculino,36,Primario completo,3,51,Candidato C,Candidato A
+2025-02-01,200,Medio,Masculino,80,Primario incompleto,5,58,Candidato B,En blanco
+2025-01-15,100,Alto,Femenino,48,Secundario completo,4,61,Candidato B,Candidato A
+2025-02-15,300,Medio,Masculino,70,Primario incompleto,4,71,Candidato A,No votó
