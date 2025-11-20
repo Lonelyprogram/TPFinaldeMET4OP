@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git_pildoras
 
 ## Tracking electoral con ponderación censal 2022
@@ -42,3 +43,7 @@ Puedes agregar nuevas olas siguiendo el patrón `encuestas_YYYY-MM.csv`; el note
 1. Abre `tracking_electoral.ipynb` en VSCode.
 2. Selecciona un kernel de Python 3.10+ con las dependencias instaladas.
 3. Ejecuta las celdas en orden. Se guardarán `outputs/imagen_ponderada.png` y `outputs/intencion_ponderada.png`, además de los resúmenes de regresiones e hipótesis en la salida de consola.
+=======
+# TPFinaldeMET4OP
+Repositorio  MET4OP - UBA FSOC - Fran/tomi/mercedes
+>>>>>>> main
