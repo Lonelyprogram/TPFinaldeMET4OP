@@ -1,0 +1,1001 @@
+Fecha,Encuesta,Estrato,Sexo,Edad,Nivel Educativo,Cantidad de Integrantes en el Hogar,Imagen del Candidato,Voto,Voto Anterior
+2025-02-01,200,Tucumán,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-03-01,400,San Luis,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-03-01,400,Santiago del Estero,Masculino,26.0,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-03-01,400,Entre Ríos,Masculino,63.0,Primario completo,1,66.0,En blanco,Candidato C
+2025-02-15,300,Entre Ríos,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-02-15,300,Santa Cruz,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-02-01,200,Chubut,Masculino,55.0,Primario incompleto,3,76.0,,En blanco
+2025-03-01,400,Misiones,Femenino,57.0,Posgrado,5,89.0,En blanco,En blanco
+2025-02-01,200,Entre Ríos,Masculino,,Secundario completo,4,41.0,En blanco,Candidato C
+2025-02-01,200,Formosa,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-03-01,400,Tierra del Fuego,Femenino,38.0,Posgrado,2,93.0,Candidato A,Candidato C
+2025-02-15,300,Catamarca,Masculino,70.0,Primario incompleto,4,71.0,Candidato A,No votó
+2025-02-01,200,Mendoza,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-01-15,100,Córdoba,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-01-15,100,Santa Cruz,Femenino,70.0,Primario incompleto,5,89.0,Candidato B,Candidato B
+2025-02-01,200,Entre Ríos,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-01-15,100,La Rioja,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-03-01,400,Córdoba,Femenino,38.0,Posgrado,2,93.0,Candidato A,Candidato C
+2025-01-15,100,Formosa,Femenino,69.0,Posgrado,1,55.0,Candidato B,Candidato B
+2025-03-01,400,Mendoza,Masculino,55.0,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco
+2025-01-15,100,Chubut,Femenino,,Primario incompleto,1,53.0,,No votó
+2025-02-01,200,Misiones,Masculino,20.0,Primario completo,4,79.0,Candidato A,En blanco
+2025-02-01,200,Tierra del Fuego,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-02-15,300,CABA,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-03-01,400,Córdoba,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-03-01,400,Salta,Masculino,71.0,Secundario completo,2,79.0,No vota,Candidato A
+2025-02-01,200,La Pampa,Femenino,22.0,Terciario/Universitario completo,3,79.0,,Candidato A
+2025-01-15,100,Catamarca,Femenino,70.0,Primario incompleto,5,89.0,Candidato B,Candidato B
+2025-03-01,400,Entre Ríos,Femenino,,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-02-15,300,Entre Ríos,Masculino,60.0,Primario incompleto,3,89.0,No vota,En blanco
+2025-02-15,300,Santa Fe,Femenino,53.0,Primario incompleto,5,100.0,,Candidato A
+2025-02-15,300,Formosa,Femenino,60.0,,3,65.0,,No votó
+2025-02-01,200,Neuquén,Femenino,28.0,Secundario completo,5,85.0,Candidato C,No votó
+2025-02-01,200,Jujuy,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-01,200,Entre Ríos,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-02-15,300,La Rioja,Masculino,67.0,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B
+2025-03-01,400,Santa Cruz,Masculino,26.0,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-02-15,300,Santa Fe,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-02-15,300,Chaco,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-03-01,400,La Pampa,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-02-15,300,Santa Fe,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-02-01,200,Mendoza,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-02-15,300,Catamarca,Masculino,74.0,Secundario incompleto,2,77.0,Candidato C,Candidato A
+2025-02-01,200,La Pampa,Masculino,20.0,Primario completo,4,79.0,Candidato A,En blanco
+2025-01-15,100,La Rioja,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-02-01,200,Jujuy,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-01-15,100,Neuquén,Masculino,53.0,Secundario incompleto,6,79.0,Candidato C,No votó
+2025-02-15,300,Santa Cruz,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-03-01,400,Santa Cruz,Masculino,31.0,Posgrado,4,64.0,No vota,Candidato A
+2025-02-15,300,Santa Fe,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-02-15,300,Jujuy,Femenino,25.0,Secundario incompleto,4,50.0,En blanco,Candidato A
+2025-03-01,400,Chaco,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-03-01,400,CABA,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-02-01,200,Río Negro,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-02-15,300,La Rioja,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-02-01,200,Buenos Aires,Femenino,35.0,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-03-01,400,Salta,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-01,200,Corrientes,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-01-15,100,Santiago del Estero,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-02-01,200,Tucumán,Masculino,24.0,Terciario/Universitario completo,3,94.0,No vota,Candidato A
+2025-02-01,200,Tierra del Fuego,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-01,200,Tucumán,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-02-15,300,Jujuy,Femenino,75.0,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B
+2025-01-15,100,Río Negro,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-02-01,200,Río Negro,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-03-01,400,Neuquén,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-02-01,200,Misiones,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-01-15,100,Santa Cruz,Femenino,38.0,,4,60.0,Candidato C,En blanco
+2025-02-01,200,Catamarca,Masculino,33.0,,4,82.0,Candidato A,No votó
+2025-02-15,300,Salta,Masculino,55.0,Secundario completo,5,98.0,No vota,Candidato B
+2025-02-01,200,Chaco,Masculino,80.0,Posgrado,2,96.0,En blanco,Candidato A
+2025-03-01,400,Chubut,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-01-15,100,Jujuy,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-01-15,100,Salta,Femenino,56.0,Secundario incompleto,1,86.0,En blanco,No votó
+2025-03-01,400,Córdoba,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-03-01,400,Santa Fe,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-03-01,400,Formosa,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-03-01,400,Formosa,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-01-15,100,Mendoza,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-02-15,300,Tierra del Fuego,Femenino,25.0,Secundario incompleto,4,50.0,En blanco,Candidato A
+2025-03-01,400,Santa Fe,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-01-15,100,Jujuy,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-02-15,300,Buenos Aires,Femenino,45.0,Terciario/Universitario completo,6,90.0,No vota,En blanco
+2025-03-01,400,Córdoba,Masculino,78.0,Secundario incompleto,3,88.0,En blanco,En blanco
+2025-02-15,300,Entre Ríos,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-02-15,300,Tucumán,Masculino,70.0,Primario incompleto,4,71.0,Candidato A,No votó
+2025-02-15,300,Chaco,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-02-15,300,San Luis,Femenino,32.0,Primario incompleto,6,52.0,Candidato C,Candidato A
+2025-01-15,100,Salta,Masculino,45.0,Primario completo,1,59.0,,Candidato A
+2025-03-01,400,Misiones,Masculino,26.0,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-03-01,400,Mendoza,Masculino,63.0,Primario completo,1,66.0,En blanco,Candidato C
+2025-01-15,100,Río Negro,Femenino,38.0,Primario completo,4,60.0,Candidato C,En blanco
+2025-03-01,400,La Rioja,Femenino,57.0,Posgrado,5,89.0,En blanco,En blanco
+2025-02-15,300,Neuquén,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-02-01,200,Salta,Femenino,47.0,Secundario incompleto,1,40.0,En blanco,No votó
+2025-01-15,100,Río Negro,Femenino,,Secundario incompleto,1,72.0,Candidato C,Candidato A
+2025-02-15,300,Catamarca,Masculino,67.0,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B
+2025-02-01,200,Neuquén,Femenino,67.0,Secundario incompleto,2,78.0,No vota,Candidato A
+2025-02-01,200,Santa Cruz,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-02-01,200,Corrientes,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-02-01,200,Santa Fe,Masculino,18.0,Primario incompleto,6,80.0,Candidato A,Candidato B
+2025-03-01,400,Buenos Aires,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-02-01,200,Tierra del Fuego,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-01-15,100,Corrientes,Masculino,50.0,Secundario incompleto,2,99.0,Candidato C,Candidato A
+2025-01-15,100,San Luis,Femenino,40.0,Secundario completo,4,69.0,Candidato A,Candidato A
+2025-03-01,400,Chubut,Masculino,26.0,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-02-15,300,Chaco,Femenino,34.0,Posgrado,1,45.0,En blanco,Candidato C
+2025-03-01,400,Tucumán,Masculino,,Terciario/Universitario completo,4,71.0,En blanco,Candidato B
+2025-03-01,400,Tierra del Fuego,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-02-15,300,San Juan,Femenino,75.0,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B
+2025-02-01,200,Corrientes,Femenino,35.0,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-03-01,400,Córdoba,Femenino,38.0,Posgrado,2,93.0,Candidato A,Candidato C
+2025-01-15,100,Río Negro,Femenino,,Primario completo,2,87.0,Candidato A,No votó
+2025-02-01,200,Jujuy,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-03-01,400,Córdoba,Femenino,38.0,Posgrado,2,93.0,Candidato A,Candidato C
+2025-01-15,100,Jujuy,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-02-01,200,San Luis,Masculino,28.0,Secundario completo,4,57.0,No vota,Candidato B
+2025-02-01,200,La Rioja,Masculino,33.0,Primario completo,4,82.0,Candidato A,No votó
+2025-02-01,200,Chubut,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-02-01,200,San Juan,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-02-01,200,San Luis,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-03-01,400,CABA,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-15,300,Chaco,Masculino,31.0,Posgrado,3,46.0,Candidato A,En blanco
+2025-01-15,100,San Luis,Masculino,50.0,Secundario incompleto,2,99.0,Candidato C,Candidato A
+2025-02-01,200,Tierra del Fuego,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-01-15,100,Tierra del Fuego,Masculino,53.0,Secundario incompleto,6,79.0,Candidato C,No votó
+2025-03-01,400,Buenos Aires,Masculino,31.0,Posgrado,4,64.0,No vota,Candidato A
+2025-03-01,400,Misiones,Masculino,63.0,Primario completo,1,66.0,En blanco,Candidato C
+2025-02-15,300,Buenos Aires,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-02-15,300,San Luis,Femenino,45.0,Terciario/Universitario completo,6,90.0,No vota,En blanco
+2025-03-01,400,Buenos Aires,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-01-15,100,Tierra del Fuego,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-03-01,400,Salta,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-02-15,300,La Rioja,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-03-01,400,Buenos Aires,Femenino,38.0,Posgrado,2,93.0,Candidato A,Candidato C
+2025-01-15,100,Chubut,Masculino,,Primario completo,1,78.0,,Candidato B
+2025-01-15,100,Corrientes,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-01-15,100,Catamarca,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-03-01,400,La Pampa,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-02-15,300,Tierra del Fuego,Femenino,53.0,Primario incompleto,5,100.0,Candidato B,Candidato A
+2025-02-01,200,Jujuy,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-03-01,400,Chaco,Masculino,63.0,Terciario/Universitario completo,4,71.0,En blanco,Candidato B
+2025-01-15,100,Entre Ríos,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-03-01,400,La Rioja,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-01-15,100,Entre Ríos,Femenino,38.0,,4,60.0,Candidato C,En blanco
+2025-01-15,100,Salta,Masculino,63.0,,6,74.0,En blanco,Candidato B
+2025-01-15,100,Corrientes,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-02-15,300,Buenos Aires,Masculino,31.0,Posgrado,3,46.0,Candidato A,En blanco
+2025-03-01,400,Corrientes,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-15,300,Córdoba,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-01-15,100,Chubut,Femenino,22.0,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-02-01,200,Buenos Aires,Femenino,35.0,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-02-15,300,Río Negro,Femenino,71.0,Primario incompleto,4,41.0,No vota,Candidato A
+2025-03-01,400,La Pampa,Masculino,26.0,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-03-01,400,Santa Cruz,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-01,200,Misiones,Femenino,28.0,Secundario completo,5,85.0,Candidato C,No votó
+2025-03-01,400,Buenos Aires,Masculino,23.0,Terciario/Universitario completo,4,48.0,En blanco,Candidato B
+2025-02-01,200,Santiago del Estero,Femenino,68.0,,6,95.0,Candidato B,Candidato C
+2025-01-15,100,Neuquén,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-02-01,200,Santiago del Estero,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-02-01,200,Santa Cruz,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-02-01,200,Misiones,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-03-01,400,Entre Ríos,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-02-15,300,Jujuy,Femenino,45.0,Terciario/Universitario completo,5,61.0,Candidato C,En blanco
+2025-03-01,400,Tucumán,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-03-01,400,Mendoza,Masculino,,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-01-15,100,Córdoba,Femenino,77.0,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C
+2025-01-15,100,Chaco,Femenino,40.0,Secundario completo,4,69.0,Candidato A,Candidato A
+2025-02-15,300,Entre Ríos,Masculino,55.0,Secundario completo,5,98.0,No vota,Candidato B
+2025-02-01,200,Jujuy,Femenino,31.0,Terciario/Universitario completo,4,65.0,En blanco,Candidato B
+2025-01-15,100,Corrientes,Masculino,80.0,,2,50.0,En blanco,En blanco
+2025-02-15,300,Santa Cruz,Femenino,75.0,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B
+2025-02-15,300,Mendoza,Femenino,60.0,Secundario completo,3,65.0,Candidato C,No votó
+2025-03-01,400,CABA,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-02-01,200,Chaco,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-02-01,200,Catamarca,Masculino,75.0,Posgrado,1,89.0,En blanco,Candidato B
+2025-02-01,200,CABA,Femenino,28.0,Secundario completo,5,85.0,Candidato C,No votó
+2025-02-15,300,San Luis,Femenino,34.0,Posgrado,1,45.0,En blanco,Candidato C
+2025-02-15,300,Santa Cruz,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-01-15,100,Córdoba,Masculino,34.0,Primario incompleto,6,67.0,Candidato A,No votó
+2025-01-15,100,La Pampa,Femenino,56.0,Secundario incompleto,1,86.0,En blanco,No votó
+2025-02-01,200,Chaco,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-02-01,200,Corrientes,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-01-15,100,Entre Ríos,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-02-01,200,Santiago del Estero,Masculino,24.0,Terciario/Universitario completo,3,94.0,No vota,Candidato A
+2025-01-15,100,Misiones,Femenino,69.0,Posgrado,1,55.0,Candidato B,Candidato B
+2025-02-15,300,San Luis,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-02-01,200,Santa Fe,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-02-01,200,Santiago del Estero,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-03-01,400,Catamarca,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-02-15,300,Tierra del Fuego,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-02-15,300,Buenos Aires,Masculino,,Primario completo,3,51.0,Candidato C,Candidato A
+2025-01-15,100,Chaco,Femenino,,Primario completo,2,87.0,Candidato A,No votó
+2025-01-15,100,La Pampa,Femenino,22.0,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-02-15,300,Santa Cruz,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-03-01,400,San Juan,Masculino,23.0,Terciario/Universitario completo,4,48.0,En blanco,Candidato B
+2025-01-15,100,Mendoza,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-03-01,400,La Rioja,Masculino,35.0,Secundario completo,1,85.0,Candidato C,Candidato B
+2025-03-01,400,Chaco,Masculino,63.0,Primario completo,1,66.0,En blanco,Candidato C
+2025-01-15,100,Chaco,Femenino,,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-02-01,200,La Rioja,Femenino,35.0,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-02-15,300,Salta,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-01-15,100,San Luis,Masculino,72.0,Primario completo,1,78.0,Candidato A,Candidato B
+2025-02-15,300,Río Negro,Masculino,36.0,Primario completo,3,51.0,Candidato C,Candidato A
+2025-02-01,200,Santiago del Estero,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-01-15,100,Formosa,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-02-01,200,Jujuy,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-02-15,300,Formosa,Femenino,71.0,Primario incompleto,4,41.0,No vota,Candidato A
+2025-02-15,300,Formosa,Femenino,60.0,Secundario completo,3,65.0,,No votó
+2025-01-15,100,La Rioja,Masculino,80.0,Primario incompleto,2,50.0,En blanco,En blanco
+2025-02-01,200,San Juan,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-03-01,400,Salta,Femenino,38.0,Posgrado,2,93.0,Candidato A,Candidato C
+2025-02-01,200,Córdoba,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-02-15,300,Salta,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-02-01,200,CABA,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-02-01,200,Tierra del Fuego,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-02-15,300,Chubut,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-02-15,300,Neuquén,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-01-15,100,Misiones,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-01-15,100,Santa Cruz,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-01-15,100,San Juan,Femenino,,Terciario/Universitario completo,3,67.0,No vota,No votó
+2025-02-01,200,Tucumán,Masculino,33.0,Primario completo,4,82.0,Candidato A,No votó
+2025-02-15,300,Buenos Aires,Femenino,60.0,Secundario completo,3,65.0,Candidato C,No votó
+2025-01-15,100,Corrientes,Femenino,20.0,,1,53.0,Candidato B,No votó
+2025-01-15,100,Misiones,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-02-01,200,CABA,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-03-01,400,La Pampa,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-03-01,400,La Pampa,Femenino,57.0,Posgrado,5,89.0,En blanco,En blanco
+2025-02-01,200,Santa Cruz,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-02-15,300,Tierra del Fuego,Masculino,,Primario completo,3,51.0,Candidato C,Candidato A
+2025-01-15,100,Mendoza,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-02-15,300,Formosa,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-01-15,100,Río Negro,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-02-01,200,Santiago del Estero,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-01-15,100,Neuquén,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-03-01,400,Jujuy,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-01-15,100,Río Negro,Masculino,80.0,Primario incompleto,2,50.0,En blanco,En blanco
+2025-03-01,400,Chaco,Masculino,35.0,Secundario completo,1,85.0,Candidato C,Candidato B
+2025-01-15,100,La Pampa,Masculino,80.0,Primario incompleto,2,50.0,En blanco,En blanco
+2025-02-01,200,Chaco,Femenino,78.0,Posgrado,4,79.0,No vota,En blanco
+2025-02-15,300,Mendoza,Masculino,74.0,,2,77.0,Candidato C,Candidato A
+2025-02-01,200,Neuquén,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-01-15,100,Chubut,Femenino,40.0,Terciario/Universitario completo,3,67.0,No vota,No votó
+2025-03-01,400,Mendoza,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-03-01,400,La Rioja,Masculino,55.0,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco
+2025-02-01,200,Catamarca,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-03-01,400,Catamarca,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-02-01,200,Río Negro,Masculino,80.0,Primario incompleto,5,58.0,Candidato B,En blanco
+2025-03-01,400,Santiago del Estero,Masculino,35.0,Secundario completo,1,85.0,Candidato C,Candidato B
+2025-03-01,400,Formosa,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-02-01,200,Formosa,Masculino,28.0,Secundario completo,4,57.0,No vota,Candidato B
+2025-02-01,200,Chaco,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-02-15,300,Entre Ríos,Masculino,36.0,Primario completo,3,51.0,Candidato C,Candidato A
+2025-03-01,400,Santiago del Estero,Masculino,31.0,Posgrado,4,64.0,No vota,Candidato A
+2025-02-15,300,San Juan,Femenino,60.0,Secundario completo,3,65.0,Candidato C,No votó
+2025-03-01,400,Neuquén,Masculino,35.0,Secundario completo,1,85.0,,Candidato B
+2025-02-15,300,Córdoba,Masculino,67.0,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B
+2025-03-01,400,Tucumán,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-01-15,100,Chaco,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-02-01,200,Neuquén,Femenino,66.0,Primario completo,5,89.0,No vota,Candidato A
+2025-02-15,300,La Pampa,Femenino,60.0,Secundario completo,3,65.0,Candidato C,No votó
+2025-02-15,300,Chaco,Masculino,55.0,Secundario completo,5,98.0,,Candidato B
+2025-02-15,300,Jujuy,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-03-01,400,Neuquén,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-01,200,Formosa,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco
+2025-02-15,300,Córdoba,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-02-01,200,CABA,Femenino,,Primario completo,5,89.0,No vota,Candidato A
+2025-02-01,200,Chaco,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-02-15,300,Córdoba,Femenino,75.0,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B
+2025-02-01,200,San Luis,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-03-01,400,Entre Ríos,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-01,200,La Rioja,Femenino,47.0,Secundario incompleto,1,40.0,En blanco,No votó
+2025-02-15,300,Entre Ríos,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-02-01,200,Misiones,Femenino,67.0,Secundario incompleto,2,78.0,No vota,Candidato A
+2025-01-15,100,Tierra del Fuego,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-02-01,200,Mendoza,Masculino,28.0,Secundario completo,4,57.0,No vota,Candidato B
+2025-02-01,200,La Pampa,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-01-15,100,Formosa,Masculino,34.0,Primario incompleto,6,67.0,Candidato A,No votó
+2025-03-01,400,Córdoba,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-02-01,200,Misiones,Masculino,80.0,Posgrado,2,96.0,En blanco,Candidato A
+2025-03-01,400,Entre Ríos,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-03-01,400,Catamarca,Femenino,29.0,Secundario incompleto,4,55.0,Candidato A,En blanco
+2025-02-15,300,Neuquén,Femenino,45.0,Terciario/Universitario completo,5,61.0,Candidato C,En blanco
+2025-02-01,200,Córdoba,Femenino,,,5,85.0,Candidato C,No votó
+2025-01-15,100,Río Negro,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-01-15,100,Chaco,Masculino,53.0,Secundario incompleto,6,,Candidato C,No votó
+2025-02-01,200,La Rioja,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-03-01,400,La Pampa,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-01,200,Entre Ríos,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-01-15,100,San Luis,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-01-15,100,Tucumán,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-01-15,100,Neuquén,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-02-15,300,San Juan,Masculino,,Primario incompleto,3,65.0,,Candidato A
+2025-03-01,400,Entre Ríos,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-01-15,100,Chubut,Masculino,72.0,Primario completo,1,78.0,Candidato A,Candidato B
+2025-01-15,100,Mendoza,Masculino,,Primario incompleto,2,50.0,En blanco,En blanco
+2025-02-01,200,Tucumán,Femenino,35.0,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-01-15,100,Jujuy,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-02-15,300,Catamarca,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-01-15,100,Formosa,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-02-15,300,Corrientes,Masculino,67.0,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B
+2025-01-15,100,Río Negro,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-02-01,200,Santa Fe,Femenino,66.0,Primario completo,5,89.0,No vota,Candidato A
+2025-02-01,200,Entre Ríos,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-03-01,400,Chaco,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-03-01,400,Jujuy,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-01,200,Santiago del Estero,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-02-01,200,Neuquén,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-03-01,400,Buenos Aires,Masculino,63.0,Primario completo,1,66.0,En blanco,Candidato C
+2025-02-15,300,Formosa,Masculino,55.0,Secundario completo,5,98.0,No vota,Candidato B
+2025-03-01,400,Formosa,Masculino,55.0,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco
+2025-02-01,200,Neuquén,Masculino,24.0,Terciario/Universitario completo,3,94.0,No vota,Candidato A
+2025-01-15,100,Neuquén,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-03-01,400,Buenos Aires,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-01-15,100,Santa Fe,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-03-01,400,CABA,Masculino,32.0,Primario incompleto,3,41.0,No vota,No votó
+2025-03-01,400,Córdoba,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-02-15,300,Corrientes,Femenino,25.0,Secundario incompleto,4,50.0,En blanco,Candidato A
+2025-02-01,200,Tucumán,Femenino,67.0,Secundario incompleto,2,78.0,No vota,Candidato A
+2025-02-01,200,Neuquén,Masculino,75.0,Posgrado,1,89.0,En blanco,Candidato B
+2025-03-01,400,La Rioja,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-02-01,200,Tierra del Fuego,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-02-15,300,Buenos Aires,Masculino,67.0,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B
+2025-02-15,300,Salta,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-01-15,100,Mendoza,Masculino,50.0,Secundario incompleto,2,99.0,Candidato C,Candidato A
+2025-02-15,300,Chaco,Masculino,70.0,Primario incompleto,4,71.0,Candidato A,No votó
+2025-03-01,400,Tierra del Fuego,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-01,200,San Luis,Femenino,78.0,Posgrado,4,79.0,No vota,En blanco
+2025-03-01,400,Santa Fe,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-15,300,La Pampa,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-02-15,300,Catamarca,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-01-15,100,Neuquén,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-02-01,200,Tucumán,Femenino,66.0,Primario completo,5,89.0,No vota,Candidato A
+2025-02-01,200,Santa Fe,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-01-15,100,Córdoba,Masculino,53.0,Secundario incompleto,6,79.0,Candidato C,No votó
+2025-02-01,200,Tucumán,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco
+2025-03-01,400,San Luis,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-03-01,400,Chaco,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-01-15,100,Chubut,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-03-01,400,Entre Ríos,Masculino,71.0,Secundario completo,2,79.0,No vota,Candidato A
+2025-02-15,300,Neuquén,Femenino,60.0,Secundario completo,3,65.0,Candidato C,No votó
+2025-03-01,400,La Rioja,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-01-15,100,Catamarca,Femenino,70.0,Primario incompleto,5,89.0,Candidato B,Candidato B
+2025-01-15,100,CABA,Femenino,69.0,Posgrado,1,55.0,Candidato B,Candidato B
+2025-03-01,400,Chaco,Masculino,55.0,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco
+2025-02-01,200,Neuquén,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-03-01,400,Buenos Aires,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-02-01,200,Santa Cruz,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-01-15,100,San Luis,Femenino,22.0,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-01-15,100,CABA,Femenino,22.0,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-02-01,200,Chubut,Masculino,80.0,Primario incompleto,5,58.0,Candidato B,En blanco
+2025-02-15,300,Santa Cruz,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-01-15,100,Santiago del Estero,Femenino,69.0,Posgrado,1,55.0,Candidato B,Candidato B
+2025-02-15,300,Santiago del Estero,Masculino,36.0,Primario completo,3,51.0,Candidato C,Candidato A
+2025-02-01,200,CABA,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-02-01,200,La Pampa,Masculino,,Primario completo,4,79.0,Candidato A,En blanco
+2025-02-15,300,San Juan,Masculino,36.0,Primario completo,3,51.0,Candidato C,Candidato A
+2025-03-01,400,Entre Ríos,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-02-15,300,Chubut,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-01-15,100,Entre Ríos,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-02-15,300,Santiago del Estero,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-03-01,400,Catamarca,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-02-01,200,Salta,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-02-01,200,Neuquén,Masculino,20.0,Primario completo,4,79.0,,En blanco
+2025-02-15,300,Catamarca,Masculino,60.0,Primario incompleto,3,89.0,No vota,En blanco
+2025-03-01,400,Mendoza,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-01-15,100,Neuquén,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-02-01,200,Santiago del Estero,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-01-15,100,Santa Cruz,Femenino,69.0,Posgrado,1,55.0,Candidato B,Candidato B
+2025-03-01,400,Tierra del Fuego,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-01-15,100,Salta,Femenino,67.0,Primario completo,6,56.0,Candidato B,En blanco
+2025-01-15,100,Santa Cruz,Femenino,56.0,Secundario incompleto,1,86.0,En blanco,No votó
+2025-01-15,100,Catamarca,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-01-15,100,CABA,Masculino,72.0,Primario completo,1,78.0,Candidato A,Candidato B
+2025-02-01,200,Tucumán,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-03-01,400,La Rioja,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-01-15,100,Corrientes,Femenino,67.0,Primario completo,6,56.0,Candidato B,En blanco
+2025-02-01,200,Tucumán,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-02-15,300,Córdoba,Femenino,32.0,Primario incompleto,6,52.0,Candidato C,Candidato A
+2025-01-15,100,San Juan,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-02-01,200,Chubut,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-02-15,300,Córdoba,Masculino,36.0,Primario completo,3,51.0,Candidato C,Candidato A
+2025-01-15,100,La Pampa,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-01-15,100,Santa Fe,Femenino,60.0,Secundario incompleto,1,72.0,Candidato C,Candidato A
+2025-01-15,100,Misiones,Masculino,,Primario incompleto,2,50.0,En blanco,En blanco
+2025-03-01,400,Chubut,Femenino,57.0,Posgrado,5,89.0,En blanco,En blanco
+2025-03-01,400,Chaco,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-01,200,CABA,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco
+2025-02-15,300,Corrientes,Femenino,25.0,Secundario incompleto,4,50.0,En blanco,Candidato A
+2025-03-01,400,Neuquén,Masculino,32.0,Primario incompleto,3,41.0,No vota,No votó
+2025-02-15,300,CABA,Femenino,32.0,,6,52.0,Candidato C,Candidato A
+2025-03-01,400,Salta,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-02-01,200,Santiago del Estero,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-02-01,200,Neuquén,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco
+2025-01-15,100,Río Negro,Femenino,67.0,Primario completo,6,56.0,Candidato B,En blanco
+2025-02-01,200,San Luis,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-01-15,100,La Rioja,Masculino,,Primario incompleto,2,50.0,En blanco,En blanco
+2025-03-01,400,Jujuy,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-03-01,400,Chubut,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-03-01,400,Entre Ríos,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-02-01,200,Tucumán,Masculino,75.0,Posgrado,1,89.0,,Candidato B
+2025-01-15,100,San Juan,Femenino,22.0,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-01-15,100,Chaco,Femenino,,Primario incompleto,1,53.0,Candidato B,No votó
+2025-03-01,400,Tierra del Fuego,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-03-01,400,Santa Fe,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-03-01,400,Córdoba,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-01,200,Santiago del Estero,Femenino,,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-01-15,100,Formosa,Femenino,77.0,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C
+2025-01-15,100,Mendoza,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-02-15,300,Santiago del Estero,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-03-01,400,Corrientes,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-02-01,200,CABA,Femenino,28.0,Secundario completo,5,85.0,Candidato C,No votó
+2025-02-01,200,Formosa,Masculino,18.0,Primario incompleto,6,80.0,Candidato A,Candidato B
+2025-01-15,100,Río Negro,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-02-01,200,Formosa,Masculino,80.0,Posgrado,2,96.0,En blanco,Candidato A
+2025-03-01,400,Corrientes,Masculino,32.0,Primario incompleto,3,41.0,No vota,No votó
+2025-02-01,200,La Pampa,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-02-01,200,La Pampa,Femenino,31.0,Terciario/Universitario completo,4,65.0,En blanco,Candidato B
+2025-02-01,200,Río Negro,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-01-15,100,Jujuy,Masculino,53.0,Secundario incompleto,6,79.0,Candidato C,No votó
+2025-01-15,100,Corrientes,Masculino,34.0,Primario incompleto,6,67.0,Candidato A,No votó
+2025-02-15,300,CABA,Masculino,55.0,Secundario completo,5,98.0,No vota,Candidato B
+2025-02-15,300,La Pampa,Femenino,34.0,Posgrado,1,45.0,En blanco,Candidato C
+2025-02-01,200,Jujuy,Femenino,66.0,Primario completo,5,89.0,No vota,Candidato A
+2025-03-01,400,Mendoza,Masculino,63.0,Terciario/Universitario completo,4,71.0,En blanco,Candidato B
+2025-02-01,200,Santa Fe,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-02-01,200,Buenos Aires,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-02-15,300,Formosa,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-03-01,400,Corrientes,Masculino,71.0,Secundario completo,2,79.0,No vota,Candidato A
+2025-03-01,400,San Luis,Femenino,57.0,Posgrado,5,,En blanco,En blanco
+2025-03-01,400,Córdoba,Masculino,26.0,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-02-01,200,Corrientes,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-01,200,Santa Cruz,Masculino,80.0,Primario incompleto,5,58.0,Candidato B,En blanco
+2025-02-01,200,Misiones,Masculino,75.0,Posgrado,1,89.0,En blanco,Candidato B
+2025-01-15,100,Neuquén,Masculino,80.0,Primario incompleto,2,50.0,En blanco,En blanco
+2025-03-01,400,Chubut,Femenino,57.0,Posgrado,5,89.0,En blanco,En blanco
+2025-01-15,100,Santa Fe,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-03-01,400,Neuquén,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-02-01,200,Catamarca,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-03-01,400,San Juan,Masculino,,Primario incompleto,3,41.0,No vota,No votó
+2025-02-01,200,Tierra del Fuego,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-01-15,100,Jujuy,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-02-15,300,Chaco,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-01-15,100,La Pampa,Femenino,70.0,Primario incompleto,5,89.0,Candidato B,Candidato B
+2025-02-01,200,La Pampa,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-02-01,200,Corrientes,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-03-01,400,San Luis,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-02-15,300,Buenos Aires,Masculino,60.0,Primario incompleto,3,89.0,No vota,En blanco
+2025-02-01,200,San Luis,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-02-01,200,Tucumán,Femenino,28.0,Secundario completo,5,85.0,Candidato C,No votó
+2025-03-01,400,Tierra del Fuego,Masculino,35.0,Secundario completo,1,85.0,Candidato C,Candidato B
+2025-03-01,400,San Luis,Masculino,26.0,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-03-01,400,Tucumán,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-02-01,200,Santa Fe,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-02-15,300,Catamarca,Masculino,36.0,Primario completo,3,51.0,Candidato C,Candidato A
+2025-02-01,200,Buenos Aires,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-02-01,200,Misiones,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-02-01,200,Chaco,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-02-15,300,San Juan,Masculino,31.0,Posgrado,3,46.0,Candidato A,En blanco
+2025-02-01,200,San Juan,Femenino,78.0,Posgrado,4,79.0,No vota,En blanco
+2025-01-15,100,CABA,Femenino,56.0,Secundario incompleto,1,86.0,En blanco,No votó
+2025-02-01,200,San Juan,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-02-15,300,Chubut,Femenino,45.0,Terciario/Universitario completo,5,61.0,Candidato C,En blanco
+2025-03-01,400,Neuquén,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-01-15,100,Santiago del Estero,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-02-15,300,Formosa,Masculino,74.0,Secundario incompleto,2,77.0,Candidato C,Candidato A
+2025-02-01,200,Corrientes,Femenino,47.0,Secundario incompleto,1,40.0,En blanco,No votó
+2025-02-01,200,Neuquén,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-02-01,200,San Luis,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-02-01,200,Catamarca,Femenino,31.0,Terciario/Universitario completo,4,65.0,En blanco,Candidato B
+2025-01-15,100,La Rioja,Femenino,69.0,Posgrado,1,55.0,Candidato B,Candidato B
+2025-02-15,300,Neuquén,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-03-01,400,San Juan,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-01-15,100,Catamarca,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-02-15,300,Santa Fe,Masculino,50.0,Primario incompleto,6,,No vota,No votó
+2025-02-01,200,La Pampa,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-01,200,Santa Cruz,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-02-15,300,La Rioja,Masculino,74.0,Secundario incompleto,2,77.0,Candidato C,Candidato A
+2025-03-01,400,La Pampa,Masculino,49.0,,3,91.0,Candidato C,Candidato C
+2025-03-01,400,Tucumán,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-15,300,Catamarca,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-03-01,400,Río Negro,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-02-01,200,Chaco,Femenino,35.0,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-02-15,300,CABA,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-01-15,100,Corrientes,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-02-01,200,Formosa,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-01-15,100,Misiones,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-02-15,300,Tucumán,Femenino,45.0,Terciario/Universitario completo,6,90.0,No vota,En blanco
+2025-02-01,200,San Juan,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-01-15,100,Neuquén,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-03-01,400,Tierra del Fuego,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-01-15,100,Santiago del Estero,Femenino,,Primario completo,2,87.0,Candidato A,No votó
+2025-02-01,200,Entre Ríos,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-02-15,300,Tierra del Fuego,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-02-01,200,Córdoba,Masculino,20.0,Primario completo,4,79.0,Candidato A,En blanco
+2025-01-15,100,Chaco,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-03-01,400,San Luis,Femenino,,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-01-15,100,Catamarca,Femenino,70.0,Primario incompleto,5,89.0,Candidato B,Candidato B
+2025-03-01,400,Santiago del Estero,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-02-01,200,Chaco,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco
+2025-03-01,400,Santa Cruz,Masculino,71.0,Secundario completo,2,79.0,No vota,Candidato A
+2025-02-01,200,Buenos Aires,Masculino,,Primario incompleto,6,80.0,Candidato A,Candidato B
+2025-02-01,200,Mendoza,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-02-01,200,Tierra del Fuego,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-03-01,400,Salta,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-01-15,100,Río Negro,Masculino,34.0,Primario incompleto,6,67.0,Candidato A,No votó
+2025-01-15,100,San Luis,Femenino,40.0,Secundario completo,4,69.0,Candidato A,Candidato A
+2025-01-15,100,Río Negro,Femenino,38.0,Primario completo,4,60.0,Candidato C,En blanco
+2025-02-01,200,Entre Ríos,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-03-01,400,Salta,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-03-01,400,Neuquén,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-02-15,300,Catamarca,Femenino,45.0,Terciario/Universitario completo,5,61.0,Candidato C,En blanco
+2025-02-15,300,La Rioja,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-03-01,400,Chubut,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-03-01,400,Corrientes,Masculino,71.0,Secundario completo,2,79.0,No vota,Candidato A
+2025-02-01,200,San Luis,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-03-01,400,San Luis,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-03-01,400,San Juan,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-01-15,100,Buenos Aires,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-01-15,100,Santiago del Estero,Femenino,60.0,Secundario incompleto,1,72.0,Candidato C,Candidato A
+2025-02-15,300,La Rioja,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-02-15,300,San Luis,Masculino,,Primario incompleto,4,71.0,,No votó
+2025-03-01,400,San Juan,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-15,300,Santiago del Estero,Femenino,45.0,Terciario/Universitario completo,5,61.0,Candidato C,En blanco
+2025-03-01,400,Entre Ríos,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-02-15,300,Tucumán,Masculino,60.0,Secundario incompleto,6,99.0,Candidato A,No votó
+2025-03-01,400,Córdoba,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-02-15,300,Corrientes,Masculino,70.0,Primario incompleto,4,71.0,Candidato A,No votó
+2025-02-15,300,Neuquén,Femenino,45.0,Terciario/Universitario completo,6,90.0,No vota,En blanco
+2025-02-01,200,Catamarca,Masculino,42.0,Posgrado,1,,En blanco,Candidato B
+2025-02-15,300,Tierra del Fuego,Femenino,32.0,Primario incompleto,6,52.0,Candidato C,Candidato A
+2025-02-15,300,Santiago del Estero,Masculino,60.0,Secundario incompleto,6,99.0,Candidato A,No votó
+2025-02-15,300,Mendoza,Masculino,50.0,,6,59.0,No vota,No votó
+2025-02-01,200,Salta,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-02-01,200,Chubut,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-01-15,100,Chubut,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-03-01,400,Salta,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-03-01,400,La Rioja,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-02-01,200,Chubut,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-02-01,200,Santa Cruz,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-02-15,300,Formosa,Masculino,,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B
+2025-01-15,100,Entre Ríos,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-02-01,200,Mendoza,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-01-15,100,Córdoba,Masculino,80.0,Primario incompleto,2,50.0,En blanco,En blanco
+2025-02-15,300,Tucumán,Femenino,53.0,Primario incompleto,5,100.0,Candidato B,Candidato A
+2025-02-01,200,Corrientes,Masculino,24.0,Terciario/Universitario completo,3,94.0,No vota,Candidato A
+2025-02-01,200,Misiones,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-02-15,300,Buenos Aires,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-02-01,200,San Luis,Masculino,80.0,Posgrado,2,96.0,En blanco,Candidato A
+2025-02-01,200,San Luis,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-03-01,400,Tierra del Fuego,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-03-01,400,Catamarca,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-15,300,San Juan,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-02-01,200,Córdoba,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-01-15,100,Corrientes,Femenino,77.0,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C
+2025-02-15,300,Mendoza,Masculino,70.0,Primario incompleto,3,65.0,,Candidato A
+2025-02-01,200,Santiago del Estero,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco
+2025-03-01,400,Santa Fe,Masculino,63.0,Terciario/Universitario completo,4,71.0,En blanco,Candidato B
+2025-03-01,400,San Juan,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-01,200,Córdoba,Femenino,47.0,Secundario incompleto,1,40.0,En blanco,No votó
+2025-03-01,400,Salta,Masculino,78.0,Secundario incompleto,3,88.0,,En blanco
+2025-01-15,100,Chubut,Femenino,77.0,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C
+2025-01-15,100,Corrientes,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-01-15,100,Entre Ríos,Femenino,40.0,Secundario completo,4,69.0,Candidato A,Candidato A
+2025-02-01,200,Formosa,Femenino,31.0,Terciario/Universitario completo,4,65.0,En blanco,Candidato B
+2025-02-15,300,Tucumán,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-02-15,300,Santa Fe,Femenino,32.0,Primario incompleto,6,52.0,Candidato C,Candidato A
+2025-01-15,100,Buenos Aires,Femenino,67.0,,6,56.0,Candidato B,En blanco
+2025-01-15,100,Catamarca,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-02-01,200,La Pampa,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-03-01,400,Jujuy,Femenino,57.0,Posgrado,5,89.0,En blanco,En blanco
+2025-02-01,200,Tucumán,Masculino,33.0,Primario completo,4,82.0,Candidato A,No votó
+2025-03-01,400,San Juan,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-01,200,Buenos Aires,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-03-01,400,Chaco,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-02-01,200,Corrientes,Masculino,18.0,Primario incompleto,6,80.0,Candidato A,Candidato B
+2025-03-01,400,San Juan,Masculino,78.0,Secundario incompleto,3,88.0,En blanco,En blanco
+2025-03-01,400,Tierra del Fuego,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-15,300,Santa Fe,Femenino,45.0,Terciario/Universitario completo,6,90.0,No vota,En blanco
+2025-01-15,100,Neuquén,Masculino,53.0,Secundario incompleto,6,79.0,Candidato C,No votó
+2025-02-01,200,Salta,Femenino,78.0,,4,79.0,No vota,En blanco
+2025-02-01,200,Salta,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-02-01,200,Santiago del Estero,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-01-15,100,La Pampa,Femenino,40.0,Secundario completo,4,69.0,Candidato A,Candidato A
+2025-02-15,300,Río Negro,Masculino,55.0,Secundario completo,5,98.0,No vota,Candidato B
+2025-03-01,400,La Pampa,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-02-15,300,Formosa,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-02-15,300,Río Negro,Masculino,55.0,Secundario completo,5,98.0,No vota,Candidato B
+2025-02-15,300,Chaco,Masculino,60.0,Secundario incompleto,6,99.0,Candidato A,No votó
+2025-03-01,400,Jujuy,Masculino,31.0,Posgrado,4,64.0,No vota,Candidato A
+2025-02-01,200,Chaco,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-02-01,200,San Luis,Masculino,20.0,Primario completo,4,79.0,Candidato A,En blanco
+2025-01-15,100,Santa Fe,Femenino,48.0,Secundario completo,4,61.0,,Candidato A
+2025-02-15,300,Catamarca,Masculino,60.0,Primario incompleto,3,89.0,No vota,En blanco
+2025-01-15,100,Jujuy,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-02-15,300,Mendoza,Masculino,55.0,Secundario completo,5,98.0,No vota,Candidato B
+2025-02-01,200,Salta,Femenino,67.0,Secundario incompleto,2,78.0,No vota,Candidato A
+2025-02-01,200,La Rioja,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-02-01,200,San Juan,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-03-01,400,Córdoba,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-02-15,300,Formosa,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-02-01,200,San Juan,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-01-15,100,Salta,Masculino,72.0,Primario completo,1,78.0,Candidato A,Candidato B
+2025-02-15,300,Salta,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-02-15,300,Santiago del Estero,Masculino,,Secundario incompleto,2,77.0,Candidato C,Candidato A
+2025-02-01,200,Neuquén,Femenino,31.0,Terciario/Universitario completo,4,65.0,En blanco,Candidato B
+2025-03-01,400,San Juan,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-03-01,400,Entre Ríos,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-01-15,100,Neuquén,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-01-15,100,San Juan,Femenino,69.0,Posgrado,1,55.0,,Candidato B
+2025-03-01,400,Mendoza,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-02-15,300,Tucumán,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-02-01,200,Santiago del Estero,Masculino,24.0,Terciario/Universitario completo,3,94.0,No vota,Candidato A
+2025-03-01,400,Catamarca,Femenino,,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-03-01,400,Tucumán,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-02-01,200,Santa Cruz,Femenino,31.0,Terciario/Universitario completo,4,65.0,En blanco,Candidato B
+2025-02-15,300,CABA,Femenino,60.0,Secundario completo,3,65.0,Candidato C,No votó
+2025-02-15,300,Corrientes,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-02-15,300,Tierra del Fuego,Masculino,60.0,Primario incompleto,3,89.0,No vota,En blanco
+2025-02-15,300,Chubut,Masculino,70.0,Primario incompleto,4,71.0,Candidato A,No votó
+2025-02-15,300,Corrientes,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-02-15,300,CABA,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-02-15,300,San Juan,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-03-01,400,Misiones,Masculino,71.0,Secundario completo,2,79.0,No vota,Candidato A
+2025-02-01,200,Santa Fe,Femenino,35.0,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-02-15,300,San Juan,Femenino,75.0,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B
+2025-02-01,200,Río Negro,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-01-15,100,Río Negro,Femenino,,Primario completo,4,60.0,Candidato C,En blanco
+2025-02-15,300,La Pampa,Femenino,32.0,Primario incompleto,6,52.0,Candidato C,Candidato A
+2025-02-01,200,Chubut,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-02-01,200,Buenos Aires,Masculino,55.0,Primario incompleto,3,76.0,En blanco,En blanco
+2025-02-01,200,Neuquén,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-03-01,400,Buenos Aires,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-01-15,100,CABA,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-02-15,300,Río Negro,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-03-01,400,La Pampa,Masculino,32.0,Primario incompleto,3,41.0,No vota,No votó
+2025-02-01,200,Jujuy,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-01-15,100,Santiago del Estero,Femenino,60.0,Secundario incompleto,1,72.0,Candidato C,Candidato A
+2025-02-15,300,Chaco,Masculino,70.0,Primario incompleto,4,71.0,Candidato A,No votó
+2025-02-01,200,Santa Cruz,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-03-01,400,Santiago del Estero,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-02-01,200,La Pampa,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-01-15,100,Neuquén,Masculino,34.0,Primario incompleto,6,67.0,Candidato A,No votó
+2025-02-15,300,Buenos Aires,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-02-01,200,Corrientes,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-02-01,200,Jujuy,Femenino,28.0,Secundario completo,5,85.0,Candidato C,No votó
+2025-02-01,200,CABA,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-02-15,300,Santiago del Estero,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-02-15,300,Chaco,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-02-15,300,Santa Cruz,Femenino,32.0,Primario incompleto,6,52.0,Candidato C,Candidato A
+2025-02-15,300,Río Negro,Masculino,31.0,Posgrado,3,46.0,Candidato A,En blanco
+2025-02-01,200,La Rioja,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-03-01,400,Santiago del Estero,Femenino,57.0,Posgrado,5,89.0,En blanco,En blanco
+2025-03-01,400,San Juan,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-02-01,200,CABA,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-02-15,300,Santiago del Estero,Femenino,25.0,Secundario incompleto,4,50.0,,Candidato A
+2025-03-01,400,Salta,Masculino,71.0,Secundario completo,2,79.0,No vota,Candidato A
+2025-02-01,200,Entre Ríos,Femenino,35.0,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-03-01,400,Río Negro,Masculino,78.0,Secundario incompleto,3,88.0,En blanco,En blanco
+2025-02-01,200,Corrientes,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-03-01,400,Santa Fe,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-01-15,100,Santiago del Estero,Masculino,53.0,Secundario incompleto,6,79.0,Candidato C,No votó
+2025-01-15,100,Santa Fe,Femenino,67.0,Primario completo,6,56.0,Candidato B,En blanco
+2025-02-01,200,Tierra del Fuego,Femenino,31.0,Terciario/Universitario completo,4,65.0,En blanco,Candidato B
+2025-02-01,200,Entre Ríos,Femenino,47.0,Secundario incompleto,1,40.0,En blanco,No votó
+2025-02-01,200,Río Negro,Femenino,28.0,Secundario completo,5,85.0,Candidato C,No votó
+2025-02-01,200,Santa Cruz,Femenino,35.0,Secundario completo,6,93.0,Candidato C,Candidato B
+2025-02-01,200,Tucumán,Masculino,80.0,Posgrado,2,96.0,En blanco,Candidato A
+2025-01-15,100,San Juan,Femenino,22.0,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-02-01,200,Corrientes,Masculino,75.0,Posgrado,1,89.0,En blanco,Candidato B
+2025-02-15,300,Córdoba,Masculino,31.0,Posgrado,3,46.0,,En blanco
+2025-01-15,100,Santa Cruz,Femenino,40.0,Secundario completo,4,69.0,Candidato A,Candidato A
+2025-01-15,100,Córdoba,Masculino,72.0,Primario completo,1,78.0,Candidato A,Candidato B
+2025-03-01,400,Chaco,Masculino,55.0,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco
+2025-02-01,200,La Rioja,Masculino,55.0,Primario incompleto,3,76.0,En blanco,En blanco
+2025-02-01,200,Neuquén,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-03-01,400,CABA,Masculino,63.0,Terciario/Universitario completo,4,71.0,En blanco,Candidato B
+2025-03-01,400,San Luis,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-03-01,400,CABA,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-02-15,300,Santa Cruz,Femenino,75.0,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B
+2025-03-01,400,La Pampa,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-02-15,300,Santa Fe,Femenino,34.0,Posgrado,1,45.0,En blanco,Candidato C
+2025-03-01,400,Mendoza,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-02-15,300,CABA,Masculino,55.0,Secundario completo,5,98.0,No vota,Candidato B
+2025-03-01,400,Jujuy,Masculino,35.0,Secundario completo,1,85.0,Candidato C,Candidato B
+2025-03-01,400,Santa Cruz,Femenino,29.0,Secundario incompleto,4,55.0,Candidato A,En blanco
+2025-02-15,300,Formosa,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-02-15,300,Catamarca,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-03-01,400,Chubut,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-02-15,300,Salta,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-02-15,300,Jujuy,Femenino,53.0,Primario incompleto,5,100.0,Candidato B,Candidato A
+2025-03-01,400,Tierra del Fuego,Masculino,78.0,Secundario incompleto,3,88.0,En blanco,En blanco
+2025-03-01,400,Chaco,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-15,300,La Pampa,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-02-15,300,Misiones,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-02-01,200,Entre Ríos,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco
+2025-02-15,300,Neuquén,Femenino,34.0,Posgrado,1,45.0,En blanco,Candidato C
+2025-02-01,200,San Luis,Femenino,31.0,Terciario/Universitario completo,4,65.0,En blanco,Candidato B
+2025-02-01,200,Salta,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-01,200,Tierra del Fuego,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-02-01,200,Jujuy,Femenino,66.0,,5,89.0,No vota,Candidato A
+2025-02-01,200,Mendoza,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-03-01,400,Misiones,Masculino,63.0,Primario completo,1,66.0,En blanco,Candidato C
+2025-02-15,300,Tierra del Fuego,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-02-15,300,Formosa,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-01-15,100,Buenos Aires,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-01-15,100,San Juan,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-03-01,400,Río Negro,Masculino,,Terciario/Universitario completo,4,48.0,En blanco,Candidato B
+2025-02-01,200,Santa Cruz,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-15,300,Corrientes,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-01-15,100,Jujuy,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-03-01,400,San Luis,Masculino,32.0,Primario incompleto,3,41.0,No vota,No votó
+2025-01-15,100,Formosa,Femenino,40.0,Terciario/Universitario completo,3,67.0,No vota,No votó
+2025-03-01,400,Tucumán,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-03-01,400,Tierra del Fuego,Masculino,55.0,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco
+2025-01-15,100,Mendoza,Femenino,56.0,,1,86.0,En blanco,No votó
+2025-02-01,200,San Juan,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-01-15,100,Mendoza,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-02-15,300,La Rioja,Femenino,34.0,Posgrado,1,45.0,,Candidato C
+2025-01-15,100,Tierra del Fuego,Masculino,80.0,Primario incompleto,2,50.0,En blanco,En blanco
+2025-02-15,300,CABA,Femenino,34.0,Posgrado,1,45.0,En blanco,Candidato C
+2025-02-15,300,Chaco,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-03-01,400,Jujuy,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-02-15,300,Santa Cruz,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-02-15,300,Catamarca,Masculino,67.0,,1,88.0,Candidato A,Candidato B
+2025-01-15,100,Santiago del Estero,Femenino,60.0,Secundario incompleto,1,72.0,Candidato C,Candidato A
+2025-02-01,200,Tucumán,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-02-15,300,Santiago del Estero,Masculino,55.0,Secundario completo,5,,,Candidato B
+2025-01-15,100,Jujuy,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-02-15,300,Tucumán,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-02-01,200,Río Negro,Femenino,66.0,Primario completo,5,89.0,No vota,Candidato A
+2025-01-15,100,Río Negro,Masculino,34.0,Primario incompleto,6,67.0,Candidato A,No votó
+2025-02-15,300,Mendoza,Femenino,25.0,Secundario incompleto,4,50.0,En blanco,Candidato A
+2025-03-01,400,Mendoza,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-02-15,300,La Rioja,Masculino,60.0,Primario incompleto,3,89.0,No vota,En blanco
+2025-02-15,300,Entre Ríos,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-03-01,400,Catamarca,Masculino,26.0,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-03-01,400,San Luis,Femenino,,Secundario incompleto,4,55.0,Candidato A,En blanco
+2025-01-15,100,La Rioja,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-03-01,400,La Rioja,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-01-15,100,Chaco,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-02-01,200,La Rioja,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-03-01,400,Salta,Femenino,57.0,Posgrado,5,89.0,En blanco,En blanco
+2025-01-15,100,Entre Ríos,Masculino,34.0,Primario incompleto,6,67.0,Candidato A,No votó
+2025-02-01,200,Entre Ríos,Masculino,,Secundario completo,4,41.0,En blanco,Candidato C
+2025-02-15,300,Río Negro,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-03-01,400,Entre Ríos,Masculino,78.0,Secundario incompleto,3,88.0,En blanco,En blanco
+2025-02-01,200,Tierra del Fuego,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-02-01,200,Formosa,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-03-01,400,Santa Cruz,Masculino,63.0,Primario completo,1,66.0,En blanco,Candidato C
+2025-03-01,400,Santa Fe,Masculino,71.0,Secundario completo,2,79.0,No vota,Candidato A
+2025-02-01,200,Chubut,Femenino,43.0,Terciario/Universitario completo,6,63.0,En blanco,No votó
+2025-02-01,200,Buenos Aires,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-02-01,200,La Pampa,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-02-01,200,Río Negro,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-15,300,Tierra del Fuego,Masculino,55.0,Secundario completo,5,98.0,No vota,Candidato B
+2025-03-01,400,Córdoba,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-01,200,Córdoba,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-02-01,200,Tucumán,Femenino,22.0,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A
+2025-02-01,200,Santa Cruz,Femenino,60.0,Secundario completo,6,87.0,Candidato B,No votó
+2025-02-01,200,Chaco,Masculino,80.0,Posgrado,2,96.0,En blanco,Candidato A
+2025-02-01,200,Misiones,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-02-01,200,Córdoba,Femenino,,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-01-15,100,Santa Fe,Masculino,50.0,Secundario incompleto,2,99.0,Candidato C,Candidato A
+2025-02-15,300,Córdoba,Masculino,70.0,Primario incompleto,4,71.0,Candidato A,No votó
+2025-02-01,200,Entre Ríos,Masculino,20.0,Primario completo,4,79.0,Candidato A,En blanco
+2025-01-15,100,Córdoba,Femenino,22.0,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-01-15,100,Jujuy,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-03-01,400,Mendoza,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-03-01,400,Entre Ríos,Masculino,,Posgrado,4,64.0,No vota,Candidato A
+2025-03-01,400,Santa Fe,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-01,200,La Rioja,Masculino,24.0,Terciario/Universitario completo,3,94.0,No vota,Candidato A
+2025-03-01,400,Santiago del Estero,Masculino,23.0,Terciario/Universitario completo,4,48.0,En blanco,Candidato B
+2025-02-01,200,Tucumán,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-01-15,100,San Luis,Femenino,40.0,Secundario completo,4,69.0,Candidato A,Candidato A
+2025-02-01,200,Santa Cruz,Femenino,31.0,Terciario/Universitario completo,4,65.0,En blanco,Candidato B
+2025-01-15,100,Salta,Femenino,67.0,Primario completo,6,56.0,Candidato B,En blanco
+2025-02-01,200,Catamarca,Femenino,31.0,Primario incompleto,5,87.0,No vota,Candidato A
+2025-01-15,100,Santa Fe,Femenino,56.0,Secundario incompleto,1,86.0,En blanco,No votó
+2025-02-01,200,Catamarca,Femenino,67.0,Secundario incompleto,2,78.0,No vota,Candidato A
+2025-03-01,400,Neuquén,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-03-01,400,Buenos Aires,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-03-01,400,Tucumán,Masculino,32.0,Primario incompleto,3,41.0,No vota,No votó
+2025-02-01,200,Misiones,Masculino,75.0,Posgrado,1,89.0,En blanco,Candidato B
+2025-02-15,300,Santa Fe,Masculino,60.0,Secundario incompleto,6,99.0,Candidato A,No votó
+2025-01-15,100,Formosa,Femenino,40.0,Terciario/Universitario completo,3,67.0,No vota,No votó
+2025-01-15,100,La Pampa,Femenino,69.0,Posgrado,1,55.0,Candidato B,Candidato B
+2025-02-15,300,La Pampa,Masculino,31.0,Posgrado,3,46.0,Candidato A,En blanco
+2025-03-01,400,Tucumán,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-03-01,400,Santiago del Estero,Masculino,63.0,Terciario/Universitario completo,4,71.0,En blanco,Candidato B
+2025-02-15,300,Formosa,Femenino,25.0,Secundario incompleto,4,50.0,En blanco,Candidato A
+2025-02-01,200,Chaco,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-02-15,300,Santa Fe,Masculino,60.0,Primario incompleto,3,89.0,No vota,En blanco
+2025-02-01,200,Buenos Aires,Masculino,28.0,Secundario completo,4,57.0,No vota,Candidato B
+2025-01-15,100,Misiones,Femenino,60.0,Secundario incompleto,1,72.0,Candidato C,Candidato A
+2025-02-01,200,La Rioja,Masculino,18.0,Primario incompleto,6,80.0,Candidato A,Candidato B
+2025-01-15,100,Tucumán,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-03-01,400,Entre Ríos,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-03-01,400,Córdoba,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-02-15,300,Corrientes,Femenino,60.0,Secundario completo,3,65.0,Candidato C,No votó
+2025-01-15,100,Salta,Femenino,,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-02-15,300,Chubut,Masculino,60.0,Primario incompleto,3,89.0,No vota,En blanco
+2025-03-01,400,Neuquén,Masculino,23.0,Terciario/Universitario completo,4,48.0,,Candidato B
+2025-03-01,400,Río Negro,Femenino,75.0,Primario incompleto,2,64.0,Candidato A,En blanco
+2025-02-01,200,Santa Fe,Masculino,80.0,Primario incompleto,5,58.0,Candidato B,En blanco
+2025-01-15,100,La Rioja,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-01-15,100,Jujuy,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-02-15,300,Entre Ríos,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-02-15,300,La Rioja,Masculino,74.0,Secundario incompleto,2,77.0,Candidato C,Candidato A
+2025-01-15,100,Tucumán,Femenino,56.0,Secundario incompleto,1,86.0,En blanco,No votó
+2025-02-01,200,Misiones,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-01,200,San Luis,Masculino,33.0,Primario completo,4,82.0,Candidato A,No votó
+2025-03-01,400,La Rioja,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-02-15,300,Córdoba,Femenino,32.0,Primario incompleto,6,52.0,Candidato C,Candidato A
+2025-02-15,300,Formosa,Masculino,31.0,Posgrado,3,46.0,,En blanco
+2025-01-15,100,Buenos Aires,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-02-01,200,Córdoba,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-03-01,400,Buenos Aires,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-02-01,200,Río Negro,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-01-15,100,San Luis,Masculino,72.0,Primario completo,1,78.0,Candidato A,Candidato B
+2025-03-01,400,Salta,Masculino,78.0,Secundario incompleto,3,88.0,En blanco,En blanco
+2025-03-01,400,Buenos Aires,Masculino,78.0,Secundario incompleto,3,88.0,En blanco,En blanco
+2025-02-01,200,Neuquén,Masculino,55.0,Primario incompleto,3,76.0,En blanco,En blanco
+2025-03-01,400,Córdoba,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-01-15,100,Santiago del Estero,Femenino,60.0,Secundario incompleto,1,72.0,Candidato C,Candidato A
+2025-01-15,100,Corrientes,Femenino,38.0,Primario completo,4,60.0,Candidato C,En blanco
+2025-03-01,400,Corrientes,Masculino,31.0,Posgrado,4,64.0,No vota,Candidato A
+2025-01-15,100,Chubut,Femenino,,Primario completo,2,87.0,Candidato A,No votó
+2025-02-01,200,La Rioja,Femenino,,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-02-15,300,Misiones,Femenino,34.0,Posgrado,1,45.0,En blanco,Candidato C
+2025-03-01,400,Córdoba,Masculino,23.0,Terciario/Universitario completo,4,48.0,En blanco,Candidato B
+2025-03-01,400,San Juan,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-02-15,300,Salta,Femenino,46.0,Terciario/Universitario completo,2,72.0,En blanco,Candidato B
+2025-03-01,400,Mendoza,Masculino,63.0,Terciario/Universitario completo,4,71.0,En blanco,Candidato B
+2025-01-15,100,Neuquén,Masculino,80.0,Primario incompleto,2,50.0,En blanco,En blanco
+2025-02-15,300,Misiones,Femenino,45.0,Terciario/Universitario completo,6,90.0,No vota,En blanco
+2025-02-01,200,La Rioja,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-15,300,Río Negro,Femenino,,Primario incompleto,6,52.0,Candidato C,Candidato A
+2025-03-01,400,Córdoba,Masculino,63.0,Primario completo,1,66.0,En blanco,Candidato C
+2025-02-15,300,Misiones,Masculino,60.0,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-02-01,200,Tierra del Fuego,Masculino,18.0,Primario incompleto,6,80.0,Candidato A,Candidato B
+2025-02-15,300,Córdoba,Femenino,45.0,Terciario/Universitario completo,6,90.0,No vota,En blanco
+2025-03-01,400,Salta,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-01-15,100,Santa Fe,Masculino,63.0,Terciario/Universitario completo,6,74.0,En blanco,Candidato B
+2025-02-01,200,Chaco,Masculino,80.0,Posgrado,2,96.0,En blanco,Candidato A
+2025-02-15,300,Salta,Masculino,,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-03-01,400,San Luis,Masculino,63.0,Terciario/Universitario completo,4,71.0,,Candidato B
+2025-03-01,400,La Rioja,Femenino,73.0,Primario incompleto,3,62.0,No vota,En blanco
+2025-02-15,300,Santiago del Estero,Masculino,31.0,Posgrado,3,46.0,Candidato A,En blanco
+2025-02-15,300,Mendoza,Femenino,45.0,Terciario/Universitario completo,5,61.0,Candidato C,En blanco
+2025-02-15,300,Neuquén,Femenino,45.0,Terciario/Universitario completo,5,61.0,,En blanco
+2025-01-15,100,Chubut,Masculino,34.0,Primario incompleto,6,67.0,Candidato A,No votó
+2025-03-01,400,Buenos Aires,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-03-01,400,San Juan,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-03-01,400,Corrientes,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-02-15,300,Chaco,Femenino,71.0,Primario incompleto,4,41.0,No vota,Candidato A
+2025-01-15,100,Neuquén,Femenino,60.0,Secundario incompleto,1,72.0,Candidato C,Candidato A
+2025-02-15,300,San Juan,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-02-01,200,Chaco,Masculino,75.0,Posgrado,1,89.0,En blanco,Candidato B
+2025-02-01,200,Chaco,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-02-01,200,Buenos Aires,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-03-01,400,Tucumán,Masculino,55.0,Terciario/Universitario incompleto,1,,Candidato A,En blanco
+2025-02-01,200,Salta,Masculino,20.0,Primario completo,4,79.0,Candidato A,En blanco
+2025-02-01,200,Tucumán,Masculino,80.0,Primario incompleto,5,58.0,Candidato B,En blanco
+2025-03-01,400,Santa Fe,Masculino,55.0,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco
+2025-02-01,200,San Juan,Masculino,80.0,Posgrado,2,96.0,En blanco,Candidato A
+2025-02-01,200,La Rioja,Masculino,80.0,Primario incompleto,5,58.0,Candidato B,En blanco
+2025-02-01,200,Salta,Femenino,67.0,Secundario incompleto,2,78.0,No vota,Candidato A
+2025-01-15,100,Chaco,Femenino,69.0,Posgrado,1,55.0,,Candidato B
+2025-02-15,300,Chaco,Femenino,71.0,Primario incompleto,4,41.0,No vota,Candidato A
+2025-02-15,300,Río Negro,Femenino,53.0,Primario incompleto,5,100.0,Candidato B,Candidato A
+2025-02-01,200,Chaco,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-01-15,100,Entre Ríos,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-02-01,200,Córdoba,Masculino,80.0,Primario incompleto,5,58.0,Candidato B,En blanco
+2025-02-01,200,Catamarca,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-03-01,400,Chaco,Masculino,55.0,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco
+2025-02-15,300,Tierra del Fuego,Masculino,36.0,Primario completo,3,51.0,Candidato C,Candidato A
+2025-03-01,400,Entre Ríos,Femenino,38.0,,2,93.0,Candidato A,Candidato C
+2025-02-15,300,Santa Cruz,Femenino,71.0,Primario incompleto,4,41.0,No vota,Candidato A
+2025-01-15,100,Catamarca,Femenino,69.0,Posgrado,1,55.0,Candidato B,Candidato B
+2025-02-01,200,Santa Cruz,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-02-01,200,Buenos Aires,Masculino,33.0,Primario completo,4,82.0,Candidato A,No votó
+2025-02-15,300,CABA,Masculino,31.0,Posgrado,3,46.0,Candidato A,En blanco
+2025-01-15,100,Jujuy,Femenino,40.0,Secundario completo,4,69.0,Candidato A,Candidato A
+2025-03-01,400,Chubut,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-02-15,300,Chaco,Masculino,60.0,Secundario incompleto,6,99.0,Candidato A,No votó
+2025-01-15,100,Corrientes,Femenino,40.0,Terciario/Universitario completo,3,67.0,No vota,No votó
+2025-03-01,400,Santiago del Estero,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-03-01,400,Salta,Masculino,,Secundario incompleto,3,88.0,En blanco,En blanco
+2025-03-01,400,Misiones,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-02-01,200,San Luis,Masculino,24.0,Terciario/Universitario completo,3,94.0,No vota,Candidato A
+2025-03-01,400,Salta,Femenino,38.0,Posgrado,2,93.0,Candidato A,Candidato C
+2025-03-01,400,Entre Ríos,Femenino,46.0,Secundario incompleto,2,93.0,Candidato C,No votó
+2025-02-15,300,Santa Cruz,Femenino,45.0,Terciario/Universitario completo,6,90.0,No vota,En blanco
+2025-01-15,100,CABA,Femenino,56.0,Secundario incompleto,1,86.0,En blanco,No votó
+2025-02-01,200,La Pampa,Femenino,37.0,Posgrado,2,54.0,Candidato A,Candidato B
+2025-02-01,200,La Rioja,Masculino,75.0,Posgrado,1,89.0,En blanco,Candidato B
+2025-03-01,400,Jujuy,Masculino,23.0,Terciario/Universitario completo,4,48.0,En blanco,Candidato B
+2025-01-15,100,CABA,Femenino,77.0,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C
+2025-02-01,200,Chaco,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-03-01,400,Santiago del Estero,Masculino,34.0,Terciario/Universitario incompleto,5,,Candidato B,No votó
+2025-02-15,300,Chaco,Masculino,74.0,Secundario incompleto,2,77.0,Candidato C,Candidato A
+2025-02-15,300,Mendoza,Masculino,67.0,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B
+2025-02-15,300,Mendoza,Femenino,32.0,Primario incompleto,6,52.0,Candidato C,Candidato A
+2025-02-01,200,Corrientes,Masculino,35.0,Secundario completo,4,41.0,En blanco,Candidato C
+2025-02-01,200,Jujuy,Masculino,68.0,Terciario/Universitario completo,4,78.0,Candidato A,En blanco
+2025-02-01,200,Chubut,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-03-01,400,Córdoba,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-03-01,400,Santiago del Estero,Femenino,69.0,Posgrado,1,88.0,Candidato B,En blanco
+2025-01-15,100,Neuquén,Femenino,40.0,Terciario/Universitario completo,3,67.0,No vota,No votó
+2025-03-01,400,La Pampa,Masculino,32.0,Primario incompleto,3,41.0,,No votó
+2025-02-01,200,Río Negro,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,,En blanco
+2025-02-01,200,Mendoza,Masculino,65.0,Secundario completo,3,86.0,No vota,No votó
+2025-02-01,200,Chaco,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco
+2025-01-15,100,Formosa,Femenino,22.0,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-03-01,400,Catamarca,Masculino,36.0,Primario completo,4,84.0,Candidato B,Candidato C
+2025-01-15,100,La Rioja,Masculino,80.0,Primario incompleto,2,50.0,En blanco,En blanco
+2025-02-01,200,Chaco,Masculino,80.0,Posgrado,2,96.0,En blanco,Candidato A
+2025-02-15,300,Jujuy,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-02-01,200,Santa Fe,Femenino,68.0,Secundario completo,6,95.0,Candidato B,Candidato C
+2025-02-15,300,Buenos Aires,Masculino,50.0,Primario incompleto,6,59.0,No vota,No votó
+2025-02-15,300,Tucumán,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-02-15,300,Buenos Aires,Masculino,31.0,Posgrado,3,46.0,Candidato A,En blanco
+2025-02-01,200,Entre Ríos,Femenino,67.0,Secundario incompleto,2,78.0,No vota,Candidato A
+2025-02-01,200,La Rioja,Femenino,49.0,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco
+2025-02-01,200,Río Negro,Femenino,,Secundario completo,5,85.0,Candidato C,No votó
+2025-02-15,300,Jujuy,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-01-15,100,CABA,Femenino,70.0,Primario incompleto,5,89.0,Candidato B,Candidato B
+2025-02-15,300,La Pampa,Masculino,25.0,Secundario incompleto,3,55.0,Candidato A,Candidato B
+2025-03-01,400,Chubut,Masculino,35.0,Secundario completo,1,85.0,Candidato C,Candidato B
+2025-01-15,100,Neuquén,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-02-15,300,Santa Cruz,Masculino,31.0,Posgrado,3,46.0,Candidato A,En blanco
+2025-02-15,300,CABA,Masculino,70.0,Primario incompleto,3,65.0,Candidato C,Candidato A
+2025-03-01,400,Río Negro,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-01-15,100,Río Negro,Femenino,67.0,Primario completo,6,56.0,Candidato B,En blanco
+2025-02-15,300,Catamarca,Femenino,45.0,Terciario/Universitario completo,6,90.0,No vota,En blanco
+2025-02-15,300,Salta,Masculino,60.0,Primario incompleto,3,89.0,No vota,En blanco
+2025-01-15,100,Entre Ríos,Femenino,,Primario completo,4,60.0,Candidato C,En blanco
+2025-03-01,400,Formosa,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-15,300,Corrientes,Femenino,34.0,Posgrado,1,45.0,En blanco,Candidato C
+2025-01-15,100,Córdoba,Femenino,22.0,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B
+2025-03-01,400,La Rioja,Masculino,31.0,Posgrado,4,64.0,No vota,Candidato A
+2025-02-01,200,Neuquén,Masculino,18.0,Primario incompleto,6,80.0,Candidato A,Candidato B
+2025-03-01,400,San Juan,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-03-01,400,Salta,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-01-15,100,Entre Ríos,Femenino,40.0,Terciario/Universitario completo,3,67.0,No vota,No votó
+2025-02-15,300,La Pampa,Femenino,45.0,Terciario/Universitario completo,5,61.0,Candidato C,En blanco
+2025-01-15,100,Río Negro,Femenino,23.0,Posgrado,2,83.0,Candidato C,Candidato B
+2025-01-15,100,Misiones,Masculino,45.0,Primario completo,1,59.0,Candidato C,Candidato A
+2025-02-15,300,Chubut,Masculino,37.0,Secundario incompleto,2,67.0,No vota,No votó
+2025-02-01,200,La Pampa,Masculino,33.0,Primario completo,4,82.0,Candidato A,No votó
+2025-02-01,200,Santa Cruz,Masculino,18.0,Primario incompleto,6,80.0,Candidato A,Candidato B
+2025-02-15,300,Santa Cruz,Masculino,55.0,Secundario completo,5,,No vota,Candidato B
+2025-01-15,100,Santa Fe,Femenino,33.0,Primario completo,2,87.0,Candidato A,No votó
+2025-02-01,200,Entre Ríos,Masculino,20.0,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A
+2025-01-15,100,Corrientes,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-02-01,200,Jujuy,Masculino,42.0,Posgrado,1,94.0,En blanco,Candidato B
+2025-02-15,300,Río Negro,Femenino,71.0,Primario incompleto,4,41.0,No vota,Candidato A
+2025-03-01,400,Corrientes,Masculino,25.0,Primario incompleto,6,97.0,Candidato B,No votó
+2025-01-15,100,Jujuy,Femenino,40.0,Terciario/Universitario completo,3,67.0,No vota,No votó
+2025-03-01,400,La Rioja,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-02-15,300,La Rioja,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-03-01,400,Jujuy,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-02-01,200,Córdoba,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-03-01,400,Jujuy,Femenino,57.0,Posgrado,5,89.0,En blanco,En blanco
+2025-01-15,100,Corrientes,Femenino,38.0,Primario completo,4,60.0,Candidato C,En blanco
+2025-03-01,400,Tucumán,Femenino,38.0,Posgrado,2,93.0,Candidato A,Candidato C
+2025-01-15,100,Tucumán,Femenino,20.0,Primario incompleto,1,53.0,Candidato B,No votó
+2025-02-01,200,Mendoza,Masculino,,Primario incompleto,6,80.0,Candidato A,Candidato B
+2025-02-15,300,Mendoza,Masculino,65.0,Terciario/Universitario incompleto,5,56.0,No vota,En blanco
+2025-02-15,300,Chaco,Femenino,60.0,Secundario completo,3,65.0,Candidato C,No votó
+2025-01-15,100,Neuquén,Femenino,40.0,Terciario/Universitario completo,3,67.0,No vota,No votó
+2025-01-15,100,Río Negro,Masculino,53.0,Secundario incompleto,6,79.0,Candidato C,No votó
+2025-01-15,100,Chaco,Masculino,63.0,,6,74.0,En blanco,Candidato B
+2025-03-01,400,Santa Cruz,Masculino,34.0,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó
+2025-02-15,300,Salta,Femenino,25.0,Secundario incompleto,4,50.0,En blanco,Candidato A
+2025-03-01,400,Misiones,Masculino,55.0,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco
+2025-01-15,100,Misiones,Femenino,48.0,Secundario completo,4,61.0,Candidato B,Candidato A
+2025-03-01,400,Santiago del Estero,Masculino,26.0,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A
+2025-02-01,200,Santa Fe,Masculino,20.0,Primario completo,4,79.0,Candidato A,En blanco
+2025-03-01,400,Entre Ríos,Femenino,54.0,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A
+2025-02-01,200,Río Negro,Femenino,33.0,Posgrado,4,91.0,En blanco,Candidato B
+2025-03-01,400,Santa Cruz,Masculino,78.0,Secundario incompleto,3,88.0,En blanco,En blanco
+2025-02-15,300,Tucumán,Masculino,,Terciario/Universitario completo,3,55.0,Candidato C,En blanco
+2025-01-15,100,Neuquén,Masculino,34.0,,6,67.0,Candidato A,No votó
+2025-03-01,400,San Juan,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-03-01,400,Santa Cruz,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
+2025-03-01,400,Mendoza,Masculino,49.0,Primario completo,3,91.0,Candidato C,Candidato C
+2025-01-15,100,Río Negro,Masculino,35.0,Secundario incompleto,5,53.0,Candidato C,Candidato B
+2025-03-01,400,Chaco,Masculino,32.0,Primario incompleto,3,41.0,No vota,No votó
+2025-03-01,400,Tierra del Fuego,Femenino,51.0,Secundario incompleto,5,95.0,Candidato A,Candidato A
+2025-02-01,200,Santa Cruz,Femenino,31.0,Terciario/Universitario completo,4,65.0,,Candidato B
+2025-02-01,200,Santiago del Estero,Masculino,,Terciario/Universitario completo,3,94.0,No vota,Candidato A
+2025-03-01,400,Mendoza,Masculino,,Primario incompleto,3,41.0,No vota,No votó
+2025-02-01,200,Córdoba,Femenino,78.0,Posgrado,4,79.0,No vota,En blanco
+2025-02-15,300,Santa Cruz,Masculino,60.0,Secundario incompleto,6,99.0,Candidato A,No votó
+2025-02-01,200,La Pampa,Femenino,21.0,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco
+2025-02-15,300,Santiago del Estero,Femenino,25.0,Secundario incompleto,4,50.0,En blanco,Candidato A
+2025-02-15,300,Corrientes,Masculino,70.0,Primario incompleto,4,71.0,Candidato A,No votó
+2025-03-01,400,Salta,Masculino,45.0,Secundario incompleto,6,97.0,En blanco,Candidato B
