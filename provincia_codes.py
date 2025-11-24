@@ -79,6 +79,8 @@ def provincia_to_code(provincia_name):
         'Ciudad Autonoma De Buenos Aires': 'CABA',
         'Capital Federal': 'CABA',
         'Caba': 'CABA',  # Para cuando se pasa 'CABA' y se convierte a 'Caba'
+        'Santiago Del Estero': 'Santiago del Estero',  # Corregir "Del" -> "del"
+        'Tierra Del Fuego': 'Tierra del Fuego',  # Corregir "Del" -> "del"
     }
     
     for original, replacement in replacements.items():
