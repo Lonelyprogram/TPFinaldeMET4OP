@@ -22,7 +22,7 @@ pip install -r requirements.txt
 -Seaborn
 -Matplotlib
 
-## 👩‍💻 Autores
--Chirichella, Franco
--La Rosa Santoro, Mercedes 
--Perlasca, Tomás
+## Autores
+Chirichella, Franco
+La Rosa Santoro, Mercedes 
+Perlasca, Tomás
