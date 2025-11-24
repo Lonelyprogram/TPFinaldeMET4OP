@@ -6,6 +6,8 @@ Este código sirve para llevar a cabo el seguimiento electoral de un candidato q
 - Gráficos de los rolling
 - Análisis estadísticos
 
+Extra: cada linea tiene al lado la explicacion de qué hace :)
+
 ## Instalación
 Pasos para instalar o clonar el proyecto.
 Clonar el repositorio:
