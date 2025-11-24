@@ -1,10 +1,10 @@
-# Tracking electoral 
 
-Seguimiento electoral de un candidato que utiliza datos sobre la imagen del candidato y la intención de voto de una muestra representativa de la población para analizar la evolución del apoyo a un candidato a lo largo del tiempo, con base en variables sociodemográficas y percepciones sobre la imagen del candidato.
+##¿Cuántos politologos se necesitan para codear un tracking electoral?
 
+.Este código sirve para llevar a cabo el seguimiento electoral de un candidato que utiliza datos sobre la imagen del candidato y la intención de voto de una muestra representativa de la población para analizar la evolución del apoyo a un candidato a lo largo del tiempo, con base en variables sociodemográficas y percepciones sobre la imagen del candidato. Implica:
 - Limpieza y normalización de categorías de voto
 - Cálculo de porcentajes diarios por candidato
-- Rolling de días modificavbles
+- Rolling de días modificables
 - Gráficos de los rolling
 - Análisis estadísticos
 
@@ -16,19 +16,13 @@ git clone https://github.com/usuario/nombre-del-proyecto.git
 cd nombre-del-proyecto
 pip install -r requirements.txt
 
-## Estructura del repositorio
-Descripción breve de carpetas y archivos.
-
 ## Librerías
 Pandas
 Numpy
 Seaborn
 Matplotlib
 
-## 🤝 Contribuciones
-Cómo colaborar, abrir issues o pull requests.
-
 ## 👩‍💻 Autores
-Chiri, Franco
+Chirichella, Franco
 La Rosa Santoro, Mercedes 
 Perlasca, Tomás
