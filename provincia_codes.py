@@ -57,6 +57,14 @@ def provincia_to_code(provincia_name):
     >>> provincia_to_code('CÓRDOBA')
     '04'
     """
+    # Validar entrada
+    if provincia_name is None or not isinstance(provincia_name, str):
+        return None
+    
+    # Manejar strings vacíos
+    if not provincia_name.strip():
+        return None
+    
     # Normalizar el nombre (título case)
     normalized_name = provincia_name.strip().title()
     
@@ -112,6 +120,8 @@ def agregar_columna_codigo_provincia(df, columna_provincia='Provincia', columna_
     """
     Agrega una columna con códigos de provincia a un DataFrame de pandas.
     
+    NOTA: Esta función modifica el DataFrame en su lugar (in-place).
+    
     Parámetros:
     -----------
     df : pandas.DataFrame
@@ -123,7 +133,7 @@ def agregar_columna_codigo_provincia(df, columna_provincia='Provincia', columna_
     
     Retorna:
     --------
-    pandas.DataFrame : DataFrame con la nueva columna de códigos
+    pandas.DataFrame : DataFrame con la nueva columna de códigos (el mismo objeto modificado)
     
     Ejemplos:
     ---------

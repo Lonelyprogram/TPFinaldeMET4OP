@@ -9,7 +9,9 @@ Este snippet muestra cómo integrar los códigos de provincia en tu análisis
 # Este código muestra cómo agregar códigos de provincia a tus datos de encuesta
 # para facilitar análisis estadísticos por región geográfica.
 
-# Importar las funciones necesarias
+# Importar pandas y las funciones necesarias
+import pandas as pd
+
 from provincia_codes import (
     provincia_to_code, 
     code_to_provincia, 
