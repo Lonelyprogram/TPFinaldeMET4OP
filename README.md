@@ -5,6 +5,7 @@ Este código sirve para llevar a cabo el seguimiento electoral de un candidato q
 - Rolling de días modificables
 - Gráficos de los rolling
 - Análisis estadísticos
+- **Codificación de provincias para análisis estadísticos** (Nuevo!)
 
 Extra: cada linea tiene al lado la explicacion de qué hace :)
 
@@ -21,6 +22,18 @@ pip install -r requirements.txt
 -Numpy
 -Seaborn
 -Matplotlib
+
+## Códigos de Provincia
+El proyecto incluye un módulo para codificar provincias argentinas (ej: Córdoba = 04).
+Ver [PROVINCIA_CODES_README.md](PROVINCIA_CODES_README.md) para más detalles.
+
+Ejemplo de uso:
+```python
+from provincia_codes import provincia_to_code
+codigo = provincia_to_code('Córdoba')  # Retorna '04'
+```
+
+Para ver ejemplos completos: `python3 ejemplo_provincia_codes.py`
 
 ## Autores
 Chirichella, Franco
