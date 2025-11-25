@@ -23,6 +23,11 @@ git clone https://github.com/Lonelyprogram/TPFinaldeMET4OP.git
 -Statsmodels
 
 ## Autores
-Chirichella, Franco.
-La Rosa Santoro, Mercedes.
-Perlasca, Tomás.
+-Chirichella, Franco
+-La Rosa Santoro, Mercedes
+-Perlasca, Tomás
+-In memoriam Santiago Cainzos
+![Imagen de WhatsApp 2025-11-25 a las 18 42 10_fa9d17b8](https://github.com/user-attachments/assets/94a1a567-9cb3-41a8-8c4f-4567a027f7a8)
+
+
+
