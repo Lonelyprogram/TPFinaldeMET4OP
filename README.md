@@ -27,7 +27,7 @@ git clone https://github.com/Lonelyprogram/TPFinaldeMET4OP.git
 -La Rosa Santoro, Mercedes
 -Perlasca, Tomás
 -In memoriam Santiago Cainzos
-<img width="1120" height="928" alt="Gemini_Generated_Image_1z45h71z45h71z45" src="https://github.com/user-attachments/assets/c87d2ebd-f3c1-4bfa-9acd-46694ee8c5d4" />
+<img width="500" height="500" alt="Gemini_Generated_Image_1z45h71z45h71z45" src="https://github.com/user-attachments/assets/c87d2ebd-f3c1-4bfa-9acd-46694ee8c5d4" />
 
 
 
