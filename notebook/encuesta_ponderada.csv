@@ -1,0 +1,774 @@
+encuesta,estrato,sexo,edad,nivel_educativo,cantidad_de_integrantes_en_el_hogar,imagen_del_candidato,voto,voto_anterior,voto_limpio,peso,estrato codigo
+100,formosa,femenino,77,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C,Candidato B,1.6257999632385372e-05,8.0
+100,san juan,femenino,22,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B,En blanco,9.922837408140507e-05,17.0
+100,córdoba,masculino,34,Primario incompleto,6,67.0,Candidato A,No votó,Candidato A,0.00037769688545271246,5.0
+100,la pampa,femenino,56,Secundario incompleto,1,86.0,En blanco,No votó,En blanco,2.702964249836508e-05,10.0
+100,entre ríos,masculino,35,Secundario incompleto,5,53.0,Candidato C,Candidato B,Candidato C,0.00014504376173803875,7.0
+100,santa cruz,femenino,40,Secundario completo,4,69.0,Candidato A,Candidato A,Candidato A,4.064499908096343e-05,19.0
+100,misiones,femenino,69,Posgrado,1,55.0,Candidato B,Candidato B,Candidato B,5.3513521758187186e-05,13.0
+100,córdoba,masculino,72,Primario completo,1,78.0,Candidato A,Candidato B,Candidato A,0.00016325501927678845,5.0
+100,río negro,femenino,67,Primario completo,6,56.0,Candidato B,En blanco,Candidato B,4.383340536929342e-05,15.0
+100,mendoza,masculino,45,Primario completo,1,59.0,Candidato C,Candidato A,Candidato C,0.00017747358785988166,12.0
+100,mendoza,masculino,63,Terciario/Universitario completo,6,74.0,En blanco,Candidato B,En blanco,0.00011334640733108247,12.0
+100,corrientes,femenino,38,Primario completo,4,60.0,Candidato C,En blanco,Candidato C,0.00011550073590427841,6.0
+100,san luis,masculino,72,Primario completo,1,78.0,Candidato A,Candidato B,Candidato A,2.015015325462604e-05,18.0
+100,santa fe,femenino,60,Secundario incompleto,1,72.0,Candidato C,Candidato A,Candidato C,0.00025886412135522435,20.0
+100,formosa,masculino,35,Secundario incompleto,5,53.0,Candidato C,Candidato B,Candidato C,6.073770357363758e-05,8.0
+100,la pampa,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,3.405275364698385e-05,10.0
+100,buenos aires,masculino,63,Terciario/Universitario completo,6,74.0,En blanco,Candidato B,En blanco,0.0009882766896679063,1.0
+100,la rioja,masculino,80,Primario incompleto,2,50.0,En blanco,En blanco,En blanco,5.1991129566462056e-06,11.0
+100,la pampa,femenino,22,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B,En blanco,3.3837320789664256e-05,10.0
+100,san juan,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,7.186840120181661e-05,17.0
+100,santa fe,masculino,63,Terciario/Universitario completo,6,74.0,En blanco,Candidato B,En blanco,0.0002045319547392227,20.0
+100,chaco,femenino,40,Secundario completo,4,69.0,Candidato A,Candidato A,Candidato A,0.0001233712162916876,3.0
+100,tierra del fuego,masculino,53,Secundario incompleto,6,79.0,Candidato C,No votó,Candidato C,1.107324886622714e-05,22.0
+100,tierra del fuego,masculino,53,Secundario incompleto,6,79.0,Candidato C,No votó,Candidato C,0.003156278068208398,22.0
+100,catamarca,femenino,69,Posgrado,1,55.0,Candidato B,Candidato B,Candidato B,2.020760201657793e-05,2.0
+100,la pampa,femenino,70,Primario incompleto,5,89.0,Candidato B,Candidato B,Candidato B,1.9891633825842526e-05,10.0
+100,tierra del fuego,masculino,45,Primario completo,1,59.0,Candidato C,Candidato A,Candidato C,1.8728296396316718e-05,22.0
+100,tierra del fuego,masculino,45,Primario completo,1,59.0,Candidato C,Candidato A,Candidato C,0.004279458813129834,22.0
+100,entre ríos,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,0.00015815644165355805,7.0
+100,santa fe,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,0.0003834704860288776,20.0
+100,corrientes,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,9.579581055477953e-05,6.0
+100,catamarca,masculino,35,Secundario incompleto,5,53.0,Candidato C,Candidato B,Candidato C,4.5944647371025445e-05,2.0
+100,neuquén,masculino,80,Primario incompleto,2,50.0,En blanco,En blanco,En blanco,1.0800367246955653e-05,14.0
+100,entre ríos,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,0.00012005355028896584,7.0
+100,corrientes,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,0.00013053794934518608,6.0
+100,río negro,masculino,63,Terciario/Universitario completo,6,74.0,En blanco,Candidato B,En blanco,4.261261917781573e-05,15.0
+100,chubut,femenino,22,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B,En blanco,6.164252157437988e-05,4.0
+100,santa fe,femenino,67,Primario completo,6,56.0,Candidato B,En blanco,Candidato B,0.00022472519456531265,20.0
+100,neuquén,femenino,60,Secundario incompleto,1,72.0,Candidato C,Candidato A,Candidato C,4.796971622982963e-05,14.0
+100,neuquén,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,7.181095243986472e-05,14.0
+100,corrientes,masculino,34,Primario incompleto,6,67.0,Candidato A,No votó,Candidato A,0.00012011099905091773,6.0
+100,jujuy,masculino,53,Secundario incompleto,6,79.0,Candidato C,No votó,Candidato C,5.181878328060638e-05,9.0
+100,chubut,masculino,34,Primario incompleto,6,67.0,Candidato A,No votó,Candidato A,6.65113041498027e-05,4.0
+100,córdoba,femenino,77,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C,Candidato B,0.00015874529146356494,5.0
+100,san luis,masculino,50,Secundario incompleto,2,99.0,Candidato C,Candidato A,Candidato C,4.547069508492234e-05,18.0
+100,corrientes,femenino,67,Primario completo,6,56.0,Candidato B,En blanco,Candidato B,6.609480062565149e-05,6.0
+100,catamarca,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,3.609218469627601e-05,2.0
+100,chaco,masculino,63,Terciario/Universitario completo,6,74.0,En blanco,Candidato B,En blanco,5.70609828087165e-05,3.0
+100,formosa,femenino,40,Terciario/Universitario completo,3,67.0,No vota,No votó,No vota,6.31218271946411e-05,8.0
+100,chubut,masculino,45,Primario completo,1,59.0,Candidato C,Candidato A,Candidato C,6.260478833707406e-05,4.0
+100,córdoba,femenino,22,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B,En blanco,0.00046938510952793176,5.0
+100,córdoba,masculino,53,Secundario incompleto,6,79.0,Candidato C,No votó,Candidato C,0.0002684437024107023,5.0
+100,santa fe,masculino,50,Secundario incompleto,2,99.0,Candidato C,Candidato A,Candidato C,0.00027881320394301877,20.0
+100,mendoza,masculino,35,Secundario incompleto,5,53.0,Candidato C,Candidato B,Candidato C,0.00021659619474911996,12.0
+100,tierra del fuego,masculino,80,Primario incompleto,2,50.0,En blanco,En blanco,En blanco,1.536754382213105e-06,22.0
+100,tierra del fuego,masculino,80,Primario incompleto,2,50.0,En blanco,En blanco,En blanco,0.000870047137570913,22.0
+100,mendoza,masculino,50,Secundario incompleto,2,99.0,Candidato C,Candidato A,Candidato C,0.0001597362826072351,12.0
+100,tierra del fuego,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,2.5392352782736163e-05,22.0
+100,tierra del fuego,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,0.004969676963600838,22.0
+100,santa fe,femenino,56,Secundario incompleto,1,86.0,En blanco,No votó,En blanco,0.00026554253993213173,20.0
+100,formosa,masculino,34,Primario incompleto,6,67.0,Candidato A,No votó,Candidato A,5.968926366801555e-05,8.0
+100,neuquén,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,6.628150910199514e-05,14.0
+100,la rioja,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,4.3115295844894775e-05,11.0
+100,río negro,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,6.86369083420227e-05,15.0
+100,entre ríos,masculino,34,Primario incompleto,6,67.0,Candidato A,No votó,Candidato A,0.0001398590109718805,7.0
+100,san luis,femenino,20,Primario incompleto,1,53.0,Candidato B,No votó,Candidato B,6.092441204998123e-05,18.0
+100,tucumán,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,0.00018346262129336638,23.0
+100,neuquén,masculino,45,Primario completo,1,59.0,Candidato C,Candidato A,Candidato C,7.007312739082e-05,14.0
+100,chubut,masculino,72,Primario completo,1,78.0,Candidato A,Candidato B,Candidato A,2.1543285731959415e-05,4.0
+100,jujuy,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,6.959917510471688e-05,9.0
+100,santa fe,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,0.00030317147901062086,20.0
+100,caba,masculino,72,Primario completo,1,78.0,Candidato A,Candidato B,Candidato A,0.00015485313784132428,24.0
+100,caba,femenino,69,Posgrado,1,55.0,Candidato B,Candidato B,Candidato B,0.00024108372953111383,24.0
+100,la pampa,femenino,69,Posgrado,1,55.0,Candidato B,Candidato B,Candidato B,2.068155430268104e-05,10.0
+100,tucumán,femenino,56,Secundario incompleto,1,86.0,En blanco,No votó,En blanco,0.00011686514400063584,23.0
+100,misiones,femenino,20,Primario incompleto,1,53.0,Candidato B,No votó,Candidato B,0.00015019978812322104,13.0
+100,santa cruz,masculino,63,Terciario/Universitario completo,6,74.0,En blanco,Candidato B,En blanco,1.599948020360186e-05,19.0
+100,santa cruz,femenino,56,Secundario incompleto,1,86.0,En blanco,No votó,En blanco,2.191670268464671e-05,19.0
+100,salta,femenino,67,Primario completo,6,56.0,Candidato B,En blanco,Candidato B,6.888106558031824e-05,16.0
+100,santa cruz,femenino,69,Posgrado,1,55.0,Candidato B,Candidato B,Candidato B,1.292597143917565e-05,19.0
+100,jujuy,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,8.579972597515037e-05,9.0
+100,la rioja,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,3.3047400312825745e-05,11.0
+100,mendoza,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,0.0002188654208462197,12.0
+100,san juan,masculino,63,Terciario/Universitario completo,6,74.0,En blanco,Candidato B,En blanco,4.308657146391883e-05,17.0
+100,río negro,femenino,20,Primario incompleto,1,53.0,Candidato B,No votó,Candidato B,7.139444891571351e-05,15.0
+100,río negro,masculino,80,Primario incompleto,2,50.0,En blanco,En blanco,En blanco,1.410367105918943e-05,15.0
+100,entre ríos,masculino,45,Primario completo,1,59.0,Candidato C,Candidato A,Candidato C,0.00013178745991763974,7.0
+100,la pampa,masculino,80,Primario incompleto,2,50.0,En blanco,En blanco,En blanco,8.990731245471063e-06,10.0
+100,tucumán,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,0.00021332161531786213,23.0
+100,chubut,femenino,40,Terciario/Universitario completo,3,67.0,No vota,No votó,No vota,7.064761501033891e-05,4.0
+100,misiones,femenino,60,Secundario incompleto,1,72.0,Candidato C,Candidato A,Candidato C,7.864735511213984e-05,13.0
+100,santiago del estero,femenino,69,Posgrado,1,55.0,Candidato B,Candidato B,Candidato B,4.535579756101855e-05,21.0
+100,caba,femenino,22,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B,En blanco,0.00032521744140965935,24.0
+100,san luis,femenino,22,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B,En blanco,6.307874062317717e-05,18.0
+100,buenos aires,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,0.0018667975196267233,1.0
+100,neuquén,masculino,35,Secundario incompleto,5,53.0,Candidato C,Candidato B,Candidato C,8.378901930683415e-05,14.0
+100,neuquén,masculino,34,Primario incompleto,6,67.0,Candidato A,No votó,Candidato A,8.552684435587888e-05,14.0
+100,santiago del estero,masculino,53,Secundario incompleto,6,79.0,Candidato C,No votó,Candidato C,6.596554091125974e-05,21.0
+100,formosa,masculino,45,Primario completo,1,59.0,Candidato C,Candidato A,Candidato C,5.008095823156165e-05,8.0
+100,jujuy,femenino,20,Primario incompleto,1,53.0,Candidato B,No votó,Candidato B,8.808331426273807e-05,9.0
+100,salta,femenino,56,Secundario incompleto,1,86.0,En blanco,No votó,En blanco,9.532185826867643e-05,16.0
+100,caba,femenino,70,Primario incompleto,5,89.0,Candidato B,Candidato B,Candidato B,0.00024065286381647465,24.0
+100,misiones,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,0.00013952868059065714,13.0
+100,entre ríos,femenino,20,Primario incompleto,1,53.0,Candidato B,No votó,Candidato B,0.00015288551774447198,7.0
+100,catamarca,femenino,70,Primario incompleto,5,89.0,Candidato B,Candidato B,Candidato B,2.0265050778529825e-05,2.0
+100,mendoza,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,0.00022324588894505145,12.0
+100,córdoba,masculino,80,Primario incompleto,2,50.0,En blanco,En blanco,En blanco,7.975324377971376e-05,5.0
+100,jujuy,masculino,35,Secundario incompleto,5,53.0,Candidato C,Candidato B,Candidato C,8.68481658807724e-05,9.0
+100,río negro,masculino,53,Secundario incompleto,6,79.0,Candidato C,No votó,Candidato C,5.296775851964421e-05,15.0
+100,formosa,femenino,22,Terciario/Universitario incompleto,2,57.0,En blanco,Candidato B,En blanco,7.906385863629105e-05,8.0
+100,neuquén,femenino,40,Terciario/Universitario completo,3,67.0,No vota,No votó,No vota,8.404753873561767e-05,14.0
+100,tucumán,femenino,20,Primario incompleto,1,53.0,Candidato B,No votó,Candidato B,0.00021194284503101674,23.0
+100,formosa,femenino,69,Posgrado,1,55.0,Candidato B,Candidato B,Candidato B,2.8365326213746564e-05,8.0
+100,la pampa,femenino,40,Secundario completo,4,69.0,Candidato A,Candidato A,Candidato A,4.014232241388438e-05,10.0
+100,neuquén,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,8.554120654636686e-05,14.0
+100,la rioja,masculino,63,Terciario/Universitario completo,6,74.0,En blanco,Candidato B,En blanco,2.0767727445608877e-05,11.0
+100,misiones,masculino,45,Primario completo,1,59.0,Candidato C,Candidato A,Candidato C,0.00010560518665806505,13.0
+100,neuquén,masculino,53,Secundario incompleto,6,79.0,Candidato C,No votó,Candidato C,4.9736265659850305e-05,14.0
+100,río negro,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,7.823085158798862e-05,15.0
+100,entre ríos,femenino,40,Terciario/Universitario completo,3,67.0,No vota,No votó,No vota,0.0001532445725066713,7.0
+100,salta,masculino,72,Primario completo,1,78.0,Candidato A,Candidato B,Candidato A,4.545633289443437e-05,16.0
+100,santiago del estero,femenino,60,Secundario incompleto,1,72.0,Candidato C,Candidato A,Candidato C,5.9244035762888396e-05,21.0
+100,buenos aires,masculino,45,Primario completo,1,59.0,Candidato C,Candidato A,Candidato C,0.0016676657485109783,1.0
+100,santiago del estero,femenino,20,Primario incompleto,1,53.0,Candidato B,No votó,Candidato B,0.00013195980620349542,21.0
+100,santa fe,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,0.00038704667146038284,20.0
+100,río negro,masculino,34,Primario incompleto,6,67.0,Candidato A,No votó,Candidato A,8.172086387656605e-05,15.0
+100,río negro,masculino,35,Secundario incompleto,5,53.0,Candidato C,Candidato B,Candidato C,8.311399635389943e-05,15.0
+100,chubut,femenino,33,Primario completo,2,87.0,Candidato A,No votó,Candidato A,6.799060977006391e-05,4.0
+100,chaco,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,0.0001429037953553308,3.0
+100,jujuy,femenino,40,Terciario/Universitario completo,3,67.0,No vota,No votó,No vota,9.36414819815836e-05,9.0
+100,catamarca,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,5.078470556547233e-05,2.0
+100,río negro,femenino,38,Primario completo,4,60.0,Candidato C,En blanco,Candidato C,8.350177549707469e-05,15.0
+100,misiones,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,9.757672217528817e-05,13.0
+100,corrientes,femenino,77,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C,Candidato B,3.8174702317032084e-05,6.0
+100,caba,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,0.0003204061075961884,24.0
+100,santiago del estero,femenino,48,Secundario completo,4,61.0,Candidato B,Candidato A,Candidato B,8.233843806754888e-05,21.0
+100,corrientes,masculino,50,Secundario incompleto,2,99.0,Candidato C,Candidato A,Candidato C,8.877269940616076e-05,6.0
+100,caba,femenino,56,Secundario incompleto,1,86.0,En blanco,No votó,En blanco,0.0002737433507007643,24.0
+100,corrientes,femenino,40,Terciario/Universitario completo,3,67.0,No vota,No votó,No vota,0.00012462072686414123,6.0
+100,jujuy,femenino,40,Secundario completo,4,69.0,Candidato A,Candidato A,Candidato A,9.36414819815836e-05,9.0
+100,catamarca,femenino,20,Primario incompleto,1,53.0,Candidato B,No votó,Candidato B,5.168952356621463e-05,2.0
+100,chubut,femenino,77,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C,Candidato B,1.69330225853201e-05,4.0
+100,corrientes,masculino,35,Secundario incompleto,5,53.0,Candidato C,Candidato B,Candidato C,0.00012322759438680784,6.0
+100,jujuy,femenino,23,Posgrado,2,83.0,Candidato C,Candidato B,Candidato C,9.540803141160427e-05,9.0
+100,entre ríos,femenino,40,Secundario completo,4,69.0,Candidato A,Candidato A,Candidato A,0.0001532445725066713,7.0
+100,caba,femenino,77,Terciario/Universitario completo,1,100.0,Candidato B,Candidato C,Candidato B,0.00019575665635107123,24.0
+100,córdoba,masculino,63,Terciario/Universitario completo,6,74.0,En blanco,Candidato B,En blanco,0.0002180180516074293,5.0
+100,san luis,femenino,40,Secundario completo,4,69.0,Candidato A,Candidato A,Candidato A,5.97179880489915e-05,18.0
+100,la rioja,femenino,69,Posgrado,1,55.0,Candidato B,Candidato B,Candidato B,1.668886534702456e-05,11.0
+100,la rioja,femenino,20,Primario incompleto,1,53.0,Candidato B,No votó,Candidato B,4.864473918276436e-05,11.0
+100,santa cruz,femenino,70,Primario incompleto,5,89.0,Candidato B,Candidato B,Candidato B,1.0570572199148086e-05,19.0
+200,la pampa,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,4.1693438986585454e-05,10.0
+200,salta,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,0.00011506987018963922,16.0
+200,córdoba,femenino,47,Secundario incompleto,1,40.0,En blanco,No votó,En blanco,0.00035730257495979087,5.0
+200,san juan,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,9.922837408140507e-05,17.0
+200,salta,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,0.0001815955365299299,16.0
+200,tucumán,masculino,35,Secundario completo,4,41.0,En blanco,Candidato C,En blanco,0.0001777177450981772,23.0
+200,chaco,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,0.00011446665818914437,3.0
+200,tucumán,femenino,21,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco,Candidato A,0.0002218240320867421,23.0
+200,tierra del fuego,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,9.033817816934981e-06,22.0
+200,tierra del fuego,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,0.0025509835500927783,22.0
+200,chubut,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,3.174044097842021e-05,4.0
+200,entre ríos,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,0.00015012797717078118,7.0
+200,san luis,masculino,20,Primario completo,4,79.0,Candidato A,En blanco,Candidato A,6.118293147876474e-05,18.0
+200,santa fe,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,0.0003490443154292065,20.0
+200,san luis,femenino,31,Terciario/Universitario completo,4,65.0,En blanco,Candidato B,En blanco,6.210211166999501e-05,18.0
+200,san luis,femenino,78,Posgrado,4,79.0,No vota,En blanco,No vota,1.6387259346777128e-05,18.0
+200,tucumán,femenino,66,Primario completo,5,89.0,No vota,Candidato A,No vota,0.00010405407008536398,23.0
+200,santa fe,femenino,66,Primario completo,5,89.0,No vota,Candidato A,No vota,0.0002180180516074293,20.0
+200,mendoza,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,0.0001747447716671668,12.0
+200,santiago del estero,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,0.00010699831913539843,21.0
+200,santa cruz,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,2.800627145154724e-05,19.0
+200,tucumán,femenino,67,Secundario incompleto,2,78.0,No vota,Candidato A,No vota,0.00010286200827486222,23.0
+200,río negro,femenino,66,Primario completo,5,89.0,No vota,Candidato A,No vota,4.200940717732086e-05,15.0
+200,córdoba,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,0.00022341823523090712,5.0
+200,santiago del estero,masculino,35,Secundario completo,4,41.0,En blanco,Candidato C,En blanco,0.00010702704351637437,21.0
+200,neuquén,masculino,24,Terciario/Universitario completo,3,94.0,No vota,Candidato A,No vota,7.815904063554875e-05,14.0
+200,neuquén,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,3.444053279015912e-05,14.0
+200,tierra del fuego,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,2.58519428783513e-05,22.0
+200,tierra del fuego,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,0.005263283223746469,22.0
+200,santa cruz,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,3.2085133550131554e-05,19.0
+200,salta,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,0.00016180443803750317,16.0
+200,san luis,masculino,80,Posgrado,2,96.0,En blanco,Candidato A,En blanco,9.349786007670386e-06,18.0
+200,misiones,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,0.00012154721809971503,13.0
+200,corrientes,masculino,18,Primario incompleto,6,80.0,Candidato A,Candidato B,Candidato A,0.00015604519965182602,6.0
+200,santiago del estero,femenino,21,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco,Candidato A,0.00013804937497039594,21.0
+200,chubut,masculino,80,Primario incompleto,5,58.0,Candidato B,En blanco,Candidato B,9.579581055477953e-06,4.0
+200,santa cruz,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,3.841885955532762e-05,19.0
+200,caba,femenino,33,Posgrado,4,91.0,En blanco,Candidato B,En blanco,0.00038078475640762664,24.0
+200,chubut,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,2.5593423449567786e-05,4.0
+200,neuquén,masculino,75,Posgrado,1,89.0,En blanco,Candidato B,En blanco,1.760804553825483e-05,14.0
+200,corrientes,masculino,24,Terciario/Universitario completo,3,94.0,No vota,Candidato A,No vota,0.00014202770173556443,6.0
+200,la pampa,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,1.941768153973942e-05,10.0
+200,entre ríos,femenino,21,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco,Candidato A,0.00015851549641575737,7.0
+200,la pampa,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,3.6824656411162626e-05,10.0
+200,la pampa,femenino,31,Terciario/Universitario completo,4,65.0,En blanco,Candidato B,En blanco,4.1693438986585454e-05,10.0
+200,buenos aires,masculino,55,Primario incompleto,3,76.0,En blanco,En blanco,En blanco,0.0011676460866722003,1.0
+200,entre ríos,femenino,47,Secundario incompleto,1,40.0,En blanco,No votó,En blanco,0.00012733518086636812,7.0
+200,neuquén,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,3.0289859739134937e-05,14.0
+200,tierra del fuego,femenino,31,Terciario/Universitario completo,4,65.0,En blanco,Candidato B,En blanco,2.58519428783513e-05,22.0
+200,tierra del fuego,femenino,31,Terciario/Universitario completo,4,65.0,En blanco,Candidato B,En blanco,0.005263283223746469,22.0
+200,jujuy,femenino,66,Primario completo,5,89.0,No vota,Candidato A,No vota,4.3445626226118156e-05,9.0
+200,buenos aires,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,0.0008191762588625128,1.0
+200,catamarca,femenino,31,Terciario/Universitario completo,4,65.0,En blanco,Candidato B,En blanco,4.886017204008396e-05,2.0
+200,entre ríos,femenino,35,Secundario completo,6,93.0,Candidato C,Candidato B,Candidato C,0.00015278498241105617,7.0
+200,caba,masculino,35,Secundario completo,4,41.0,En blanco,Candidato C,En blanco,0.0003542147040048767,24.0
+200,san luis,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,2.4516259162969816e-05,18.0
+200,neuquén,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,8.253950873438051e-05,14.0
+200,corrientes,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,9.516387417330873e-05,6.0
+200,río negro,femenino,28,Secundario completo,5,85.0,Candidato C,No votó,Candidato C,8.308527197292348e-05,15.0
+200,corrientes,femenino,47,Secundario incompleto,1,40.0,En blanco,No votó,En blanco,0.00010099492351142574,6.0
+200,misiones,masculino,75,Posgrado,1,89.0,En blanco,Candidato B,En blanco,2.7575405736908053e-05,13.0
+200,san juan,femenino,78,Posgrado,4,79.0,No vota,En blanco,No vota,2.6024289164206973e-05,17.0
+200,jujuy,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,8.94477223590955e-05,9.0
+200,la rioja,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,4.634678870468869e-05,11.0
+200,catamarca,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,2.239065497074982e-05,2.0
+200,tierra del fuego,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,1.819689534826172e-05,22.0
+200,tierra del fuego,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,0.005270694114038263,22.0
+200,chaco,femenino,60,Secundario completo,6,87.0,Candidato B,No votó,Candidato B,7.050399310545918e-05,3.0
+200,la pampa,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,3.3837320789664256e-05,10.0
+200,corrientes,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,0.00016474868708753762,6.0
+200,misiones,femenino,37,Posgrado,2,54.0,Candidato A,Candidato B,Candidato A,0.00013017889458298676,13.0
+200,jujuy,femenino,28,Secundario completo,5,85.0,Candidato C,No votó,Candidato C,9.945816912921264e-05,9.0
+200,tucumán,femenino,28,Secundario completo,5,85.0,Candidato C,No votó,Candidato C,0.0002077634475990166,23.0
+200,la pampa,femenino,21,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco,Candidato A,3.497193383821412e-05,10.0
+200,santa fe,femenino,60,Secundario completo,6,87.0,Candidato B,No votó,Candidato B,0.00025886412135522435,20.0
+200,santa cruz,masculino,80,Primario incompleto,5,58.0,Candidato B,En blanco,Candidato B,3.777256098336884e-06,19.0
+200,formosa,masculino,80,Posgrado,2,96.0,En blanco,Candidato A,En blanco,8.143362006680659e-06,8.0
+200,chubut,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,6.93262934854454e-05,4.0
+200,formosa,masculino,18,Primario incompleto,6,80.0,Candidato A,Candidato B,Candidato A,7.712496292041471e-05,8.0
+200,salta,femenino,67,Secundario incompleto,2,78.0,No vota,Candidato A,No vota,6.888106558031824e-05,16.0
+200,la rioja,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,1.8412328205581313e-05,11.0
+200,san juan,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,7.824521377847659e-05,17.0
+200,neuquén,femenino,31,Terciario/Universitario completo,4,65.0,En blanco,Candidato B,En blanco,9.265049083791346e-05,14.0
+200,tucumán,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,0.00019314273768226015,23.0
+200,tucumán,femenino,37,Posgrado,2,54.0,Candidato A,Candidato B,Candidato A,0.00016345608994362007,23.0
+200,entre ríos,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,0.00012123124990897962,7.0
+200,buenos aires,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,0.0018259370876884402,1.0
+200,santa cruz,femenino,31,Terciario/Universitario completo,4,65.0,En blanco,Candidato B,En blanco,4.512600251321099e-05,19.0
+200,tierra del fuego,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,6.87948924373904e-06,22.0
+200,tierra del fuego,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,0.002576160470018195,22.0
+200,mendoza,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,0.0001003773493204429,12.0
+200,caba,femenino,21,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco,Candidato A,0.0003183954009278722,24.0
+200,neuquén,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,6.899596310422202e-05,14.0
+200,chaco,femenino,21,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco,Candidato A,0.00013218960125130298,3.0
+200,la rioja,masculino,55,Primario incompleto,3,76.0,En blanco,En blanco,En blanco,2.3984858114914815e-05,11.0
+200,córdoba,masculino,20,Primario completo,4,79.0,Candidato A,En blanco,Candidato A,0.000426226727111573,5.0
+200,santa cruz,femenino,35,Secundario completo,6,93.0,Candidato C,Candidato B,Candidato C,4.3158382416358694e-05,19.0
+200,santa cruz,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,3.400966707551993e-05,19.0
+200,tucumán,masculino,80,Posgrado,2,96.0,En blanco,Candidato A,En blanco,2.741742164154035e-05,23.0
+200,río negro,femenino,33,Posgrado,4,91.0,En blanco,Candidato B,En blanco,8.518215178416754e-05,15.0
+200,corrientes,masculino,75,Posgrado,1,89.0,En blanco,Candidato B,En blanco,3.128085088280507e-05,6.0
+200,santa fe,femenino,35,Secundario completo,6,93.0,Candidato C,Candidato B,Candidato C,0.0003980050228027062,20.0
+200,formosa,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,7.906385863629105e-05,8.0
+200,san luis,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,6.172869471730772e-05,18.0
+200,neuquén,femenino,21,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco,Candidato A,6.832094015128729e-05,14.0
+200,santiago del estero,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,0.00014514429707145456,21.0
+200,entre ríos,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,6.761719281737662e-05,7.0
+200,chaco,femenino,35,Secundario completo,6,93.0,Candidato C,Candidato B,Candidato C,0.0001291591790583407,3.0
+200,chubut,femenino,60,Secundario completo,6,87.0,Candidato B,No votó,Candidato B,3.953911041338951e-05,4.0
+200,tucumán,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,0.00018347698348385435,23.0
+200,chubut,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,6.89528765327581e-05,4.0
+200,catamarca,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,4.597337175200139e-05,2.0
+200,santa cruz,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,1.4304741726021053e-05,19.0
+200,tierra del fuego,femenino,33,Posgrado,4,91.0,En blanco,Candidato B,En blanco,2.5392352782736163e-05,22.0
+200,tierra del fuego,femenino,33,Posgrado,4,91.0,En blanco,Candidato B,En blanco,0.004969676963600838,22.0
+200,buenos aires,masculino,33,Primario completo,4,82.0,Candidato A,No votó,Candidato A,0.0017759135782188305,1.0
+200,san luis,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,6.210211166999501e-05,18.0
+200,san juan,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,8.832747150103361e-05,17.0
+200,chubut,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,5.915786261996055e-05,4.0
+200,la rioja,masculino,33,Primario completo,4,82.0,Candidato A,No votó,Candidato A,4.10327782241387e-05,11.0
+200,san luis,masculino,28,Secundario completo,4,57.0,No vota,Candidato B,No vota,5.9387657667768124e-05,18.0
+200,jujuy,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,9.010838312154225e-05,9.0
+200,corrientes,femenino,35,Secundario completo,6,93.0,Candidato C,Candidato B,Candidato C,0.0001322901365847188,6.0
+200,san luis,masculino,24,Terciario/Universitario completo,3,94.0,No vota,Candidato A,No vota,6.250425300365825e-05,18.0
+200,la pampa,femenino,37,Posgrado,2,54.0,Candidato A,Candidato B,Candidato A,3.798799384068844e-05,10.0
+200,la rioja,masculino,75,Posgrado,1,89.0,En blanco,Candidato B,En blanco,9.349786007670386e-06,11.0
+200,santa fe,masculino,18,Primario incompleto,6,80.0,Candidato A,Candidato B,Candidato A,0.00038324069098107,20.0
+200,corrientes,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,0.00012026898314628543,6.0
+200,santa cruz,femenino,37,Posgrado,2,54.0,Candidato A,Candidato B,Candidato A,3.9194417841678166e-05,19.0
+200,córdoba,masculino,80,Primario incompleto,5,58.0,Candidato B,En blanco,Candidato B,7.975324377971376e-05,5.0
+200,chaco,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,5.394438747282638e-05,3.0
+200,jujuy,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,9.019455626447008e-05,9.0
+200,la rioja,masculino,80,Primario incompleto,5,58.0,Candidato B,En blanco,Candidato B,5.1991129566462056e-06,11.0
+200,corrientes,femenino,33,Posgrado,4,91.0,En blanco,Candidato B,En blanco,0.00013053794934518608,6.0
+200,tierra del fuego,masculino,18,Primario incompleto,6,80.0,Candidato A,Candidato B,Candidato A,1.918788649193185e-05,22.0
+200,tierra del fuego,masculino,18,Primario incompleto,6,80.0,Candidato A,Candidato B,Candidato A,0.0051899929656863426,22.0
+200,caba,femenino,28,Secundario completo,5,85.0,Candidato C,No votó,Candidato C,0.00034508035085452593,24.0
+200,catamarca,masculino,75,Posgrado,1,89.0,En blanco,Candidato B,En blanco,1.0613658770612005e-05,2.0
+200,chaco,femenino,33,Posgrado,4,91.0,En blanco,Candidato B,En blanco,0.00012568352896025122,3.0
+200,jujuy,femenino,31,Terciario/Universitario completo,4,65.0,En blanco,Candidato B,En blanco,9.019455626447008e-05,9.0
+200,misiones,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,6.227445795585068e-05,13.0
+200,santa cruz,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,3.995561393754073e-05,19.0
+200,neuquén,femenino,67,Secundario incompleto,2,78.0,No vota,Candidato A,No vota,3.7025727077994246e-05,14.0
+200,santiago del estero,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,5.068417023205652e-05,21.0
+200,misiones,femenino,28,Secundario completo,5,85.0,Candidato C,No votó,Candidato C,0.00015380469793570227,13.0
+200,chaco,masculino,75,Posgrado,1,89.0,En blanco,Candidato B,En blanco,2.4674243258337516e-05,3.0
+200,chaco,masculino,35,Secundario completo,4,41.0,En blanco,Candidato C,En blanco,0.00011871786657358436,3.0
+200,buenos aires,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,0.0009997664420582845,1.0
+200,salta,masculino,20,Primario completo,4,79.0,Candidato A,En blanco,Candidato A,0.00017471604728619086,16.0
+200,formosa,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,2.6368981735918324e-05,8.0
+200,tucumán,masculino,80,Primario incompleto,5,58.0,Candidato B,En blanco,Candidato B,2.741742164154035e-05,23.0
+200,san juan,masculino,80,Posgrado,2,96.0,En blanco,Candidato A,En blanco,1.4089308868701457e-05,17.0
+200,santiago del estero,masculino,24,Terciario/Universitario completo,3,94.0,No vota,Candidato A,No vota,0.00012948950943956407,21.0
+200,salta,femenino,47,Secundario incompleto,1,40.0,En blanco,No votó,En blanco,0.00013096881505982527,16.0
+200,jujuy,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,3.448361936162304e-05,9.0
+200,entre ríos,femenino,60,Secundario completo,6,87.0,Candidato B,No votó,Candidato B,0.00010158377332143263,7.0
+200,jujuy,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,6.974279700959661e-05,9.0
+200,neuquén,femenino,28,Secundario completo,5,85.0,Candidato C,No votó,Candidato C,8.518215178416754e-05,14.0
+200,córdoba,femenino,33,Posgrado,4,91.0,En blanco,Candidato B,En blanco,0.0003982922666124657,5.0
+200,tierra del fuego,femenino,60,Secundario completo,6,87.0,Candidato B,No votó,Candidato B,1.3902600392357809e-05,22.0
+200,tierra del fuego,femenino,60,Secundario completo,6,87.0,Candidato B,No votó,Candidato B,0.0032462284672345725,22.0
+200,misiones,masculino,20,Primario completo,4,79.0,Candidato A,En blanco,Candidato A,0.00014813163269295293,13.0
+200,entre ríos,femenino,37,Posgrado,2,54.0,Candidato A,Candidato B,Candidato A,0.00014152502506848538,7.0
+200,mendoza,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,0.0002098459652197727,12.0
+200,santa fe,masculino,20,Primario completo,4,79.0,Candidato A,En blanco,Candidato A,0.0003490443154292065,20.0
+200,formosa,masculino,35,Secundario completo,4,41.0,En blanco,Candidato C,En blanco,6.073770357363758e-05,8.0
+200,córdoba,femenino,78,Posgrado,4,79.0,No vota,En blanco,No vota,0.00014189844202117268,5.0
+200,entre ríos,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,0.00015156419621957848,7.0
+200,santa cruz,masculino,18,Primario incompleto,6,80.0,Candidato A,Candidato B,Candidato A,3.8447583936303574e-05,19.0
+200,la pampa,masculino,33,Primario completo,4,82.0,Candidato A,No votó,Candidato A,3.972581888973316e-05,10.0
+200,mendoza,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,0.00011870350438309638,12.0
+200,mendoza,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,0.00011229796742546045,12.0
+200,santa fe,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,0.00020948691045757337,20.0
+200,entre ríos,femenino,67,Secundario incompleto,2,78.0,No vota,Candidato A,No vota,8.579972597515037e-05,7.0
+200,chaco,masculino,80,Posgrado,2,96.0,En blanco,Candidato A,En blanco,1.4419639249924835e-05,3.0
+200,misiones,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,0.0001546807915554686,13.0
+200,corrientes,masculino,35,Secundario completo,4,41.0,En blanco,Candidato C,En blanco,0.00012322759438680784,6.0
+200,río negro,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,7.439614672769985e-05,15.0
+200,tierra del fuego,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,1.620055087043348e-05,22.0
+200,tierra del fuego,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,0.004049836111608122,22.0
+200,tucumán,masculino,24,Terciario/Universitario completo,3,94.0,No vota,Candidato A,No vota,0.00020440269502483094,23.0
+200,corrientes,femenino,37,Posgrado,2,54.0,Candidato A,Candidato B,Candidato A,0.00011573053095208599,6.0
+200,buenos aires,femenino,35,Secundario completo,6,93.0,Candidato C,Candidato B,Candidato C,0.0019163614390007178,1.0
+200,río negro,femenino,60,Secundario completo,6,87.0,Candidato B,No votó,Candidato B,5.316882918647584e-05,15.0
+200,neuquén,masculino,18,Primario incompleto,6,80.0,Candidato A,Candidato B,Candidato A,7.074815034375472e-05,14.0
+200,jujuy,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,4.0917880700234916e-05,9.0
+200,la pampa,masculino,20,Primario completo,4,79.0,Candidato A,En blanco,Candidato A,3.3506990408440875e-05,10.0
+200,tucumán,femenino,60,Secundario completo,6,87.0,Candidato B,No votó,Candidato B,0.00011063195332885559,23.0
+200,la rioja,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,3.070636326328615e-05,11.0
+200,santiago del estero,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,8.45071288312328e-05,21.0
+200,chaco,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,4.6418599657128554e-05,3.0
+200,misiones,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,9.65570066506421e-05,13.0
+200,tucumán,masculino,33,Primario completo,4,82.0,Candidato A,No votó,Candidato A,0.0001733229148088575,23.0
+200,misiones,masculino,80,Posgrado,2,96.0,En blanco,Candidato A,En blanco,1.6257999632385372e-05,13.0
+200,santa cruz,femenino,60,Secundario completo,6,87.0,Candidato B,No votó,Candidato B,1.8369241634117395e-05,19.0
+200,la pampa,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,3.166863002598034e-05,10.0
+200,caba,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,0.00031869700692811965,24.0
+200,santa cruz,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,1.4721245250172267e-05,19.0
+200,mendoza,masculino,28,Secundario completo,4,57.0,No vota,Candidato B,No vota,0.00021398227608030888,12.0
+200,entre ríos,masculino,20,Primario completo,4,79.0,Candidato A,En blanco,Candidato A,0.00015156419621957848,7.0
+200,santa fe,masculino,80,Primario incompleto,5,58.0,Candidato B,En blanco,Candidato B,7.267268386914309e-05,20.0
+200,catamarca,femenino,31,Primario incompleto,5,87.0,No vota,Candidato A,No vota,4.886017204008396e-05,2.0
+200,santa fe,masculino,35,Secundario completo,4,41.0,En blanco,Candidato C,En blanco,0.00037808466459588776,20.0
+200,santiago del estero,femenino,37,Posgrado,2,54.0,Candidato A,Candidato B,Candidato A,0.00010468600646683479,21.0
+200,misiones,femenino,67,Secundario incompleto,2,78.0,No vota,Candidato A,No vota,5.947383081069596e-05,13.0
+200,chaco,femenino,78,Posgrado,4,79.0,No vota,En blanco,No vota,2.687165840299738e-05,3.0
+200,neuquén,masculino,35,Secundario completo,4,41.0,En blanco,Candidato C,En blanco,8.378901930683415e-05,14.0
+200,la rioja,masculino,18,Primario incompleto,6,80.0,Candidato A,Candidato B,Candidato A,4.601645832346531e-05,11.0
+200,catamarca,femenino,67,Secundario incompleto,2,78.0,No vota,Candidato A,No vota,2.379814963857117e-05,2.0
+200,catamarca,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,4.64473240381045e-05,2.0
+200,misiones,femenino,33,Posgrado,4,91.0,En blanco,Candidato B,En blanco,0.00013952868059065714,13.0
+200,buenos aires,masculino,28,Secundario completo,4,57.0,No vota,Candidato B,No vota,0.0017736443521217306,1.0
+200,río negro,masculino,80,Primario incompleto,5,58.0,Candidato B,En blanco,Candidato B,1.410367105918943e-05,15.0
+200,formosa,masculino,28,Secundario completo,4,57.0,No vota,Candidato B,No vota,6.890978996129419e-05,8.0
+200,tierra del fuego,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,1.999216915925834e-05,22.0
+200,tierra del fuego,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,0.004764843402861368,22.0
+200,caba,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,0.00032521744140965935,24.0
+200,san luis,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,5.752057290433164e-05,18.0
+200,córdoba,masculino,42,Posgrado,1,94.0,En blanco,Candidato B,En blanco,0.00040255783718739363,5.0
+200,formosa,femenino,21,Terciario/Universitario incompleto,2,98.0,Candidato A,En blanco,Candidato A,7.218436939255201e-05,8.0
+200,tucumán,femenino,35,Secundario completo,6,93.0,Candidato C,Candidato B,Candidato C,0.0001930709267298203,23.0
+200,buenos aires,femenino,33,Posgrado,4,91.0,En blanco,Candidato B,En blanco,0.0018667975196267233,1.0
+200,la pampa,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,3.3506990408440875e-05,10.0
+200,neuquén,masculino,55,Primario incompleto,3,76.0,En blanco,En blanco,En blanco,4.896070737349977e-05,14.0
+200,la rioja,femenino,35,Secundario completo,6,93.0,Candidato C,Candidato B,Candidato C,4.289986298757518e-05,11.0
+200,río negro,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,6.908213624714986e-05,15.0
+200,la rioja,masculino,68,Terciario/Universitario completo,4,78.0,Candidato A,En blanco,Candidato A,1.618618867994551e-05,11.0
+200,la rioja,masculino,24,Terciario/Universitario completo,3,94.0,No vota,Candidato A,No vota,4.638987527615261e-05,11.0
+200,río negro,femenino,37,Posgrado,2,54.0,Candidato A,Candidato B,Candidato A,8.338687797317091e-05,15.0
+200,tucumán,femenino,49,Terciario/Universitario incompleto,2,84.0,En blanco,En blanco,En blanco,0.00013990209754334446,23.0
+200,córdoba,femenino,37,Posgrado,2,54.0,Candidato A,Candidato B,Candidato A,0.00038430349307718,5.0
+200,san luis,masculino,33,Primario completo,4,82.0,Candidato A,No votó,Candidato A,5.503591394991232e-05,18.0
+200,chaco,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,6.0278113478022444e-05,3.0
+200,san juan,masculino,65,Secundario completo,3,86.0,No vota,No votó,No vota,4.3330728702214374e-05,17.0
+200,tucumán,femenino,22,Terciario/Universitario completo,3,79.0,Candidato C,Candidato A,Candidato C,0.0002261901379950859,23.0
+200,formosa,femenino,31,Terciario/Universitario completo,4,65.0,En blanco,Candidato B,En blanco,7.122210262985782e-05,8.0
+200,neuquén,femenino,66,Primario completo,5,89.0,No vota,Candidato A,No vota,3.798799384068844e-05,14.0
+200,córdoba,masculino,20,Terciario/Universitario completo,2,89.0,Candidato C,Candidato A,Candidato C,0.000426226727111573,5.0
+200,jujuy,femenino,43,Terciario/Universitario completo,6,63.0,En blanco,No votó,En blanco,9.091266578886874e-05,9.0
+200,santiago del estero,femenino,68,Secundario completo,6,95.0,Candidato B,Candidato C,Candidato B,4.71367091815272e-05,21.0
+200,la rioja,femenino,47,Secundario incompleto,1,40.0,En blanco,No votó,En blanco,3.6666672315794926e-05,11.0
+300,catamarca,femenino,45,Terciario/Universitario completo,6,90.0,No vota,En blanco,No vota,4.456587708418004e-05,2.0
+300,salta,masculino,60,Primario incompleto,3,89.0,No vota,En blanco,No vota,7.636376682455214e-05,16.0
+300,salta,masculino,70,Primario incompleto,3,65.0,Candidato C,Candidato A,Candidato C,5.326936451989165e-05,16.0
+300,tucumán,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,0.0001570792773669601,23.0
+300,corrientes,femenino,34,Posgrado,1,45.0,En blanco,Candidato C,En blanco,0.00012627237877025813,6.0
+300,córdoba,masculino,70,Primario incompleto,4,71.0,Candidato A,No votó,Candidato A,0.00017658313204962735,5.0
+300,la pampa,femenino,45,Terciario/Universitario completo,5,61.0,Candidato C,En blanco,Candidato C,3.564695679114884e-05,10.0
+300,santa cruz,masculino,60,Secundario incompleto,6,99.0,Candidato A,No votó,Candidato A,1.878574515826861e-05,19.0
+300,entre ríos,masculino,65,Terciario/Universitario incompleto,5,56.0,No vota,En blanco,No vota,8.035645578020862e-05,7.0
+300,la rioja,masculino,60,Primario incompleto,3,89.0,No vota,En blanco,No vota,2.2922056018804817e-05,11.0
+300,santa fe,femenino,45,Terciario/Universitario completo,6,90.0,No vota,En blanco,No vota,0.0003608787603912962,20.0
+300,tierra del fuego,masculino,55,Secundario completo,5,98.0,No vota,Candidato B,No vota,1.180572058111376e-05,22.0
+300,tierra del fuego,masculino,55,Secundario completo,5,98.0,No vota,Candidato B,No vota,0.0029957662273148123,22.0
+300,salta,femenino,25,Secundario incompleto,4,50.0,En blanco,Candidato A,En blanco,0.0001802167662430845,16.0
+300,chaco,femenino,60,Secundario completo,3,65.0,Candidato C,No votó,Candidato C,7.050399310545918e-05,3.0
+300,mendoza,masculino,65,Terciario/Universitario incompleto,5,56.0,No vota,En blanco,No vota,0.00011229796742546045,12.0
+300,mendoza,femenino,25,Secundario incompleto,4,50.0,En blanco,Candidato A,En blanco,0.00022695133409094846,12.0
+300,tucumán,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,0.00012505159257878042,23.0
+300,río negro,masculino,55,Secundario completo,5,98.0,No vota,Candidato B,No vota,5.074161899400841e-05,15.0
+300,formosa,masculino,25,Secundario incompleto,3,55.0,Candidato A,Candidato B,Candidato A,7.28306679645108e-05,8.0
+300,chaco,masculino,60,Secundario incompleto,6,99.0,Candidato A,No votó,Candidato A,6.593681653028379e-05,3.0
+300,chaco,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,0.00010915264770859437,3.0
+300,mendoza,masculino,55,Secundario completo,5,98.0,No vota,Candidato B,No vota,0.00012512340353122028,12.0
+300,caba,femenino,34,Posgrado,1,45.0,En blanco,Candidato C,En blanco,0.0003650007090613444,24.0
+300,formosa,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,5.164643699475071e-05,8.0
+300,santa cruz,masculino,31,Posgrado,3,46.0,Candidato A,En blanco,Candidato A,4.110458917657856e-05,19.0
+300,jujuy,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,8.07873214948478e-05,9.0
+300,corrientes,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,8.877269940616076e-05,6.0
+300,santa cruz,femenino,71,Primario incompleto,4,41.0,No vota,Candidato A,No vota,1.0168430865484845e-05,19.0
+300,tierra del fuego,masculino,36,Primario completo,3,51.0,Candidato C,Candidato A,Candidato C,2.405666906735468e-05,22.0
+300,tierra del fuego,masculino,36,Primario completo,3,51.0,Candidato C,Candidato A,Candidato C,0.004632424006562257,22.0
+300,río negro,masculino,31,Posgrado,3,46.0,Candidato A,En blanco,Candidato A,8.51390652127036e-05,15.0
+300,entre ríos,masculino,25,Secundario incompleto,3,55.0,Candidato A,Candidato B,Candidato A,0.00016074163594139319,7.0
+300,río negro,femenino,53,Primario incompleto,5,100.0,Candidato B,Candidato A,Candidato B,5.581147223626286e-05,15.0
+300,la pampa,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,2.965792335766413e-05,10.0
+300,jujuy,femenino,53,Primario incompleto,5,100.0,Candidato B,Candidato A,Candidato B,5.851156404800177e-05,9.0
+300,salta,masculino,60,Terciario/Universitario completo,3,55.0,Candidato C,En blanco,Candidato C,7.636376682455214e-05,16.0
+300,san juan,masculino,65,Terciario/Universitario incompleto,5,56.0,No vota,En blanco,No vota,4.3330728702214374e-05,17.0
+300,misiones,masculino,60,Terciario/Universitario completo,3,55.0,Candidato C,En blanco,Candidato C,7.172477929693688e-05,13.0
+300,catamarca,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,4.26269813683037e-05,2.0
+300,mendoza,femenino,45,Terciario/Universitario completo,5,61.0,Candidato C,En blanco,Candidato C,0.00019564175882716745,12.0
+300,santiago del estero,masculino,31,Posgrado,3,46.0,Candidato A,En blanco,Candidato A,0.00011373418647425774,21.0
+300,santa fe,femenino,34,Posgrado,1,45.0,En blanco,Candidato C,En blanco,0.0003800091981212761,20.0
+300,córdoba,femenino,45,Terciario/Universitario completo,6,90.0,No vota,En blanco,No vota,0.00037794104269100803,5.0
+300,misiones,femenino,34,Posgrado,1,45.0,En blanco,Candidato C,En blanco,0.0001359381329686639,13.0
+300,misiones,femenino,45,Terciario/Universitario completo,6,90.0,No vota,En blanco,No vota,0.00010916700989908235,13.0
+300,chaco,femenino,71,Primario incompleto,4,41.0,No vota,Candidato A,No vota,4.33163665117264e-05,3.0
+300,santa cruz,femenino,32,Primario incompleto,6,52.0,Candidato C,Candidato A,Candidato C,4.357488594050991e-05,19.0
+300,caba,masculino,31,Posgrado,3,46.0,Candidato A,En blanco,Candidato A,0.0003492453860960381,24.0
+300,buenos aires,masculino,60,Terciario/Universitario completo,3,55.0,Candidato C,En blanco,Candidato C,0.0011056014237641571,1.0
+300,tierra del fuego,masculino,60,Primario incompleto,3,89.0,No vota,En blanco,No vota,1.3285026201374973e-05,22.0
+300,tierra del fuego,masculino,60,Primario incompleto,3,89.0,No vota,En blanco,No vota,0.0028667506701613513,22.0
+300,chubut,masculino,70,Primario incompleto,4,71.0,Candidato A,No votó,Candidato A,2.468860544882549e-05,4.0
+300,la pampa,masculino,25,Secundario incompleto,3,55.0,Candidato A,Candidato B,Candidato A,3.9022071555822486e-05,10.0
+300,corrientes,masculino,70,Primario incompleto,3,65.0,Candidato C,Candidato A,Candidato C,5.1502815089870974e-05,6.0
+300,corrientes,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,0.00010464291989537087,6.0
+300,tucumán,masculino,25,Secundario incompleto,3,55.0,Candidato A,Candidato B,Candidato A,0.0002079214316943843,23.0
+300,caba,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,0.0003351848016083126,24.0
+300,buenos aires,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,0.0015158286706721284,1.0
+300,san juan,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,6.214519824145893e-05,17.0
+300,la pampa,femenino,32,Primario incompleto,6,52.0,Candidato C,Candidato A,Candidato C,3.976890546119708e-05,10.0
+300,santa fe,masculino,60,Secundario incompleto,6,99.0,Candidato A,No votó,Candidato A,0.000230900936475141,20.0
+300,la pampa,masculino,31,Posgrado,3,46.0,Candidato A,En blanco,Candidato A,3.998433831851668e-05,10.0
+300,mendoza,femenino,32,Primario incompleto,6,52.0,Candidato C,Candidato A,Candidato C,0.00021437005522348415,12.0
+300,mendoza,masculino,67,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B,Candidato A,0.00010856379789858748,12.0
+300,chaco,masculino,74,Secundario incompleto,2,77.0,Candidato C,Candidato A,Candidato C,2.9112160119121157e-05,3.0
+300,formosa,femenino,25,Secundario incompleto,4,50.0,En blanco,Candidato A,En blanco,7.837447349286836e-05,8.0
+300,santa fe,masculino,60,Primario incompleto,3,89.0,No vota,En blanco,No vota,0.000230900936475141,20.0
+300,formosa,masculino,60,Terciario/Universitario completo,3,55.0,Candidato C,En blanco,Candidato C,3.6666672315794926e-05,8.0
+300,río negro,masculino,70,Primario incompleto,3,65.0,Candidato C,Candidato A,Candidato C,3.143883497817277e-05,15.0
+300,santa cruz,femenino,45,Terciario/Universitario completo,6,90.0,No vota,En blanco,No vota,3.376550983722439e-05,19.0
+300,corrientes,femenino,60,Secundario completo,3,65.0,Candidato C,No votó,Candidato C,7.972451939873782e-05,6.0
+300,neuquén,femenino,34,Posgrado,1,45.0,En blanco,Candidato C,En blanco,8.615878073734969e-05,14.0
+300,chubut,masculino,60,Primario incompleto,3,89.0,No vota,En blanco,No vota,3.8131615745568165e-05,4.0
+300,caba,femenino,60,Secundario completo,3,65.0,Candidato C,No votó,Candidato C,0.0002792727940386339,24.0
+300,santiago del estero,femenino,25,Secundario incompleto,4,50.0,En blanco,Candidato A,En blanco,0.0001388105710662585,21.0
+300,tucumán,masculino,70,Primario incompleto,3,65.0,Candidato C,Candidato A,Candidato C,7.563129510966553e-05,23.0
+300,catamarca,masculino,67,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B,Candidato A,2.0853900588536713e-05,2.0
+300,chaco,femenino,34,Posgrado,1,45.0,En blanco,Candidato C,En blanco,0.0001244196561973096,3.0
+300,catamarca,masculino,25,Secundario incompleto,3,55.0,Candidato A,Candidato B,Candidato A,5.204857832841395e-05,2.0
+300,la pampa,masculino,65,Terciario/Universitario incompleto,5,56.0,No vota,En blanco,No vota,2.18161673512309e-05,10.0
+300,chaco,masculino,70,Primario incompleto,4,71.0,Candidato A,No votó,Candidato A,4.1391832986338025e-05,3.0
+300,salta,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,0.00013405668601473945,16.0
+300,neuquén,femenino,60,Secundario completo,3,65.0,Candidato C,No votó,Candidato C,4.796971622982963e-05,14.0
+300,buenos aires,masculino,67,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B,Candidato A,0.000871095577476535,1.0
+300,san juan,femenino,75,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B,Candidato B,3.415328898039966e-05,17.0
+300,formosa,masculino,55,Secundario completo,5,98.0,No vota,Candidato B,No vota,3.988380298510087e-05,8.0
+300,chaco,masculino,31,Posgrado,3,46.0,Candidato A,En blanco,Candidato A,0.00013043741401177027,3.0
+300,buenos aires,masculino,70,Primario incompleto,3,65.0,Candidato C,Candidato A,Candidato C,0.0007875650775984843,1.0
+300,san luis,femenino,45,Terciario/Universitario completo,6,90.0,No vota,En blanco,No vota,5.4561961663809215e-05,18.0
+300,corrientes,masculino,67,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B,Candidato A,6.190104100316339e-05,6.0
+300,corrientes,femenino,25,Secundario incompleto,4,50.0,En blanco,Candidato A,En blanco,0.0001548387756508363,6.0
+300,la rioja,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,3.6077822505788034e-05,11.0
+300,neuquén,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,7.113592948692999e-05,14.0
+300,san juan,masculino,36,Primario completo,3,51.0,Candidato C,Candidato A,Candidato C,7.752710425407795e-05,17.0
+300,salta,masculino,55,Secundario completo,5,98.0,No vota,Candidato B,No vota,8.500980549831185e-05,16.0
+300,santiago del estero,masculino,60,Terciario/Universitario completo,3,55.0,Candidato C,En blanco,Candidato C,5.805197395238664e-05,21.0
+300,tierra del fuego,femenino,25,Secundario incompleto,4,50.0,En blanco,Candidato A,En blanco,2.0810814017072795e-05,22.0
+300,tierra del fuego,femenino,25,Secundario incompleto,4,50.0,En blanco,Candidato A,En blanco,0.00526695994451139,22.0
+300,buenos aires,femenino,45,Terciario/Universitario completo,6,90.0,No vota,En blanco,No vota,0.0017977584699510373,1.0
+300,entre ríos,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,0.0001301070836305469,7.0
+300,santiago del estero,masculino,36,Primario completo,3,51.0,Candidato C,Candidato A,Candidato C,0.0001040971566568279,21.0
+300,tucumán,masculino,70,Primario incompleto,4,71.0,Candidato A,No votó,Candidato A,7.563129510966553e-05,23.0
+300,córdoba,femenino,32,Primario incompleto,6,52.0,Candidato C,Candidato A,Candidato C,0.000414564628435339,5.0
+300,chaco,masculino,65,Terciario/Universitario incompleto,5,56.0,No vota,En blanco,No vota,6.0278113478022444e-05,3.0
+300,catamarca,masculino,60,Primario incompleto,3,89.0,No vota,En blanco,No vota,2.5679596592495623e-05,2.0
+300,santiago del estero,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,7.693825444407107e-05,21.0
+300,chubut,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,6.518998262490919e-05,4.0
+300,córdoba,masculino,36,Primario completo,3,51.0,Candidato C,Candidato A,Candidato C,0.00038052623697884313,5.0
+300,caba,masculino,55,Secundario completo,5,98.0,No vota,Candidato B,No vota,0.00022699442066241238,24.0
+300,catamarca,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,3.459851688552682e-05,2.0
+300,neuquén,femenino,45,Terciario/Universitario completo,5,61.0,Candidato C,En blanco,Candidato C,7.382165910818093e-05,14.0
+300,formosa,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,4.4637688036619906e-05,8.0
+300,mendoza,femenino,60,Secundario completo,3,65.0,Candidato C,No votó,Candidato C,0.00014240111868825173,12.0
+300,san luis,femenino,34,Posgrado,1,45.0,En blanco,Candidato C,En blanco,5.599818071260651e-05,18.0
+300,buenos aires,femenino,60,Secundario completo,3,65.0,Candidato C,No votó,Candidato C,0.0012619625916067186,1.0
+300,neuquén,masculino,60,Terciario/Universitario completo,3,55.0,Candidato C,En blanco,Candidato C,4.3330728702214374e-05,14.0
+300,santa cruz,femenino,75,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B,Candidato B,8.215172959120523e-06,19.0
+300,chubut,masculino,70,Primario incompleto,3,65.0,Candidato C,Candidato A,Candidato C,2.468860544882549e-05,4.0
+300,san luis,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,5.108631156571976e-05,18.0
+300,formosa,femenino,71,Primario incompleto,4,41.0,No vota,Candidato A,No vota,2.4918400496633057e-05,8.0
+300,río negro,masculino,36,Primario completo,3,51.0,Candidato C,Candidato A,Candidato C,8.021283387532889e-05,15.0
+300,salta,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,0.00013221832563227893,16.0
+300,tierra del fuego,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,1.7794754014598476e-05,22.0
+300,tierra del fuego,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,0.004380626082927115,22.0
+300,santa cruz,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,3.357880136088074e-05,19.0
+300,entre ríos,masculino,55,Secundario completo,5,98.0,No vota,Candidato B,No vota,9.654264446015413e-05,7.0
+300,jujuy,femenino,45,Terciario/Universitario completo,5,61.0,Candidato C,En blanco,Candidato C,8.144798225729457e-05,9.0
+300,tierra del fuego,femenino,53,Primario incompleto,5,100.0,Candidato B,Candidato A,Candidato B,1.3500459058694567e-05,22.0
+300,tierra del fuego,femenino,53,Primario incompleto,5,100.0,Candidato B,Candidato A,Candidato B,0.0034613022697919673,22.0
+300,entre ríos,masculino,60,Terciario/Universitario completo,3,55.0,Candidato C,En blanco,Candidato C,9.046743788374157e-05,7.0
+300,buenos aires,masculino,31,Posgrado,3,46.0,Candidato A,En blanco,Candidato A,0.0018291685805482342,1.0
+300,córdoba,femenino,75,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B,Candidato B,0.0001776172097647614,5.0
+300,córdoba,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,0.00031448888511514353,5.0
+300,jujuy,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,6.050790852583001e-05,9.0
+300,la pampa,femenino,60,Secundario completo,3,65.0,Candidato C,No votó,Candidato C,2.5866305068839273e-05,10.0
+300,río negro,femenino,71,Primario incompleto,4,41.0,No vota,Candidato A,No vota,3.426818650430344e-05,15.0
+300,córdoba,masculino,67,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B,Candidato A,0.00019681945844718122,5.0
+300,santa fe,femenino,32,Primario incompleto,6,52.0,Candidato C,Candidato A,Candidato C,0.00039464427022852053,20.0
+300,san juan,femenino,60,Secundario completo,3,65.0,Candidato C,No votó,Candidato C,5.4619410425761106e-05,17.0
+300,entre ríos,masculino,36,Primario completo,3,51.0,Candidato C,Candidato A,Candidato C,0.00014395223526095282,7.0
+300,córdoba,masculino,65,Terciario/Universitario incompleto,5,56.0,No vota,En blanco,No vota,0.00021336470188932605,5.0
+300,la pampa,femenino,34,Posgrado,1,45.0,En blanco,Candidato C,En blanco,3.7700750030928974e-05,10.0
+300,san luis,femenino,32,Primario incompleto,6,52.0,Candidato C,Candidato A,Candidato C,5.822432023824231e-05,18.0
+300,formosa,masculino,65,Terciario/Universitario incompleto,5,56.0,No vota,En blanco,No vota,3.399530488503196e-05,8.0
+300,catamarca,masculino,36,Primario completo,3,51.0,Candidato C,Candidato A,Candidato C,4.435044422686045e-05,2.0
+300,tierra del fuego,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,2.1945427065622657e-05,22.0
+300,tierra del fuego,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,0.004442455312977839,22.0
+300,san juan,masculino,31,Posgrado,3,46.0,Candidato A,En blanco,Candidato A,8.554120654636686e-05,17.0
+300,chaco,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,9.796450131846345e-05,3.0
+300,chubut,femenino,45,Terciario/Universitario completo,5,61.0,Candidato C,En blanco,Candidato C,6.305001624220123e-05,4.0
+300,tierra del fuego,femenino,32,Primario incompleto,6,52.0,Candidato C,Candidato A,Candidato C,2.5981202592743055e-05,22.0
+300,tierra del fuego,femenino,32,Primario incompleto,6,52.0,Candidato C,Candidato A,Candidato C,0.005012505015635973,22.0
+300,neuquén,femenino,45,Terciario/Universitario completo,6,90.0,No vota,En blanco,No vota,7.382165910818093e-05,14.0
+300,formosa,masculino,74,Secundario incompleto,2,77.0,Candidato C,Candidato A,Candidato C,1.658833001360875e-05,8.0
+300,santa fe,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,0.0003263951410296731,20.0
+300,catamarca,femenino,45,Terciario/Universitario completo,5,61.0,Candidato C,En blanco,Candidato C,4.456587708418004e-05,2.0
+300,neuquén,masculino,50,Primario incompleto,6,59.0,No vota,No votó,No vota,6.190104100316339e-05,14.0
+300,corrientes,masculino,70,Primario incompleto,4,71.0,Candidato A,No votó,Candidato A,5.1502815089870974e-05,6.0
+300,tucumán,femenino,45,Terciario/Universitario completo,6,90.0,No vota,En blanco,No vota,0.00016273798041922143,23.0
+300,caba,masculino,70,Primario incompleto,3,65.0,Candidato C,Candidato A,Candidato C,0.0001664147011841425,24.0
+300,la rioja,masculino,74,Secundario incompleto,2,77.0,Candidato C,Candidato A,Candidato C,1.0139706484508899e-05,11.0
+300,santa cruz,masculino,25,Secundario incompleto,3,55.0,Candidato A,Candidato B,Candidato A,3.791618288824857e-05,19.0
+300,la rioja,masculino,67,Terciario/Universitario completo,1,88.0,Candidato A,Candidato B,Candidato A,1.7062282299711856e-05,11.0
+300,catamarca,femenino,46,Terciario/Universitario completo,2,72.0,En blanco,Candidato B,En blanco,3.963964574680532e-05,2.0
+300,tucumán,masculino,60,Secundario incompleto,6,99.0,Candidato A,No votó,Candidato A,0.00010103801008288966,23.0
+300,santiago del estero,masculino,60,Secundario incompleto,6,99.0,Candidato A,No votó,Candidato A,5.805197395238664e-05,21.0
+300,catamarca,masculino,74,Secundario incompleto,2,77.0,Candidato C,Candidato A,Candidato C,1.2279672867216867e-05,2.0
+300,santiago del estero,femenino,45,Terciario/Universitario completo,5,61.0,Candidato C,En blanco,Candidato C,9.820865855675899e-05,21.0
+300,catamarca,masculino,70,Primario incompleto,4,71.0,Candidato A,No votó,Candidato A,1.844105258655726e-05,2.0
+300,caba,masculino,25,Secundario incompleto,3,55.0,Candidato A,Candidato B,Candidato A,0.00030769556901433237,24.0
+300,entre ríos,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,0.00013698657287428592,7.0
+300,san juan,masculino,37,Secundario incompleto,2,67.0,No vota,No votó,No vota,7.333334463158985e-05,17.0
+300,la rioja,masculino,65,Terciario/Universitario incompleto,5,56.0,No vota,En blanco,No vota,1.8412328205581313e-05,11.0
+300,tucumán,femenino,53,Primario incompleto,5,100.0,Candidato B,Candidato A,Candidato B,0.00011772687542991422,23.0
+300,entre ríos,masculino,60,Primario incompleto,3,89.0,No vota,En blanco,No vota,9.046743788374157e-05,7.0
+300,jujuy,femenino,75,Terciario/Universitario incompleto,1,48.0,Candidato B,Candidato B,Candidato B,2.863820783301805e-05,9.0
+300,la rioja,masculino,60,Terciario/Universitario completo,3,55.0,Candidato C,En blanco,Candidato C,2.2922056018804817e-05,11.0
+300,jujuy,femenino,25,Secundario incompleto,4,50.0,En blanco,Candidato A,En blanco,9.928582284335696e-05,9.0
+300,santa fe,masculino,60,Terciario/Universitario completo,3,55.0,Candidato C,En blanco,Candidato C,0.000230900936475141,20.0
+300,buenos aires,masculino,60,Primario incompleto,3,89.0,No vota,En blanco,No vota,0.0011056014237641571,1.0
+400,santa cruz,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,3.9926889556564786e-05,19.0
+400,córdoba,femenino,38,Posgrado,2,93.0,Candidato A,Candidato C,Candidato A,0.00038604131812622474,5.0
+400,santa cruz,masculino,78,Secundario incompleto,3,88.0,En blanco,En blanco,En blanco,4.9405935278626926e-06,19.0
+400,misiones,masculino,55,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco,Candidato A,7.362058844134931e-05,13.0
+400,corrientes,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,8.709232311906793e-05,6.0
+400,tierra del fuego,femenino,38,Posgrado,2,93.0,Candidato A,Candidato C,Candidato A,2.2089048970502388e-05,22.0
+400,tierra del fuego,femenino,38,Posgrado,2,93.0,Candidato A,Candidato C,Candidato A,0.004688479636036816,22.0
+400,misiones,femenino,57,Posgrado,5,89.0,En blanco,En blanco,En blanco,8.374593273537023e-05,13.0
+400,santa cruz,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,2.8307877451794673e-05,19.0
+400,la pampa,masculino,26,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A,Candidato A,3.622144441066776e-05,10.0
+400,entre ríos,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,7.838883568335633e-05,7.0
+400,san luis,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,5.2565617185980975e-05,18.0
+400,córdoba,masculino,23,Terciario/Universitario completo,4,48.0,En blanco,Candidato B,En blanco,0.00043244555559286533,5.0
+400,san juan,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,4.274187889220748e-05,17.0
+400,santiago del estero,masculino,26,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A,Candidato A,0.00012588459962708284,21.0
+400,catamarca,femenino,54,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A,Candidato C,2.947121488132048e-05,2.0
+400,entre ríos,masculino,63,Primario completo,1,66.0,En blanco,Candidato C,En blanco,8.08447702567997e-05,7.0
+400,tierra del fuego,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,1.4060584487725512e-05,22.0
+400,tierra del fuego,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,0.00376354020642087,22.0
+400,buenos aires,masculino,23,Terciario/Universitario completo,4,48.0,En blanco,Candidato B,En blanco,0.0018333910645516982,1.0
+400,córdoba,masculino,63,Primario completo,1,66.0,En blanco,Candidato C,En blanco,0.0002180180516074293,5.0
+400,mendoza,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,0.0001607272737509052,12.0
+400,caba,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,0.0003141011059719683,24.0
+400,santa cruz,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,3.479958755235844e-05,19.0
+400,tucumán,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,0.00017243245899860316,23.0
+400,buenos aires,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,0.0015004754890404852,1.0
+400,san juan,masculino,25,Primario incompleto,6,97.0,Candidato B,No votó,Candidato B,9.06110597886213e-05,17.0
+400,corrientes,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,0.00012011099905091773,6.0
+400,chaco,masculino,32,Primario incompleto,3,41.0,No vota,No votó,No vota,0.00012164775343313084,3.0
+400,santa fe,masculino,55,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco,Candidato A,0.00024042306876866708,20.0
+400,buenos aires,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,0.0007873352825506768,1.0
+400,chaco,masculino,63,Terciario/Universitario completo,4,71.0,En blanco,Candidato B,En blanco,5.70609828087165e-05,3.0
+400,misiones,masculino,26,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A,Candidato A,0.00014472779354730335,13.0
+400,la pampa,masculino,25,Primario incompleto,6,97.0,Candidato B,No votó,Candidato B,3.9022071555822486e-05,10.0
+400,córdoba,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,0.00022590289418532644,5.0
+400,santiago del estero,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,4.535579756101855e-05,21.0
+400,santa cruz,masculino,31,Posgrado,4,64.0,No vota,Candidato A,No vota,4.110458917657856e-05,19.0
+400,chaco,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,4.975062785033828e-05,3.0
+400,córdoba,masculino,78,Secundario incompleto,3,88.0,En blanco,En blanco,En blanco,9.489099255403725e-05,5.0
+400,catamarca,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,4.435044422686045e-05,2.0
+400,la rioja,masculino,31,Posgrado,4,64.0,No vota,Candidato A,No vota,4.483875870345153e-05,11.0
+400,santa fe,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,0.00028361017556600174,20.0
+400,caba,femenino,54,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A,Candidato C,0.00027866958203813904,24.0
+400,formosa,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,5.693172309432475e-05,8.0
+400,formosa,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,4.3804680988317477e-05,8.0
+400,formosa,femenino,73,Primario incompleto,3,62.0,No vota,En blanco,No vota,2.11267822078082e-05,8.0
+400,santa fe,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,0.00020940073731464553,20.0
+400,córdoba,femenino,73,Primario incompleto,3,62.0,No vota,En blanco,No vota,0.00019595772701790285,5.0
+400,chubut,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,2.8408412785210482e-05,4.0
+400,chubut,masculino,35,Secundario completo,1,85.0,Candidato C,Candidato B,Candidato C,6.898160091373405e-05,4.0
+400,salta,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,0.00010540411599123343,16.0
+400,neuquén,masculino,25,Primario incompleto,6,97.0,Candidato B,No votó,Candidato B,7.969579501776187e-05,14.0
+400,mendoza,masculino,63,Primario completo,1,66.0,En blanco,Candidato C,En blanco,0.00011334640733108247,12.0
+400,la rioja,femenino,57,Posgrado,5,89.0,En blanco,En blanco,En blanco,2.5449801544688058e-05,11.0
+400,jujuy,masculino,23,Terciario/Universitario completo,4,48.0,En blanco,Candidato B,En blanco,9.272230179035333e-05,9.0
+400,mendoza,masculino,55,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco,Candidato A,0.00012512340353122028,12.0
+400,la pampa,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,3.313357345575358e-05,10.0
+400,córdoba,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,0.0001776172097647614,5.0
+400,buenos aires,femenino,38,Posgrado,2,93.0,Candidato A,Candidato C,Candidato A,0.0017870011892755456,1.0
+400,salta,masculino,71,Secundario completo,2,79.0,No vota,Candidato A,No vota,4.7940991848853685e-05,16.0
+400,salta,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,0.00014402404621339268,16.0
+400,río negro,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,6.350960633781636e-05,15.0
+400,tucumán,femenino,38,Posgrado,2,93.0,Candidato A,Candidato C,Candidato A,0.00016278106699068535,23.0
+400,la rioja,masculino,25,Primario incompleto,6,97.0,Candidato B,No votó,Candidato B,4.937721089765098e-05,11.0
+400,misiones,masculino,63,Primario completo,1,66.0,En blanco,Candidato C,En blanco,6.440006214807067e-05,13.0
+400,caba,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,0.00021205774255492053,24.0
+400,tierra del fuego,femenino,54,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A,Candidato C,1.3974411344797675e-05,22.0
+400,tierra del fuego,femenino,54,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A,Candidato C,0.003404284373554715,22.0
+400,santiago del estero,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,7.327589586963796e-05,21.0
+400,corrientes,masculino,25,Primario incompleto,6,97.0,Candidato B,No votó,Candidato B,0.00014293251973630675,6.0
+400,misiones,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,8.913175416836008e-05,13.0
+400,santa cruz,masculino,26,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A,Candidato A,3.8289599840935866e-05,19.0
+400,chubut,masculino,26,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A,Candidato A,6.49745497675896e-05,4.0
+400,buenos aires,femenino,54,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A,Candidato C,0.0013273105583269955,1.0
+400,buenos aires,masculino,31,Posgrado,4,64.0,No vota,Candidato A,No vota,0.0018291685805482342,1.0
+400,san juan,masculino,23,Terciario/Universitario completo,4,48.0,En blanco,Candidato B,En blanco,9.237760921864198e-05,17.0
+400,tucumán,masculino,32,Primario incompleto,3,41.0,No vota,No votó,No vota,0.00016950257213905668,23.0
+400,la rioja,masculino,35,Secundario completo,1,85.0,Candidato C,Candidato B,Candidato C,3.968273231826924e-05,11.0
+400,san luis,masculino,26,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A,Candidato A,6.290639433732149e-05,18.0
+400,tierra del fuego,masculino,35,Secundario completo,1,85.0,Candidato C,Candidato B,Candidato C,2.527745525883238e-05,22.0
+400,tierra del fuego,masculino,35,Secundario completo,1,85.0,Candidato C,Candidato B,Candidato C,0.0048105438929940975,22.0
+400,san luis,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,5.160335042328679e-05,18.0
+400,neuquén,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,7.007312739082e-05,14.0
+400,santiago del estero,femenino,57,Posgrado,5,89.0,En blanco,En blanco,En blanco,6.302129186122528e-05,21.0
+400,san juan,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,7.752710425407795e-05,17.0
+400,córdoba,masculino,26,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A,Candidato A,0.0004172790824375659,5.0
+400,corrientes,masculino,71,Secundario completo,2,79.0,No vota,Candidato A,No vota,4.616008022834504e-05,6.0
+400,río negro,masculino,78,Secundario incompleto,3,88.0,En blanco,En blanco,En blanco,1.7464423633375098e-05,15.0
+400,mendoza,masculino,63,Terciario/Universitario completo,4,71.0,En blanco,Candidato B,En blanco,0.00011334640733108247,12.0
+400,corrientes,masculino,32,Primario incompleto,3,41.0,No vota,No votó,No vota,0.00012611439467489043,6.0
+400,santiago del estero,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,0.0001000613811297075,21.0
+400,corrientes,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,0.00011782741076333003,6.0
+400,tierra del fuego,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,1.459198553578051e-05,22.0
+400,tierra del fuego,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,0.00372549476381823,22.0
+400,chubut,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,6.260478833707406e-05,4.0
+400,jujuy,masculino,25,Primario incompleto,6,97.0,Candidato B,No votó,Candidato B,9.355530883865576e-05,9.0
+400,salta,femenino,73,Primario incompleto,3,62.0,No vota,En blanco,No vota,5.2034216137925974e-05,16.0
+400,caba,masculino,63,Terciario/Universitario completo,4,71.0,En blanco,Candidato B,En blanco,0.0002037851208338481,24.0
+400,caba,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,0.00029791491729202276,24.0
+400,neuquén,masculino,32,Primario incompleto,3,41.0,No vota,No votó,No vota,8.545503340343902e-05,14.0
+400,mendoza,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,0.00012130306086141949,12.0
+400,jujuy,masculino,35,Secundario completo,1,85.0,Candidato C,Candidato B,Candidato C,8.68481658807724e-05,9.0
+400,santa cruz,femenino,29,Secundario incompleto,4,55.0,Candidato A,En blanco,Candidato A,4.1937596224881e-05,19.0
+400,chubut,femenino,57,Posgrado,5,89.0,En blanco,En blanco,En blanco,4.210994251073667e-05,4.0
+400,chubut,femenino,73,Primario incompleto,3,62.0,No vota,En blanco,No vota,2.2290119637334007e-05,4.0
+400,tierra del fuego,masculino,78,Secundario incompleto,3,88.0,En blanco,En blanco,En blanco,1.9388957158763475e-06,22.0
+400,tierra del fuego,masculino,78,Secundario incompleto,3,88.0,En blanco,En blanco,En blanco,0.001076503625835524,22.0
+400,santa fe,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,0.0002876459510931221,20.0
+400,chaco,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,7.982505473215363e-05,3.0
+400,la pampa,masculino,32,Primario incompleto,3,41.0,No vota,No votó,No vota,3.857684365069533e-05,10.0
+400,san juan,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,6.399792081440743e-05,17.0
+400,santa fe,masculino,63,Terciario/Universitario completo,4,71.0,En blanco,Candidato B,En blanco,0.0002045319547392227,20.0
+400,jujuy,femenino,57,Posgrado,5,89.0,En blanco,En blanco,En blanco,5.859773719092961e-05,9.0
+400,chaco,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,0.00011315969885473883,3.0
+400,san juan,masculino,78,Secundario incompleto,3,88.0,En blanco,En blanco,En blanco,1.7651132109718748e-05,17.0
+400,catamarca,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,1.4218568583093214e-05,2.0
+400,la rioja,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,1.668886534702456e-05,11.0
+400,la pampa,femenino,54,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A,Candidato C,2.8121168975451023e-05,10.0
+400,jujuy,masculino,31,Posgrado,4,64.0,No vota,Candidato A,No vota,8.128999816192687e-05,9.0
+400,córdoba,femenino,46,Secundario incompleto,2,93.0,Candidato C,No votó,Candidato C,0.0003613957992488632,5.0
+400,san juan,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,3.415328898039966e-05,17.0
+400,córdoba,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,0.00037769688545271246,5.0
+400,san juan,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,6.131219119315649e-05,17.0
+400,buenos aires,femenino,46,Secundario incompleto,2,93.0,Candidato C,No votó,Candidato C,0.0017115422404517357,1.0
+400,san luis,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,4.478130994149964e-05,18.0
+400,san juan,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,8.018410949435295e-05,17.0
+400,entre ríos,femenino,54,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A,Candidato C,0.0001038817237995083,7.0
+400,salta,femenino,46,Secundario incompleto,2,93.0,Candidato C,No votó,Candidato C,0.00013221832563227893,16.0
+400,tucumán,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,0.00015740960774818347,23.0
+400,salta,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,0.0001234286650536395,16.0
+400,santa cruz,masculino,71,Secundario completo,2,79.0,No vota,Candidato A,No vota,8.703487435711603e-06,19.0
+400,santiago del estero,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,0.0001040971566568279,21.0
+400,río negro,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,8.172086387656605e-05,15.0
+400,misiones,masculino,71,Secundario completo,2,79.0,No vota,Candidato A,No vota,4.084606974779505e-05,13.0
+400,tucumán,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,0.00012582715086513095,23.0
+400,chubut,femenino,46,Secundario incompleto,2,93.0,Candidato C,No votó,Candidato C,6.102494738339704e-05,4.0
+400,la rioja,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,3.80598047931283e-05,11.0
+400,tierra del fuego,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,2.405666906735468e-05,22.0
+400,tierra del fuego,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,0.004632424006562257,22.0
+400,catamarca,femenino,69,Posgrado,1,88.0,Candidato B,En blanco,Candidato B,2.020760201657793e-05,2.0
+400,neuquén,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,6.030683785899839e-05,14.0
+400,santiago del estero,masculino,23,Terciario/Universitario completo,4,48.0,En blanco,Candidato B,En blanco,0.00013287898639472568,21.0
+400,tucumán,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,0.000168798824805146,23.0
+400,neuquén,femenino,46,Secundario incompleto,2,93.0,Candidato C,No votó,Candidato C,7.113592948692999e-05,14.0
+400,buenos aires,masculino,25,Primario incompleto,6,97.0,Candidato B,No votó,Candidato B,0.0018526651241865578,1.0
+400,santiago del estero,masculino,31,Posgrado,4,64.0,No vota,Candidato A,No vota,0.00011373418647425774,21.0
+400,santiago del estero,masculino,63,Terciario/Universitario completo,4,71.0,En blanco,Candidato B,En blanco,5.141664194694314e-05,21.0
+400,formosa,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,5.008095823156165e-05,8.0
+400,santiago del estero,masculino,35,Secundario completo,1,85.0,Candidato C,Candidato B,Candidato C,0.00010702704351637437,21.0
+400,catamarca,femenino,46,Secundario incompleto,2,93.0,Candidato C,No votó,Candidato C,3.963964574680532e-05,2.0
+400,la rioja,masculino,55,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco,Candidato A,2.3984858114914815e-05,11.0
+400,entre ríos,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,6.092441204998123e-05,7.0
+400,mendoza,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,0.00016532317470705656,12.0
+400,chaco,masculino,35,Secundario completo,1,85.0,Candidato C,Candidato B,Candidato C,0.00011871786657358436,3.0
+400,jujuy,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,6.474475471978203e-05,9.0
+400,río negro,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,2.858075907106616e-05,15.0
+400,la pampa,femenino,57,Posgrado,5,89.0,En blanco,En blanco,En blanco,2.84514993566744e-05,10.0
+400,la pampa,femenino,73,Primario incompleto,3,62.0,No vota,En blanco,No vota,1.8354879443629422e-05,10.0
+400,salta,femenino,38,Posgrado,2,93.0,Candidato A,Candidato C,Candidato A,0.00014214259925946822,16.0
+400,la rioja,femenino,46,Secundario incompleto,2,93.0,Candidato C,No votó,Candidato C,3.6077822505788034e-05,11.0
+400,buenos aires,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,0.0017285614361799836,1.0
+400,salta,masculino,78,Secundario incompleto,3,88.0,En blanco,En blanco,En blanco,2.5679596592495623e-05,16.0
+400,buenos aires,masculino,78,Secundario incompleto,3,88.0,En blanco,En blanco,En blanco,0.000427318253588659,1.0
+400,chaco,masculino,63,Primario completo,1,66.0,En blanco,Candidato C,En blanco,5.70609828087165e-05,3.0
+400,córdoba,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,0.00030907433930117776,5.0
+400,córdoba,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,0.00035306572876583886,5.0
+400,córdoba,femenino,54,Terciario/Universitario incompleto,6,64.0,Candidato C,Candidato A,Candidato C,0.000281340949468902,5.0
+400,entre ríos,masculino,34,Terciario/Universitario incompleto,5,67.0,Candidato B,No votó,Candidato B,0.0001398590109718805,7.0
+400,catamarca,femenino,29,Secundario incompleto,4,55.0,Candidato A,En blanco,Candidato A,5.3456072996235295e-05,2.0
+400,buenos aires,femenino,73,Primario incompleto,3,62.0,No vota,En blanco,No vota,0.0008561732615595311,1.0
+400,chaco,masculino,55,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco,Candidato A,6.796188538908797e-05,3.0
+400,la rioja,masculino,45,Secundario incompleto,6,97.0,En blanco,Candidato B,En blanco,3.653741260140317e-05,11.0
+400,san luis,masculino,32,Primario incompleto,3,41.0,No vota,No votó,No vota,5.619925137943813e-05,18.0
+400,entre ríos,masculino,71,Secundario completo,2,79.0,No vota,Candidato A,No vota,6.0378648811438254e-05,7.0
+400,tucumán,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,6.190104100316339e-05,23.0
+400,tierra del fuego,masculino,55,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco,Candidato A,1.180572058111376e-05,22.0
+400,tierra del fuego,masculino,55,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco,Candidato A,0.0029957662273148123,22.0
+400,chaco,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,3.276015650306628e-05,3.0
+400,san luis,femenino,51,Secundario incompleto,5,95.0,Candidato A,Candidato A,Candidato A,4.4221184512468695e-05,18.0
+400,santa fe,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,0.0001660987329934071,20.0
+400,tierra del fuego,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,3.518736669553371e-06,22.0
+400,tierra del fuego,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,0.001965724287707881,22.0
+400,la rioja,femenino,73,Primario incompleto,3,62.0,No vota,En blanco,No vota,1.3471734677718622e-05,11.0
+400,córdoba,masculino,36,Primario completo,4,84.0,Candidato B,Candidato C,Candidato B,0.00038052623697884313,5.0
+400,caba,masculino,32,Primario incompleto,3,41.0,No vota,No votó,No vota,0.0003470766953323542,24.0
+400,mendoza,masculino,25,Primario incompleto,6,97.0,Candidato B,No votó,Candidato B,0.00021490145627153917,12.0
+400,formosa,masculino,55,Terciario/Universitario incompleto,1,79.0,Candidato A,En blanco,Candidato A,3.988380298510087e-05,8.0
+400,catamarca,masculino,26,Terciario/Universitario incompleto,4,45.0,Candidato A,Candidato A,Candidato A,5.233582213817341e-05,2.0
+400,buenos aires,masculino,63,Primario completo,1,66.0,En blanco,Candidato C,En blanco,0.0009882766896679063,1.0
+400,salta,femenino,57,Posgrado,5,89.0,En blanco,En blanco,En blanco,9.369893074353549e-05,16.0
+400,jujuy,femenino,75,Primario incompleto,2,64.0,Candidato A,En blanco,Candidato A,2.863820783301805e-05,9.0
+400,entre ríos,masculino,78,Secundario incompleto,3,88.0,En blanco,En blanco,En blanco,3.293250278892196e-05,7.0
+400,chaco,femenino,73,Primario incompleto,3,62.0,No vota,En blanco,No vota,3.6192720029691816e-05,3.0
+400,santa cruz,masculino,63,Primario completo,1,66.0,En blanco,Candidato C,En blanco,1.599948020360186e-05,19.0
+400,santa fe,masculino,71,Secundario completo,2,79.0,No vota,Candidato A,No vota,0.00015462334279351672,20.0
+400,entre ríos,femenino,46,Secundario incompleto,2,93.0,Candidato C,No votó,Candidato C,0.0001301070836305469,7.0
+400,la pampa,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,2.9930804976935613e-05,10.0
+400,córdoba,masculino,49,Primario completo,3,91.0,Candidato C,Candidato C,Candidato C,0.0003111855813029098,5.0
+400,corrientes,masculino,31,Posgrado,4,64.0,No vota,Candidato A,No vota,0.00013465989801523433,6.0
+400,tucumán,femenino,73,Primario incompleto,3,62.0,No vota,En blanco,No vota,7.303173863134242e-05,23.0
